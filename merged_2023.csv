@@ -1,0 +1,1715 @@
+Name of State/UT,Name of District,Disease/Illness,No. of Cases,No. of Deaths,Date of Start of Outbreak,Date of Reporting
+Assam,Barpeta,Acute Diarrheal Disease,22,00,07/03/2023,08/03/2023
+Jharkhand,Chatra,Acute Diarrheal Disease,22,00,05/03/2023,06/03/2023
+Jharkhand,Chatra,Fever with Rash,13,00,06/03/2023,06/03/2023
+Karnataka,Chikkaballapura,Human Rabies,01,01,05-03-23,07-03-23
+Karnataka,Mandya,Acute Diarrheal Disease,33,00,08-03-23,10-03-23
+Karnataka,Vijayanagar,Human Rabies,01,01,04-03-23,05-03-23
+Kerala,Kannur,Food Poisoning,35,00,08-03-23,10-03-23
+Kerala,Pathanamthitta,Food Poisoning,29,00,09-03-23,10-03-23
+Odisha,Sundargarh,Hepatitis A and E,75,00,15-03-23,20-03-23
+West Bengal,Paschim Medinipur,Food Poisoning,97,00,11-03-23,11-03-23
+Karnataka,Koppal,Human Rabies,01,01,01-03-23,
+Meghalaya,East Khasi Hills,Human Rabies,01,01,28/02/2023,
+West Bengal,Uttar Dinajpur,Fever With Rash,21,00,29-12-22,
+West Bengal,Uttar Dinajpur,Measles,64,00,19-12-22,
+Chhattisgarh,Dhamtari,Chickenpox,14,00,14-03-2023,15-03-2023
+Chhattisgarh,Dhamtari,Acute Diarrheal Disease,11,00,13-03-2023,15-03-2023
+Jharkhand,Chatra,Chickenpox,12,00,14-03-2023,17-03-2023
+Jharkhand,Deoghar,Acute Diarrheal Disease,18,00,17-03-2023,18-03-2023
+Karnataka,Davangere,Human Rabies,01,01,13-03-23,13-03-23
+Karnataka,Koppal,Suspected Human Rabies,01,01,10-03-23,13-03-23
+Karnataka,Mandya,Food Poisoning,126,00,17-03-23,18-03-23
+Kerala,Malappuram,Hepatitis A,28,00,14-03-23,17-03-23
+Odisha,Balangir,Food Poisoning,24,00,18-03-23,18-03-23
+West Bengal,South 24 Paranas,Food Poisoning,120,00,20-03-23,21-03-23
+Arunachal Pradesh,Anjaw,Pyrexia of Unknown Origin,64,00,02-03-2023,
+Bihar,Sheohar,Fever with Rash,15,00,25-02-2023,
+Kerala,Kollam,Food Poisoning,23,00,04-03-23,
+Kerala,Kannur,Measles,12,00,12-02-23,
+Madhya Pradesh,Gwalior,Measles,10,00,04-03-2023,
+Odisha,Rayagada,Fever with rash,12,00,12-02-23,
+Tamil Nadu,Tenkasi,Leptospirosis & Dengue,23,00,20-02-2023,
+Uttarakhand,Rudra Prayag,Typhoid,18,00,07-03-2023,
+Andhra Pradesh,NTR,Acute Diarrheal Disease,22,0,18-03-2023,24-03-2023
+Haryana,Sonipat,Food Poisoning,63,0,24-03-2023,25-03-2023
+Jharkhand,Hazaribagh,Fever with Rash,16,0,22-03-2023,22-03-2023
+Kerala,Ernakulam,Food Poisoning,23,0,21-03-2023,22-03-2023
+Kerala,Kollam,Food Poisoning,23,0,25-03-2023,25-03-2023
+Karnataka,Bagalkote,Chickenpox,10,0,20-03-2023,21-03-2023
+Karnataka,Mandya,Fever with Rash,8,0,20-03-2023,21-03-2023
+Karnataka,Yadgiri,Acute Diarrheal Disease,18,0,18-03-2023,23-03-2023
+Meghalaya,West Garo Hills,Human Rabies,1,1,02-03-2023,23-03-2023
+Odisha,Koraput,Fever with rash,30,0,18-03-2023,03-04-2023
+West Bengal,South 24 Parganas,Food Poisoning,88,0,25-03-2023,25-03-2023
+West Bengal,South 24 Parganas,Food Poisoning,120,0,20-03-2023,21-03-2023
+Andhra Pradesh,Srikakulam,Food Poisoning,37,0,13-03-2023,
+Chhattisgarh,Janjgir-Champa,Chickenpox,15,0,24-02-2023,
+Jharkhand,East Singhbum,Chickenpox,36,0,16-03-2023,
+Kerala,Malappuram,Suspected Typhoid,32,0,16-03-2023,
+Karnataka,Vijaypur,Chickenpox,25,0,06-02-2023,
+Meghalaya,East Jaintia Hills,Human Rabies,1,1,15-03-2023,
+Odisha,Subarnapur,Chickenpox,12,0,10-03-2023,
+Gujarat,Panchmahal,Acute Diarrheal Disease,29,0,31-03-2023,31-03-2023
+Karnataka,Ballari,Acute Diarrheal Disease,95,0,27-03-2023,30-03-2023
+Karnataka,Bagalkote,Chickenpox,24,0,29-03-2023,31-03-2023
+Karnataka,Chitradurga,Chickenpox,19,0,23-03-2023,28-03-2023
+Karnataka,Chamarajanagar,Chickenpox,14,0,27-03-2023,31-03-2023
+Karnataka,Raichur,Acute Diarrheal Disease,10,0,28-03-2023,29-03-2023
+West Bengal,Hooghly,Acute Diarrheal Disease,57,0,26-03-2023,26-03-2023
+West Bengal,South 24 Parganas,Acute Diarrheal Disease,157,0,26-03-2023,28-03-2023
+Bihar,Madhubani,Chickenpox,28,0,24-01-2023,
+Kerala,Palakkad,Chickenpox,12,0,13-03-2023,
+Maharashtra,Pune,Measles,28,0,19-01-2023,
+Maharashtra,Raigad,Leptospirosis,20,1,06-02-2023,
+Odisha,Ganjam,Chickenpox,58,0,15-03-2023,
+Chhattisgarh,Balod,Chickenpox,12,0,05-04-2023,06-04-2023
+Chhattisgarh,Bilaspur,Chickenpox,19,0,03-04-2023,04-04-2023
+Kerala,Malappuram,Food Poisoning,71,0,02-04-2023,10-04-2023
+Kerala,Thiruvananthapuram,Acute Diarrheal Disease,234,0,05-04-2023,05-04-2023
+Kerala,Thiruvananthapuram,Acute Diarrheal Disease,335,0,04-04-2023,05-04-2023
+Kerala,Wayanad,Food Poisoning,16,0,04-04-2023,05-04-2023
+Madhya Pradesh,Khargone,Food Poisoning,53,0,06-04-2023,06-04-2023
+Meghalaya,West Garo Hills,Chickenpox,16,0,03-04-2023,03-04-2023
+Meghalaya,West Jaintia Hills,Human Rabies,1,1,30-03-2023,05-04-2023
+Odisha,Cuttack,Food Poisoning,114,0,08-04-2023,08-04-2023
+Odisha,Cuttack,Acute Diarrheal Disease,52,0,08-04-2023,08-04-2023
+Odisha,Koraput,Fever with Rash,27,0,05-04-2023,06-04-2023
+Punjab,Bathinda,Measles,11,0,29-03-2023,06-04-2023
+Punjab,Jalandhar,Cholera,10,0,04-04-2023,08-04-2023
+Punjab,Sri Muktsar Sahib,Measles,5,0,06-04-2023,06-04-2023
+West Bengal,North 24 Parganas,Acute Diarrheal Disease,351,0,04-04-2023,04-04-2023
+West Bengal,Paschim Medinipur,Acute Diarrheal Disease,123,0,02-04-2023,03-04-2023
+Assam,Chirang,Measles,8,0,21-03-2023,
+Madhya Pradesh,Khargone,Food Poisoning,75,0,27-03-2023,
+Tamil Nadu,Pudukkottai,Suspected Dengue,11,0,27-03-2023,
+Uttar Pradesh,Farrukhabad,Chickenpox,23,0,17-03-2023,
+Bihar,Muzaffarpur,Acute Encephalitic Syndrome,1,0,12-04-2023,13-04-2023
+Kerala,Palakkad,Hepatitis A,13,0,10-04-2023,18-04-2023
+Karnataka,Bellary,Dengue,15,0,12-04-2023,15-04-2023
+Karnataka,Chikkaballapura,Suspected Rabies Death,1,1,08-04-2023,10-04-2023
+Karnataka,Dharwad,Acute Diarrheal Disease,13,0,11-04-2023,11-04-2023
+Karnataka,Vijayanagar,Food Poisoning,32,0,11-04-2023,12-04-2023
+Odisha,Koraput,Fever with Rash,13,0,11-04-2023,15-04-2023
+Punjab,S.A.S Nagar,Acute Diarrheal Disease,19,0,07-04-2023,11-04-2023
+West Bengal,Basirhat,Food Poisoning,87,0,12-04-2023,12-04-2023
+West Bengal,Diamond Harbour,Food Poisoning,114,0,16-04-2023,17-04-2023
+Bihar,Aurangabad,Fever with Rash,17,0,31-03-2023,
+Bihar,Muzaffarpur,Acute Encephalitic Syndrome,1,0,05-04-2023,
+Jharkhand,East Singbhum,Chickenpox,19,0,15-03-2023,
+Kerala,Ernakulam,Hepatitis A,20,0,24-03-2023,
+Kerala,Kollam,Food Poisoning,47,0,02-04-2023,
+Karnataka,Hassan,Human Rabies,1,1,06-04-2023,
+Karnataka,Hassan,Human Rabies,1,1,05-04-2023,
+Karnataka,Mandya,Suspected Rabies Death,1,1,05-04-2023,
+Uttar Pradesh,Gonda,Chickenpox,12,0,28-03-2023,
+Bihar,Banka,Fever with Rash,17,0,11-04-2023,17-04-2023
+Jammu and Kashmir,Shopian,Hepatitis A,5,0,21-04-2023,21-04-2023
+Jharkhand,East Singhbum,Chickenpox,14,0,15-04-2023,17-04-2023
+Kerala,Ernakulam,West Nile Fever,1,0,23-03-2023,25-04-2023
+Kerala,Malappuram,Food Poisoning,19,0,11-04-2023,24-04-2023
+Kerala,Thrissur,West Nile Fever,1,0,08-04-2023,25-04-2023
+Karnataka,Bidar,Acute Diarrheal Disease,40,0,19-04-2023,20-04-2023
+Karnataka,Bangalore,Acute Diarrheal Disease,297,0,19-04-2023,22-04-2023
+Karnataka,Dakshina Kannada,Measles,15,0,18-03-2023,21-04-2023
+Karnataka,Kalaburagi,Acute Diarrheal Disease,11,0,19-04-2023,21-04-2023
+Karnataka,Mandya,Measles,7,0,18-04-2023,18-04-2023
+Karnataka,Tumkur,Acute Diarrheal Disease,50,0,22-04-2023,23-04-2023
+Odisha,Koraput,Acute Diarrheal Disease,30,0,20-04-2023,21-04-2023
+Odisha,Sundargarh,Acute Diarrheal Disease,25,0,18-04-2023,21-04-2023
+Tamil Nadu,Tiruchirappalli,Acute Diarrheal Disease,17,0,22-04-2023,23-04-2023
+West Bengal,Purulia,Acute Diarrheal Disease,89,0,19-04-2023,20-04-2023
+Kerala,Kasaragod,Acute Diarrheal Disease,0,0,12-04-2023,
+Kerala,Kannur,West Nile Fever,1,0,27-03-2023,
+Kerala,Kannur,Hepatitis A,25,0,18-03-2023,
+Karnataka,Davangere,Measles,14,1,24-03-2023,
+Karnataka,Gadag,Measles,61,0,12-04-2023,
+Karnataka,Tumkur,Human Rabies,1,1,16-02-2023,
+Chhattisgarh,Narayanpur,Acute Diarrheal Disease,26,0,29-04-2023,30-04-2023
+Gujarat,Gandhinagar,Acute Diarrheal Disease,50,0,26-04-2023,29-04-2023
+Karnataka,Bagalkote,Suspected Measles,13,0,25-04-2023,26-04-2023
+Karnataka,Chikkaballapura,Acute Diarrheal Disease,17,0,26-04-2023,26-04-2023
+Karnataka,Hassan,Acute Diarrheal Disease,20,0,28-04-2023,29-04-2023
+Kerala,Malappuram,Food Poisoning,23,0,24-04-2023,03-05-2023
+Madhya Pradesh,Mandsaur,Food Poisoning,125,0,19-04-2023,26-04-2023
+Maharashtra,Nanded,Dengue,13,0,28-04-2023,30-04-2023
+Meghalaya,East Khasi Hills,Chickenpox,25,0,24-04-2023,25-04-2023
+Meghalaya,Ri Bhoi,Human Rabies,1,1,20-03-2023,28-04-2023
+Odisha,Mayurbhanj,Acute Diarrheal Disease,65,0,23-04-2023,27-04-2023
+Punjab,S.A.S Nagar,Acute Diarrheal Disease,22,0,27-04-2023,28-04-2023
+Tamil Nadu,Thanjavur,Acute Diarrheal Disease,18,0,27-04-2023,27-04-2023
+Telangana,Hyderabad,Acute Diarrheal Disease,65,0,27-04-2023,29-04-2023
+West Bengal,Basirhat HD,Viral Hepatitis A & E,93,0,24-04-2023,25-04-2023
+West Bengal,Hooghly,Food Poisoning,77,0,25-04-2023,26-04-2023
+Jharkhand,Jamtara,Chickenpox,11,0,05-04-2023,
+Jharkhand,Jamtara,Chickenpox,21,0,04-04-2023,
+Assam,Bongaigaon,Japanese Encephalitis,1,0,02-05-2023,03-05-2023
+Bihar,Sheohar,Acute Encephalitic Syndrome,1,0,03-05-2023,03-05-2023
+Gujarat,Valsad,Acute Diarrheal Disease,10,0,04-05-2023,04-05-2023
+Karnataka,Davangere,Rabies,1,1,03-05-2023,03-05-2023
+Karnataka,Vijayanagar,Acute Diarrheal Disease,36,0,03-05-2023,04-05-2023
+Kerala,Kollam,Acute Diarrheal Disease,44,0,03-05-2023,04-05-2023
+Kerala,Kannur,Food Poisoning,42,0,02-05-2023,03-05-2023
+Kerala,Kannur,Food Poisoning,53,0,05-05-2023,08-05-2023
+Kerala,Palakkad,Food Poisoning,10,0,04-05-2023,08-05-2023
+Kerala,Thrissur,Food Poisoning (Shigella Sonnie),7,1,02-05-2023,10-05-2023
+Madhya Pradesh,Neemuch,Measles,6,0,28-04-2023,02-05-2023
+Odisha,Koraput,Anthrax,5,0,30-04-2023,02-05-2023
+Odisha,Sundargarh,Food Poisoning,34,0,03-05-2023,04-05-2023
+Maharashtra,Yavatmal,Food Poisoning,50,0,03-05-2023,03-05-2023
+Uttar Pradesh,Jalaun,Chickenpox,3,0,30-04-2023,01-05-2023
+West Bengal,Paschim Medinipur,Food Poisoning,59,0,06-05-2023,07-05-2023
+Assam,Golaghat,Chickenpox,5,0,26-04-2023,
+Assam,Marigaon,Acute Flaccid Paralysis,2,0,20-03-2023,
+Assam,Udalguri,Dengue,1,0,27-04-2023,
+Bihar,Rohtas,Fever with Rash,5,0,25-03-2023,
+Gujarat,Surat,Measles,6,0,03-04-2023,
+Gujarat,Surat,Measles,6,0,03-04-2023,
+Jharkhand,Giridih,Measles,7,0,01-04-2023,
+Jharkhand,Khunti,Fever with Rash,15,0,27-04-2023,
+Karnataka,Dakshina Kannada,Leptospirosis,1,1,04-04-2023,
+Kerala,Ernakulam,Dengue,23,0,16-04-2023,
+Kerala,Pathanamthitta,Dengue,10,0,09-04-2023,
+Madhya Pradesh,Indore,Food Poisoning,23,0,18-04-2023,
+Meghalaya,East Khasi Hills,Chickenpox,23,0,23-04-2023
+Jharkhand,Giridih,Measles,34,04,28-12-2022,05-01-2023  
+Karnataka,Koppal,Animal Bite - Dog Bite,01,01,04-01-2023,05-01-2023  
+Kerala,Ernakulam,Acute Diarrheal Disease,73,00,04-01-23,10-01-23  
+Kerala,Kannur,Food Poisoning,16,00,05-01-23,11-01-23  
+Kerala,Malappuram,Monkey Pox,02,00,25-11-22,06-01-23  
+Kerala,Malappuram,Measles,58,00,14-11-22,06-01-23  
+Kerala,Malappuram,Hepatitis A,49,00,11-11-22,06-01-22  
+Kerala,Pathanamthitta,Food Poisoning,32,00,07-01-23,09-01-23  
+Kerala,Wayanad,Measles,16,00,05-01-23,06-01-23  
+Maharashtra,Akola,Food Poisoning,88,00,31-12-2022,02-01-2023  
+Odisha,Bargarh,Acute Diarrheal Disease,34,00,02-01-2023,02-01-2023  
+Tamil Nadu,Pudukkottai,Acute Diarrheal Disease,122,00,05-01-2023,06-01-2023  
+Tamil Nadu,Pudukkottai,Leptospirosis,09,00,04-01-2023,05-01-2023  
+Uttar Pradesh,Fatehpur,Measles,11,00,04-01-2023,05-01-2023  
+Uttar Pradesh,Fatehpur,Measles,29,00,29-12-2022,05-01-2023  
+Assam,Goalpara,Chickenpox,19,00,17-12-2022,  
+Bihar,Bhojpur,Chickenpox,23,00,16-12-2022,  
+Bihar,Madhubani,Chickenpox,20,00,08-12-2022,  
+Gujarat,Junagadh,Measles,12,00,15-10-2022,  
+Gujarat,Surat,Measles,12,00,15-10-2022,  
+Jharkhand,Simdega,Chickenpox,12,00,14-12-2022,  
+Madhya Pradesh,Gwalior,Diphtheria,02,01,21-10-2022,  
+Madhya Pradesh,Bhind,Chikungunya,118,00,08-11-2022,  
+Meghalaya,South Garo Hills,Dengue,33,00,15-10-2022,  
+Meghalaya,East Khasi Hills,Acute Diarrheal Disease,31,00,16-12-2022,  
+Maharashtra,Thane,Dengue,03,01,21-09-2022,  
+Maharashtra,Amravati,Acute Diarrheal Disease,44,00,16-12-2022,  
+Mizoram,Serchhip,Food Poisoning,22,00,01-12-2022,  
+Uttar Pradesh,Bhadohi,Measles,21,00,23-11-2022,  
+Uttar Pradesh,Farrukhabad,Measles,19,00,06-12-2022,  
+Uttar Pradesh,Pilibhit,Leptospirosis,53,00,09-11-2022,  
+Uttar Pradesh,Pratapgarh,Measles,27,00,14-12-2022,  
+Assam,Jorhat,Japanese Encephalitis,02,00,16-05-2023,16-05-2023
+Assam,Karbi Anglong,Dysentery (Shigella),15,01,15-05-2023,16-05-2023
+Karnataka,Koppal,Cholera,35,00,15-05-23,18-05-23
+Karnataka,Koppal,Cholera,36,00,17-05-23,19-05-23
+Kerala,Ernakulam,Food Poisoning,70,00,21-05-23,23-05-23
+Kerala,Kannur,Food Poisoning,23,00,15-05-23,18-05-23
+Kerala,Malappuram,Food Poisoning,135,00,17-05-23,19-05-23
+Kerala,Pathanamthitta,Dengue,10,00,18-05-23,20-05-23
+Madhya Pradesh,Ashoknagar,Fever with Rash,06,00,13-05-2023,16-05-2023
+Maharashtra,Yavatmal,Food Poisoning,21,00,17-05-2023,19-05-2023
+Odisha,Jaipur,Food Poisoning,16,00,20-05-23,20-05-23
+West Bengal,Purulia,Acute Diarrheal Disease,30,00,17-05-2023,18-05-2023
+West Bengal,Purulia,Food Poisoning,60,00,16-05-23,17-05-23
+Chhattisgarh,Surguja,Fever,18,00,18-04-2023,
+Gujarat,Surat,Measles,06,00,10-04-2023,
+Jammu and Kashmir,Udhampur,Measles,04,00,01-05-2023,
+Kerala,Ernakulam,Dengue,26,00,30-03-23,
+Kerala,Pathanamthitta,Dengue,08,00,03-05-23,
+Kerala,Trivandrum,Adenovirus,117,00,29-04-23,
+Uttar Pradesh,Fatehpur,Chickenpox,22,00,10-05-2023,
+Chhattisgarh,Surguja,Fever,06,00,23-05-2023,24-05-2023
+Gujarat,Junagadh,Food Poisoning,109,00,21-05-2023,22-05-2023
+Jharkhand,West Singhbhum,Chickenpox,07,00,23-05-2023,23-05-2023
+Karnataka,Dakshina Kannada,Acute Diarrheal Disease,16,00,22-05-23,22-05-23
+Karnataka,Haveri,Acute Diarrheal Disease,52,00,23-05-23,24-05-23
+Karnataka,Raichur,Acute Diarrheal Disease,50,01,25-05-23,26-05-23
+Karnataka,Raichur,Cholera,61,00,25-05-23,26-05-23
+Karnataka,Raichur,Acute Diarrheal Disease,17,00,27-05-23,28-05-23
+Kerala,Alappuzha,West Nile Fever,01,00,27-05-23,27-05-23
+Kerala,Kollam,Food Poisoning,15,00,26-05-2023,27-05-2023
+Kerala,Kozhikode,Monkey Pox,01,00,24-05-23,29-05-23
+Kerala,Kannur,Food Poisoning,43,00,26-05-23,27-05-23
+Kerala,Wayanad,Food Poisoning,46,00,19-05-23,26-05-23
+Madhya Pradesh,Katni,Measles,09,00,22-04-2023,22-05-2023
+Odisha,Koraput,Suspected Anthrax,07,00,28-05-23,01-06-23
+Andhra Pradesh,Anantapur,Acute Diarrheal Disease (Klebsiella),32,01,09-05-2023,
+Gujarat,Surat,Measles,10,00,05-04-2023,
+Gujarat,Surat,Fever with Rash,07,00,15-04-2023,
+Gujarat,Surat,Measles,08,00,15-04-2023,
+Kerala,Kozhikode,Dengue,15,00,10-05-23,
+Kerala,Kottayam,Suspected Dengue,05,00,08-05-23,
+Kerala,Kannur,Acute Diarrheal Disease,51,00,17-05-23,
+Kerala,Kannur,West Nile Fever,01,00,11-05-23,
+Kerala,Malappuram,Dengue,09,00,11-05-23,
+Kerala,Thrissur,Dengue,63,00,26-04-23,
+Assam,Cachar,Human Rabies,1,1,27-05-2023,29-05-2023
+Assam,Marigoon,Scrub Typhus,2,0,30-05-2023,31-05-2023
+Bihar,Supaul,Acute Diarrheal Disease,50,0,29-05-2023,29-05-2023
+Chhattisgarh,Balod,Acute Diarrheal Disease,38,0,28-05-2023,03-06-2023
+Jharkhand,East Singhbum,Fever with Rash,14,0,02-06-2023,02-06-2023
+Karnataka,Davanagere,Food Poisoning,15,0,02-06-23,03-06-23
+Karnataka,Dakshina Kannada,Acute Diarrheal Disease,27,0,02-06-23,03-06-23
+Karnataka,Koppal,Cholera,32,0,03-06-23,04-06-23
+Karnataka,Raichur,Cholera,101,0,02-06-23,03-06-23
+Kerala,Alappuzha,Dengue,22,0,29-05-23,02-06-23
+Kerala,Kasaragod,Food Poisoning,47,0,01-06-23,02-06-23
+Kerala,Kollam,Food Poisoning,24,0,30-05-23,31-05-23
+Kerala,Palakkad,Acute Diarrheal Disease,16,0,04-06-23,05-06-23
+Kerala,Palakkad,Food Poisoning,14,0,29-05-23,07-06-23
+Kerala,Thrissur,Food Poisoning,35,0,30-05-23,03-06-23
+Kerala,Wayanad,Food Poisoning,114,0,29-05-23,02-06-23
+Maharashtra,Gadchiroli,Malaria,19,1,29-05-2023,29-05-2023
+Maharashtra,Satara,Food Poisoning,101,0,30-05-2023,03-06-2023
+Punjab,Bathinda,Measles,3,0,01-06-2023,01-06-2023
+Tripura,Unakoti,Acute Diarrheal Disease,23,0,31-05-2023,01-06-2023
+West Bengal,Nadia,Acute Diarrheal Disease,49,0,09-06-23,10-06-23
+West Bengal,Pachim Medinipur,Food Poisoning,78,0,03-06-23,03-06-23
+Assam,Darrang,Acute Diarrheal Disease,7,0,25-05-2023,
+Assam,Marigoon,Measles,8,0,24-05-2023,
+Assam,Tinsukia,Mushroom Poisoning,7,0,26-05-2023,
+Bihar,Gaya,Acute Diarrheal Disease,12,0,25-05-2023,
+Chhattisgarh,Raipur,Acute Diarrheal Disease,9,0,23-05-2023,
+Jharkhand,East Singhbum,Chickenpox,11,0,23-05-2023,
+Kerala,Ernakulam,Dengue,41,0,09-05-23,
+Kerala,Idukki,Dengue,16,0,22-05-23,
+Kerala,Idukki,Dengue,9,0,22-05-23,
+Kerala,Kottayam,Dengue,11,0,22-05-23,
+Kerala,Kottayam,Dengue,9,0,22-05-23,
+Kerala,Pathanamthitta,Dengue,19,0,23-05-23,
+Kerala,Thrissur,Dengue,48,0,04-05-23,
+Kerala,Thiruvananthapuram,Dengue,12,0,15-04-23,
+Kerala,Wayanad,Measles,29,0,01-04-23,
+Kerala,Wayanad,Acute Gastroenteritis,45,0,22-05-2023,
+Mizoram,Aizawl,Fever,30,0,25-05-2023,
+Madhya Pradesh,Ashoknagar,Fever with Rash,6,0,25-05-2023,
+Maharashtra,Gadchiroli,Malaria,6,1,25-05-2023,
+Maharashtra,Gadchiroli,Malaria,21,1,23-05-2023,
+Punjab,Bathinda,Measles,5,0,24-05-2023,
+Chhattisgarh,Narayanpur,Acute Diarrheal Disease,5,0,04-06-2023,05-06-2023
+Gujarat,Valsad,Food Poisoning,9,0,06-06-2023,07-06-2023
+Karnataka,Bagalakote,Cholera,13,0,05-06-23,06-06-23
+Karnataka,BBMP,Acute Diarrheal Disease,99,0,07-06-23,10-06-23
+Karnataka,Hassan,Acute Diarrheal Disease,12,0,06-06-23,07-06-23
+Karnataka,Hassan,Acute Diarrheal Disease,35,0,07-06-23,07-06-23
+Karnataka,Koppal,Cholera,34,0,05-06-23,05-06-23
+Karnataka,Koppal,Acute Gastroenteritis,48,0,06-06-23,07-06-23
+Karnataka,Koppal,Cholera,124,1,06-06-2023,07-06-23
+Karnataka,Koppal,Acute Gastroenteritis,21,0,07-06-23,08-06-23
+Karnataka,Koppal,Cholera,27,0,06-06-23,08-06-23
+Karnataka,Koppal,Acute Diarrheal Disease,63,0,08-06-23,08-06-23
+Karnataka,Raichur,Acute Diarrheal Disease,21,0,06-06-23,07-06-23
+Kerala,Kollam,Food Poisoning,13,0,03-06-2023,05-06-2023
+Kerala,Kannur,Acute Diarrheal Disease,30,0,05-06-23,07-06-23
+Kerala,Malappuram,Food Poisoning,175,0,04-06-23,12-06-23
+Kerala,Palakkad,Acute Diarrheal Disease,9,0,08-06-23,12-06-23
+Madhya Pradesh,Gwalior,Measles,6,1,05-06-2023,05-06-2023
+Maharashtra,Yavatmal,Acute Diarrheal Disease,107,0,03-06-2023,05-06-2023
+Odisha,Koraput,Food Poisoning,149,0,04-06-23,04-06-23
+Uttarakhand,Pauri Garhwal,Fever,25,0,07-06-2023,07-06-2023
+Uttar Pradesh,Unnao,Food Poisoning,20,0,04-06-2023,07-06-2023
+Gujarat,Sabarkantha,Measles,16,0,02-05-2023,
+Karnataka,Udupi,Acute Diarrheal Disease,3,2,25-05-23,
+Kerala,Ernakulam,Dengue,31,0,10-05-23,
+Uttar Pradesh,Fatehpur,Measles,3,0,16-05-2023,
+Andhra Pradesh,YSR Kadapa,Acute Diarrheal Disease,23,0,10-06-2023,12-06-2023
+Assam,Dhemaji,Acute Diarrheal Disease,7,0,16-06-2023,16-06-2023
+Assam,Dibrugarh,Cholera,1,0,12-06-2023,12-06-2023
+Assam,Lakhimpur,Rabies,1,1,13-06-2023,13-06-2023
+Bihar,Arwal,Fever with Rash,5,0,13-06-2023,14-06-2023
+Jammu and Kashmir,Bandipora,Jaundice,17,0,16-06-2023,16-06-2023
+Jammu and Kashmir,Bandipora,Hepatitis A,16,0,16-06-2023,16-06-2023
+Jharkhand,Lohardaga,Acute Diarrheal Disease,5,0,16-06-2023,16-06-2023
+Karnataka,Ballari,Acute Diarrheal Disease,19,0,17-06-23,17-06-23
+Karnataka,Dharwad,Acute Diarrheal Disease,30,0,12-06-23,12-06-23
+Karnataka,Hassan,Acute Diarrheal Disease,30,0,12-06-23,12-06-23
+Karnataka,Koppal,Cholera,25,0,14-06-23,15-06-23
+Karnataka,Koppal,Acute Diarrheal Disease,48,0,14-06-23,15-06-23
+Karnataka,Shivamogga,Cholera,124,0,12-06-23,16-06-23
+Karnataka,Udupi,Acute Diarrheal Disease,15,0,16-06-23,15-06-23
+Karnataka,Vijayanagara,Suspected Human Rabies,1,1,13-06-23,13-06-23
+Maharashtra,Osmanabad,Dengue,10,0,15-06-2023,27-06-2023
+Maharashtra,Satara,Acute Diarrheal Disease,23,1,12-06-2023,14-06-2023
+Maharashtra,Washim,Dengue,48,0,12-06-2023,12-06-2023
+Nagaland,Longleng,Acute Diarrheal Disease,48,0,17-06-2023,18-06-2023
+Rajasthan,Dausa,Acute Diarrheal Disease,236,0,15-06-2023,16-06-2023
+Uttarakhand,Pauri Garhwal,Dysentery,20,0,15-06-2023,16-06-2023
+West Bengal,Diamond Harbour,Acute Diarrheal Disease,97,0,11-06-23,13-06-23
+Karnataka,Udupi,Suspected Human Rabies,1,1,06-06-23,
+Karnataka,Vijayapur,Acute Diarrheal Disease,41,0,02-06-23,
+Kerala,Ernakulam,Dengue,17,0,06-05-23,
+Uttarakhand,Almora,Acute Diarrheal Disease,97,0,08-01-2023,
+Andhra Pradesh,Chittoor,Dengue,6,0,14/06/2023,20/06/2023
+Andhra Pradesh,East Godavari,Acute Diarrheal Disease,23,0,16/06/2023,20/06/2023
+Andhra Pradesh,East Godavari,Food Poisoning,14,0,17/06/2023,20/06/2023
+Andhra Pradesh,West Godavari,Fever,17,0,17/06/2023,20/06/2023
+Andhra Pradesh,Y.S.R Kadapa,Dengue,6,0,15/06/2023,20/06/2023
+Andhra Pradesh,Y.S.R Kadapa,Food Poisoning,11,0,17/06/2023,20/06/2023
+Andhra Pradesh,Y.S.R Kadapa,Typhoid,7,0,19/06/2023,20/06/2023
+Andhra Pradesh,Y.S.R Kadapa,Acute Diarrheal Disease,12,0,17/06/2023,20/06/2023
+Bihar,Katihar,Food Poisoning,15,0,15/06/2023,20/06/2023
+Delhi,New Delhi,Dengue,10,0,17/06/2023,21/06/2023
+Delhi,New Delhi,Chikungunya,8,0,18/06/2023,21/06/2023
+Gujarat,Kheda,Food Poisoning,42,0,15/06/2023,21/06/2023
+Himachal Pradesh,Chamba,Dengue,5,0,15/06/2023,21/06/2023
+Jharkhand,East Singhbhum,Acute Diarrheal Disease,25,0,18/06/2023,21/06/2023
+Karnataka,Belagavi,Chikungunya,9,0,16/06/2023,20/06/2023
+Karnataka,Belagavi,Food Poisoning,12,0,19/06/2023,20/06/2023
+Karnataka,Chikkamagaluru,Dengue,15,0,16/06/2023,20/06/2023
+Karnataka,Kolar,Typhoid,18,0,18/06/2023,20/06/2023
+Kerala,Ernakulam,Leptospirosis,6,0,17/06/2023,21/06/2023
+Kerala,Kozhikode,Food Poisoning,38,0,18/06/2023,21/06/2023
+Maharashtra,Mumbai,Malaria,22,0,15/06/2023,20/06/2023
+Maharashtra,Pune,Hepatitis A,19,0,18/06/2023,20/06/2023
+Odisha,Ganjam,Food Poisoning,33,0,16/06/2023,21/06/2023
+Punjab,Ludhiana,Acute Diarrheal Disease,27,0,17/06/2023,20/06/2023
+Rajasthan,Jaipur,Dengue,20,0,18/06/2023,21/06/2023
+Tamil Nadu,Chennai,Typhoid,13,0,17/06/2023,21/06/2023
+Telangana,Hyderabad,Food Poisoning,21,0,19/06/2023,21/06/2023
+Uttar Pradesh,Lucknow,Acute Diarrheal Disease,34,0,16/06/2023,21/06/2023
+Uttarakhand,Dehradun,Dengue,11,0,15/06/2023,21/06/2023
+West Bengal,Kolkata,Malaria,29,0,18/06/2023,21/06/2023
+Andhra Pradesh,Kurnool,Acute Diarrheal Disease,31,00,22-06-2023,28-06-2023
+Arunachal Pradesh,West Siang,Suspected Mushroom Poisoning,16,00,26-06-2023,27-06-2023
+Assam,Darrang,Leptospirosis,08,01,27-06-2023,30-06-2023
+Assam,Kokrajhar,Measles,08,00,25-06-2023,27-06-2023
+Assam,Udalguri,Human Rabies,01,01,29-06-2023,29-06-2023
+Bihar,Begusarai,Fever with Rash,10,00,28-06-2023,30-06-2023
+Bihar,Gopalganj,Chickenpox,08,00,28-06-2023,30-06-2023
+Bihar,Purbi Champaran,Fever with Rash,16,00,27-06-2023,27-06-2023
+Bihar,Rohtas,Fever with Rash,08,00,26-06-2023,26-06-2023
+Bihar,Vaishali,Fever with Rash,11,00,28-06-2023,30-06-2023
+Chhattisgarh,Balod,Acute diarrheal Disease,65,00,01-07-2023,02-07-2023
+Chhattisgarh,Baloda Bazar,Acute Diarrheal Disease,47,00,28-06-2023,28-06-2023
+Chhattisgarh,Bastar,Acute Diarrheal Disease,75,00,01-07-2023,02-07-2023
+Chhattisgarh,Bijapur,Acute Diarrheal Disease,74,00,22-06-2023,26-06-2023
+Gujarat,Anand,Acute Diarrheal Disease,07,00,25-06-2023,26-06-2023
+Gujarat,Dohad,Acute Diarrheal Diseases,39,00,26-06-2023,26-06-2023
+Gujarat,Gir Somnath,Acute Diarrheal Disease,73,00,24-06-2023,27-06-2023
+Gujarat,Junagadh,Acute Diarrheal Diseases,45,00,30-06-2023,30-06-2023
+Gujarat,Patan,Hepatitis A,10,00,23-06-2023,26-06-2023
+Haryana,Sonipat,Acute Diarrheal Disease,37,00,28-06-2023,28-06-2023
+Jammu and Kashmir,Kupwara,Measles,10,00,01-07-2023,01-07-2023
+Jharkhand,Deoghar,Acute Diarrheal Disease,11,00,24-06-2023,26-06-2023
+Jharkhand,Khunti,Chickenpox,06,00,01-07-2023,01-07-2023
+Jharkhand,West Singhbhum,Malaria,85,00,02-07-2023,02-07-2023
+Karnataka,Ballari,Acute Diarrheal Disease,43,00,28-06-2023,29-06-2023
+Karnataka,Davangere,Acute Diarrheal Disease,88,00,28-06-2023,28-06-2023
+Karnataka,Kalaburagi,Mumps,28,0,01-07-2023,01-07-2023
+Karnataka,Koppal,Acute Diarrheal Disease,34,0,26-06-2023,26-06-2023
+Karnataka,Raichur,Acute Diarrheal Disease,88,0,01-07-2023,02-07-2023
+Karnataka,Udupi,Acute Diarrheal Disease,11,0,23-06-2023,27-06-2023
+Karnataka,Vijayanagar,Acute Diarrheal Disease,54,0,01-07-2023,01-07-2023
+Karnataka,Yadgir,Acute Diarrheal Disease,55,0,27-06-2023,30-06-2023
+Karnataka,BBMP,Acute Diarrheal Disease,65,00,20-06-23,28-06-23
+Kerala,Alappuzha,Food Poisoning,20,00,20-06-23,27-06-2023
+Kerala,Alappuzha,West Nile Fever,0,1,20-06-2023,27-06-2023
+Kerala,Malappuram,Monkey pox,01,00,22-06-23,26-06-2023
+Kerala,Pathanamthitta,Dengue,27,00,24-06-23,24-06-23
+Kerala,Pathanamthitta,Dengue,18,01,25-06-23,25-06-23
+Kerala,Thiruvananthapuram,Zika Virus Disease,01,0,23-06-2023,30-06-2023
+Kerala,Wayanad,Acute Diarrheal Disease,32,0,24-06-2023,28-06-2023
+Madhya Pradesh,Bhind,Chickenpox,06,00,27-06-2023,27-06-2023
+Madhya Pradesh,Datia,Chickenpox,08,0,26-06-2023,26-06-2023
+Maharashtra,Chandrapur,Malaria,42,0,26-06-2023,27-06-2023
+Arunachal Pradesh,West Siang,Chickenpox,01,00,29-06-2023,04-07-2023
+Arunachal Pradesh,West Siang,Chickenpox,03,00,29-06-2023,05-07-2023
+Assam,Bongaigaon,Dog Bite,03,00,27-06-2023,03-07-2023
+Assam,Biswanath,Chickenpox,16,00,28-06-2023,04-07-2023
+Assam,Dhemaji,Acute Diarrheal Disease,19,00,28-06-2023,04-07-2023
+Assam,Dhemaji,Acute Diarrheal Disease,21,00,29-06-2023,05-07-2023
+Assam,Dibrugarh,Acute Diarrheal Disease,14,00,24-06-2023,03-07-2023
+Assam,Darrang,Acute Diarrheal Disease,14,00,01-07-2023,04-07-2023
+Bihar,Begusarai,Fever with Rash,14,00,02-07-2023,04-07-2023
+Bihar,Khagaria,Food Poisoning,26,00,02-07-2023,04-07-2023
+Chhattisgarh,Balod,Acute Diarrheal Disease,49,00,03-07-2023,04-07-2023
+Chhattisgarh,Rajnandgaon,Dengue,09,00,03-07-2023,05-07-2023
+Gujarat,Arvalli,Acute Diarrheal Disease,14,00,29-06-2023,03-07-2023
+Gujarat,Banaskantha,Acute Diarrheal Disease,11,00,26-06-2023,03-07-2023
+Gujarat,Banaskantha,Acute Diarrheal Disease,19,00,29-06-2023,05-07-2023
+Gujarat,Gurugram,Acute Diarrheal Disease,19,00,03-07-2023,05-07-2023
+Gujarat,Jamnagar,Acute Diarrheal Disease,12,00,02-07-2023,05-07-2023
+Gujarat,Kachchh,CCHF,02,00,28-06-2023,03-07-2023
+Gujarat,Morbi,Acute Diarrheal Disease,11,00,01-07-2023,04-07-2023
+Gujarat,Panchmahals,Hepatitis A,14,00,02-07-2023,04-07-2023
+Haryana,Nuh,Chickenpox,09,00,29-06-2023,03-07-2023
+Jammu and Kashmir,Bandipora,Hepatitis A,09,00,03-07-2023,05-07-2023
+Jammu and Kashmir,Kupwara,Chickenpox,13,00,29-06-2023,03-07-2023
+Maharashtra,Akola,Dengue,06,00,27-06-2023,03-07-2023
+Maharashtra,Amravati,Malaria,07,00,29-06-2023,03-07-2023
+Maharashtra,Kolhapur,Dengue,14,00,03-07-2023,05-07-2023
+Maharashtra,Latur,Chikungunya,09,00,27-06-2023,03-07-2023
+Maharashtra,Nanded,Acute Diarrheal Disease,09,00,27-06-2023,03-07-2023
+Maharashtra,Satara,Chikungunya,08,00,01-07-2023,04-07-2023
+Maharashtra,Satara,Dengue,07,00,02-07-2023,05-07-2023
+Maharashtra,Sindhudurg,Dengue,12,00,01-07-2023,04-07-2023
+Madhya Pradesh,Umaria,Chickenpox,07,00,28-06-2023,03-07-2023
+Madhya Pradesh,Rewa,Acute Diarrheal Disease,12,00,02-07-2023,04-07-2023
+Uttarakhand,Nainital,Acute Diarrheal Disease,19,00,02-07-2023,05-07-2023
+Uttar Pradesh,Amethi,Chickenpox,12,00,13-06-2023,03-07-2023
+West Bengal,Balasore,Acute Diarrheal Disease,17,00,01-07-2023,04-07-2023
+West Bengal,East Singhbhum,Chickenpox,07,00,01-07-2023,03-07-2023
+West Bengal,East Singhbhum,Dengue,11,00,02-07-2023,05-07-2023
+West Khasi Hills,Scrub Typhus,09,00,28-06-2023,04-07-2023
+Wanaparthy,Acute Diarrheal Disease,18,00,01-07-2023,03-07-2023
+Assam,Bajali,Fever of Unknown Origin,14,00,08-07-2023,12-07-2023
+Assam,Darrang,Acute Diarrheal Disease,12,00,08-07-2023,11-07-2023
+Assam,Dhemaji,Acute Diarrheal Disease,16,00,09-07-2023,12-07-2023
+Assam,Karbi Anglong,Measles,10,00,08-07-2023,11-07-2023
+Assam,Sivasagar,Acute Diarrheal Disease,11,00,09-07-2023,12-07-2023
+Assam,Upper Siang,Scrub Typhus,05,00,05-07-2023,11-07-2023
+Bihar,Bhojpur,Fever with Rash,12,00,12-07-2023,14-07-2023
+Bihar,Jamtara,Chickenpox,09,00,08-07-2023,10-07-2023
+Bihar,Patna,Malaria,08,00,06-07-2023,11-07-2023
+Chhattisgarh,Saraikela Kharsawan,Acute Diarrheal Disease,13,00,08-07-2023,10-07-2023
+Delhi,Ghaziabad,Acute Diarrheal Disease,14,00,10-07-2023,12-07-2023
+Gujarat,Agar Malwa,Acute Diarrheal Disease,12,00,08-07-2023,11-07-2023
+Gujarat,Burhanpur,Acute Diarrheal Disease,14,00,09-07-2023,12-07-2023
+Gujarat,Gurugram,Acute Diarrheal Disease,13,00,11-07-2023,13-07-2023
+Gujarat,Mahesana,Acute Diarrheal Disease,11,00,11-07-2023,13-07-2023
+Gujarat,Navsari,Acute Diarrheal Disease,10,00,11-07-2023,13-07-2023
+Jammu and Kashmir,Srinagar,Chickenpox,11,00,08-07-2023,11-07-2023
+Jammu and Kashmir,Srinagar,Mumps,12,00,09-07-2023,12-07-2023
+Karnataka,Ballari,Cholera,15,00,09-07-2023,12-07-2023
+Karnataka,Chitradurga,Acute Diarrheal Disease,13,00,10-07-2023,12-07-2023
+Karnataka,Kalaburagi,Acute Diarrheal Disease,18,00,11-07-2023,13-07-2023
+Karnataka,Koppal,Chikungunya,11,00,09-07-2023,12-07-2023
+Karnataka,Raichur,Acute Diarrheal Disease,12,00,10-07-2023,12-07-2023
+Kerala,Thrissur,West Nile Fever,01,01,04-07-2023,10-07-2023
+Madhya Pradesh,Narsinghpur,Acute Diarrheal Disease,19,00,08-07-2023,11-07-2023
+Maharashtra,Jalna,Dengue,14,00,08-07-2023,11-07-2023
+Maharashtra,Palghar,Dengue,11,00,09-07-2023,12-07-2023
+Maharashtra,Sindhudurg,Acute Diarrheal Disease,13,00,10-07-2023,12-07-2023
+Uttar Pradesh,Fatehpur,Acute Diarrheal Disease,10,00,09-07-2023,12-07-2023
+Uttar Pradesh,Lucknow,Fever with Rash,12,00,10-07-2023,12-07-2023
+West Bengal,East Singhbhum,Chickenpox,08,00,06-07-2023,11-07-2023
+West Bengal,Murshidabad,Anthrax,02,00,04-05-2023,13-07-2023
+West Bengal,Murshidabad,Food Poisoning,25,00,11-07-2023,13-07-2023
+West Bengal,Purulia,Acute Diarrheal Disease,13,00,11-07-2023,13-07-2023
+Yavatmal,Acute Diarrheal Disease,11,00,09-07-2023,12-07-2023
+Andhra Pradesh,Nellore,Acute Diarrheal Disease,27,00,12-07-23,16-07-23
+Arunachal Pradesh,Tawang,Chickenpox,40,00,21-07-23,22-07-23
+Assam,Cachar,Acute Diarrheal Disease,11,00,21-07-23,21-07-23
+Assam,Dhemaji,Animal Bite-Snake Bite,03,01,16-07-23,17-07-23
+Assam,Dibrugarh,Chickenpox,09,00,18-07-23,18-07-23
+Assam,Dibrugarh,Acute Diarrheal Disease,22,00,20-07-23,21-07-23
+Assam,Kamrup,Acute Diarrheal Disease,64,00,13-07-23,17-07-23
+Assam,Kamrup,Animal Bite - Dog Bite,01,01,14-07-23,17-07-23
+Assam,Kamrup,Leptospirosis,15,00,13-07-23,17-07-23
+Assam,Kokrajhar,Malaria,115,00,20-07-23,21-07-23
+Assam,Marigaon,Japanese Encephalitis,05,00,19-07-23,22-07-23
+Assam,Nagaon,Acute Encephalitic Syndrome,04,01,17-07-23,21-07-23
+Assam,Sivasagar,Japanese Encephalitis,06,00,20-07-23,21-07-23
+Bihar,Patna,Acute Diarrheal Disease,35,01,17-07-23,17-07-23
+Gujarat,Anand,Jaundice,20,00,21-07-23,21-07-23
+Haryana,Nuh,Chickenpox,22,00,15-07-23,24-07-23
+Jammu and Kashmir,Jammu,Chickenpox,10,00,15-07-23,22-07-23
+Jammu and Kashmir,Shopian,Mumps,13,00,20-07-23,20-07-23
+Jharkhand,Jamtara,Chickenpox,06,00,17-07-23,20-07-23
+Jharkhand,Khunti,Fever with Rash,11,00,19-07-23,20-07-23
+Jharkhand,Lohardaga,Chickenpox,05,00,18-07-23,18-07-23
+Jharkhand,Palamu,Chickenpox,06,00,21-07-23,21-07-23
+Jharkhand,West Singhbhum,Chickenpox,05,00,22-07-23,22-07-23
+Karnataka,Chamarajanagar,Others,25,00,16-07-23,18-07-23
+Karnataka,Haveri,Acute Diarrheal Disease,17,00,18-07-23,19-07-23
+Karnataka,Kalaburagi,Leptospirosis,02,00,19-07-23,20-07-23
+Karnataka,Tumkur,Acute Diarrheal Disease,33,00,16-07-23,17-07-23
+Karnataka,Vijayanagar,Cholera,57,00,20-07-23,21-07-23
+Kerala,Ernakulam,Food Poisoning,20,00,22-07-23,25-07-23
+Madhya Pradesh,Guna,Cholera,10,00,19-07-23,20-07-23
+Madhya Pradesh,Narsinghpur,Malaria,08,00,20-07-23,20-07-23
+Madhya Pradesh,Rewa,Food Poisoning,19,00,19-07-23,20-07-23
+Madhya Pradesh,Ujjain,Acute Diarrheal Disease,23,00,15-07-23,18-07-23
+Maharashtra,Gadchiroli,Dengue,44,00,19-07-23,19-07-23
+Maharashtra,Osmanabad,Dengue,07,00,22-07-23,22-07-23
+Maharashtra,Thane,Fever,12,00,12-07-23,18-07-23
+Tamil Nadu,Coimbatore,Chickenpox,14,00,14-07-23,15-07-23
+Tamil Nadu,Salem,Fever,38,00,19-07-23,21-07-23
+Tamil Nadu,Thanjavur,Hepatitis A,18,00,18-07-23,18-07-23
+Tamil Nadu,Tiruchirappalli,Hepatitis A,29,00,17-07-23,31-07-23
+Uttar Pradesh,Bhadohi,Acute Diarrheal Disease,21,00,20-07-23,21-07-23
+Uttar Pradesh,Chandauli,Acute Diarrheal Disease,37,00,18-07-23,20-07-23
+Uttar Pradesh,Chandauli,Acute Diarrheal Disease,54,01,19-07-23,20-07-23
+Uttar Pradesh,Chandauli,Acute Diarrheal Disease,10,00,16-07-23,18-07-23
+Uttar Pradesh,Siddharth Nagar,Acute Diarrheal Disease,24,00,18-07-23,18-07-23
+Bihar,Katihar,Fever with Rash,07,00,03-07-23,
+Kerala,Malappuram,Dengue,40,00,15-06-23,
+Kerala,Kottayam,Hepatitis A,07,00,07-07-23,
+Karnataka,Bengaluru Urban,Acute Diarrheal Disease,08,00,25-06-23,
+Sikkim,West District,Typhoid,53,00,05-07-23,
+Tamil Nadu,Tiruppur,Dengue,27,00,25-06-23,
+Assam,Charaldeo,Acute Diarrheal Disease,31,01,09-01-2023,09-01-2023  
+Chhattisgarh,Balod,Chickenpox,89,00,09-01-2023,10-01-2023  
+Chhattisgarh,Janjgir-Champa,Chickenpox,48,00,12-01-2023,13-01-2023  
+Chhattisgarh,Sakti,Chickenpox,52,00,10-01-2023,11-01-2023 
+Kerala,Ernakulam,Food Poisoning,11,00,07-01-23,08-01-23  
+Kerala,Kozhikode,Acute Diarrheal Disease,326,00,13-01-23,16-01-23  
+Kerala,Kannur,Food Poisoning,128,00,08-01-23,11-01-23  
+Kerala,Kottayam,Food Poisoning,60,00,08-01-23,11-01-23  
+Kerala,Malappuram,Food Poisoning,54,00,03-01-23,11-01-23  
+Kerala,Malappuram,Monkey Pox,01,00,06-01-23,06-01-23  
+Maharashtra,Nanded,Measles,13,00,13-01-2023,13-01-2023    
+Kerala,Kozhikode,Measles,64,00,01-01-23,  
+Maharashtra,Pune,Measles & Rubella,08,00,08-12-2022,  
+Uttar Pradesh,Kaushambi,Measles,05,00,05-12-22,  
+West Bengal,Purba Bardhaman,Measles,05,00,18-12-2022,  
+Andaman and Nicobar Islands,South Andaman,Dengue,11,00,23-07-24,23-07-24
+Assam,Baksa,Japanese Encephalitis,02,01,23-07-24,25-07-24
+Assam,Biswanath,Japanese Encephalitis,02,00,22-07-24,23-07-24
+Assam,Bongaigaon,Japanese Encephalitis,03,00,24-07-24,24-07-24
+Assam,Cachar,Malaria,16,00,25-07-24,26-07-24
+Assam,Chirang,Japanese Encephalitis,04,00,24-07-24,25-07-24
+Assam,Darrang,Japanese Encephalitis,05,00,24-07-24,24-07-24
+Assam,Darrang,Japanese Encephalitis,05,00,25-07-24,26-07-24
+Assam,Dhemaji,Japanese Encephalitis,03,01,22-07-24,24-07-24
+Assam,Dibrugarh,Malaria,06,00,23-07-24,24-07-24
+Assam,Dibrugarh,Japanese Encephalitis,02,00,23-07-24,24-07-24
+Assam,Dibrugarh,Chickenpox,10,00,23-07-24,23-07-24
+Assam,Goalpara,Japanese Encephalitis,06,00,25-07-24,25-07-24
+Assam,Goalpara,Japanese Encephalitis,03,01,25-07-24,25-07-24
+Assam,Golaghat,Japanese Encephalitis,04,00,23-07-24,23-07-24
+Assam,Jorhat,Japanese Encephalitis,04,00,25-07-24,25-07-24
+Assam,Kamrup Metropolitan,Japanese Encephalitis,03,00,23-07-24,23-07-24
+Assam,Karbi Anglong,Japanese Encephalitis,04,01,23-07-24,23-07-24
+Assam,Kokrajhar,Leptospirosis,05,00,22-07-24,22-07-24
+Assam,Kokrajhar,Japanese Encephalitis,03,00,23-07-24,23-07-24
+Assam,Lakhimpur,Japanese Encephalitis,03,00,23-07-24,23-07-24
+Assam,Majuli,Japanese Encephalitis,03,00,25-07-24,25-07-24
+Assam,Marigaon,Japanese Encephalitis,03,00,25-07-24,26-07-24
+Assam,Nagaon,Japanese Encephalitis,06,00,23-07-24,23-07-24
+Assam,Nalbari,Japanese Encephalitis,02,00,23-07-24,23-07-24
+Assam,Sivasagar,Japanese Encephalitis,05,00,23-07-24,23-07-24
+Assam,Sonitpur,Japanese Encephalitis,07,01,23-07-24,24-07-24
+Assam,South Salmara Mankachar,Food Poisoning,29,00,23-07-24,23-07-24
+Assam,Tinsukia,Malaria,18,00,24-07-24,25-07-24
+Assam,Udalguri,Japanese Encephalitis,03,01,23-07-24,23-07-24
+Bihar,Bhojpur,Measles,11,00,26-07-24,26-07-24
+Bihar,Gaya,Acute Diarrheal Disease,14,00,23-07-24,23-07-24
+Bihar,Jehanabad,Acute Diarrheal Disease,13,00,24-07-24,24-07-24
+Chandigarh,Chandigarh,Dengue,12,00,25-07-24,25-07-24
+Chhattisgarh,Kondagaon,Acute Diarrheal Disease,13,00,23-07-24,23-07-24
+Chhattisgarh,Mahasamund,Acute Diarrheal Disease,22,00,22-07-24,22-07-24
+Dadra and Nagar Haveli and Daman and Diu,Daman,Acute Diarrheal Disease,10,00,25-07-24,25-07-24
+Delhi,East,Dengue,05,00,27-07-24,27-07-24
+Delhi,New Delhi,Dengue,05,00,27-07-24,27-07-24
+Delhi,South,Dengue,08,00,26-07-24,26-07-24
+Delhi,South West,Dengue,07,00,26-07-24,26-07-24
+Gujarat,Ahmedabad,Acute Diarrheal Disease,14,00,22-07-24,22-07-24
+Gujarat,Ahmedabad Corporation,Dengue,06,00,27-07-24,27-07-24
+Gujarat,Amreli,Acute Diarrheal Disease,14,00,22-07-24,22-07-24
+Gujarat,Arvalli,Acute Diarrheal Disease,15,00,23-07-24,23-07-24
+Gujarat,Bharuch,Acute Diarrheal Disease,12,00,25-07-24,25-07-24
+Gujarat,Bhavnagar Corporation,Dengue,08,00,26-07-24,26-07-24
+Gujarat,Devbhumi Dwarka,Malaria,11,00,24-07-24,24-07-24
+Gujarat,Gandhinagar Corporation,Dengue,08,00,27-07-24,27-07-24
+Gujarat,Jamnagar Corporation,Dengue,07,00,26-07-24,26-07-24
+Gujarat,Junagadh Corporation,Dengue,06,00,27-07-24,27-07-24
+Gujarat,Kutch,Malaria,16,00,24-07-24,24-07-24
+Gujarat,Panchmahal,Acute Diarrheal Disease,13,00,23-07-24,23-07-24
+Gujarat,Rajkot Corporation,Dengue,08,00,26-07-24,26-07-24
+Gujarat,Surat Corporation,Dengue,08,00,26-07-24,26-07-24
+Gujarat,Vadodara Corporation,Dengue,07,00,27-07-24,27-07-24
+Haryana,Faridabad,Dengue,14,00,27-07-24,27-07-24
+Haryana,Gurugram,Dengue,16,00,26-07-24,26-07-24
+Himachal Pradesh,Sirmaur,Dengue,11,00,26-07-24,26-07-24
+Jammu and Kashmir,Anantnag,Acute Diarrheal Disease,12,00,22-07-24,22-07-24
+Jammu and Kashmir,Anantnag,Acute Diarrheal Disease,14,00,25-07-24,25-07-24
+Jammu and Kashmir,Bandipora,Chickenpox,17,00,27-07-24,27-07-24
+Jammu and Kashmir,Baramulla,Acute Diarrheal Disease,19,00,24-07-24,24-07-24
+Jammu and Kashmir,Ganderbal,Acute Diarrheal Disease,30,00,22-07-24,22-07-24
+Jammu and Kashmir,Kulgam,Acute Diarrheal Disease,12,00,22-07-24,22-07-24
+Jammu and Kashmir,Pulwama,Food Poisoning,22,00,24-07-24,24-07-24
+Jharkhand,Deoghar,Food Poisoning,10,00,24-07-24,24-07-24
+Jharkhand,Dumka,Acute Diarrheal Disease,14,00,24-07-24,24-07-24
+Jharkhand,Sahebganj,Acute Diarrheal Disease,18,00,22-07-24,22-07-24
+Karnataka,Bagalkot,Acute Diarrheal Disease,17,00,25-07-24,25-07-24
+Karnataka,Belagavi,Acute Diarrheal Disease,21,00,23-07-24,23-07-24
+Karnataka,Bengaluru Urban,Dengue,10,00,26-07-24,26-07-24
+Karnataka,Bidar,Acute Diarrheal Disease,18,00,25-07-24,25-07-24
+Karnataka,Chamarajanagar,Acute Diarrheal Disease,11,00,27-07-24,27-07-24
+Karnataka,Chitradurga,Acute Diarrheal Disease,17,00,25-07-24,25-07-24
+Karnataka,Dakshina Kannada,Acute Diarrheal Disease,11,00,27-07-24,27-07-24
+Karnataka,Davanagere,Acute Diarrheal Disease,14,00,23-07-24,23-07-24
+Karnataka,Dharwad,Acute Diarrheal Disease,20,00,26-07-24,26-07-24
+Karnataka,Gadag,Acute Diarrheal Disease,15,00,24-07-24,24-07-24
+Karnataka,Hassan,Acute Diarrheal Disease,13,00,25-07-24,25-07-24
+Karnataka,Haveri,Acute Diarrheal Disease,19,00,23-07-24,23-07-24
+Karnataka,Kalaburagi,Acute Diarrheal Disease,11,00,24-07-24,24-07-24
+Karnataka,Kodagu,Acute Diarrheal Disease,10,00,27-07-24,27-07-24
+Karnataka,Kolar,Acute Diarrheal Disease,12,00,25-07-24,25-07-24
+Karnataka,Koppal,Acute Diarrheal Disease,16,00,24-07-24,24-07-24
+Karnataka,Mandya,Acute Diarrheal Disease,18,00,27-07-24,27-07-24
+Karnataka,Mysuru,Dengue,12,00,26-07-24,26-07-24
+Karnataka,Raichur,Acute Diarrheal Disease,14,00,24-07-24,24-07-24
+Karnataka,Ramanagara,Acute Diarrheal Disease,12,00,27-07-24,27-07-24
+Karnataka,Shivamogga,Acute Diarrheal Disease,19,00,26-07-24,26-07-24
+Karnataka,Tumakuru,Acute Diarrheal Disease,16,00,23-07-24,23-07-24
+Karnataka,Udupi,Dengue,13,00,26-07-24,26-07-24
+Karnataka,Uttara Kannada,Acute Diarrheal Disease,15,00,27-07-24,27-07-24
+Karnataka,Vijayapura,Acute Diarrheal Disease,17,00,23-07-24,23-07-24
+Karnataka,Yadgir,Acute Diarrheal Disease,14,00,24-07-24,24-07-24
+Kerala,Alappuzha,Dengue,15,00,26-07-24,26-07-24
+Kerala,Ernakulam,Dengue,18,00,27-07-24,27-07-24
+Kerala,Idukki,Acute Diarrheal Disease,13,00,25-07-24,25-07-24
+Kerala,Kannur,Dengue,16,00,27-07-24,27-07-24
+Kerala,Kasaragod,Malaria,07,00,24-07-24,24-07-24
+Kerala,Kollam,Dengue,14,00,26-07-24,26-07-24
+Kerala,Kottayam,Dengue,13,00,27-07-24,27-07-24
+Kerala,Kozhikode,Dengue,17,00,27-07-24,27-07-24
+Kerala,Malappuram,Dengue,19,00,26-07-24,26-07-24
+Kerala,Palakkad,Dengue,12,00,25-07-24,25-07-24
+Kerala,Pathanamthitta,Dengue,11,00,26-07-24,26-07-24
+Kerala,Thiruvananthapuram,Dengue,20,00,27-07-24,27-07-24
+Kerala,Thrissur,Dengue,15,00,26-07-24,26-07-24
+Kerala,Wayanad,Scrub Typhus,09,00,25-07-24,25-07-24
+Madhya Pradesh,Bhopal,Acute Diarrheal Disease,32,00,25-07-24,25-07-24
+Madhya Pradesh,Guna,Acute Diarrheal Disease,28,00,22-07-24,22-07-24
+Madhya Pradesh,Gwalior,Fever,11,00,22-07-24,22-07-24
+Madhya Pradesh,Katni,Acute Diarrheal Disease,16,00,24-07-24,24-07-24
+Madhya Pradesh,Katni,Acute Diarrheal Disease,18,00,25-07-24,25-07-24
+Madhya Pradesh,Narsinghpur,Dengue,07,00,24-07-24,24-07-24
+Madhya Pradesh,Sehore,Acute Diarrheal Disease,20,00,23-07-24,23-07-24
+Madhya Pradesh,Sehore,Malaria,05,00,23-07-24,23-07-24
+Madhya Pradesh,Sehore,Dengue,06,00,23-07-24,23-07-24
+Madhya Pradesh,Vidisha,Acute Diarrheal Disease,19,00,24-07-24,24-07-24
+Maharashtra,Bhandara,Acute Diarrheal Disease,20,00,25-07-24,25-07-24
+Maharashtra,Buldhana,Acute Diarrheal Disease,25,00,22-07-24,22-07-24
+Maharashtra,Chandrapur,Acute Diarrheal Disease,28,00,23-07-24,23-07-24
+Maharashtra,Gadchiroli,Acute Diarrheal Disease,30,01,22-07-24,22-07-24
+Maharashtra,Gondia,Acute Diarrheal Disease,22,00,25-07-24,25-07-24
+Maharashtra,Kolhapur,Acute Diarrheal Disease,18,00,24-07-24,24-07-24
+Maharashtra,Nagpur,Acute Diarrheal Disease,27,00,23-07-24,23-07-24
+Maharashtra,Nanded,Measles,10,00,26-07-24,26-07-24
+Maharashtra,Nashik,Acute Diarrheal Disease,15,00,27-07-24,27-07-24
+Maharashtra,Pune,Dengue,11,00,27-07-24,27-07-24
+Maharashtra,Raigad,Acute Diarrheal Disease,16,00,24-07-24,24-07-24
+Maharashtra,Ratnagiri,Leptospirosis,07,00,25-07-24,25-07-24
+Maharashtra,Sangli,Acute Diarrheal Disease,19,00,24-07-24,24-07-24
+Maharashtra,Satara,Acute Diarrheal Disease,21,00,25-07-24,25-07-24
+Maharashtra,Sindhudurg,Malaria,06,00,25-07-24,25-07-24
+Maharashtra,Solapur,Acute Diarrheal Disease,14,00,27-07-24,27-07-24
+Maharashtra,Thane,Leptospirosis,08,00,26-07-24,26-07-24
+Maharashtra,Wardha,Acute Diarrheal Disease,24,00,23-07-24,23-07-24
+Maharashtra,Washim,Acute Diarrheal Disease,17,00,22-07-24,22-07-24
+Maharashtra,Yavatmal,Acute Diarrheal Disease,26,00,22-07-24,22-07-24
+Manipur,Imphal East,Acute Diarrheal Disease,15,00,26-07-24,26-07-24
+Manipur,Thoubal,Japanese Encephalitis,02,00,24-07-24,24-07-24
+Meghalaya,East Khasi Hills,Measles,11,00,23-07-24,23-07-24
+Odisha,Ganjam,Acute Diarrheal Disease,18,00,24-07-24,24-07-24
+Odisha,Kalahandi,Malaria,20,00,25-07-24,25-07-24
+Odisha,Kandhamal,Malaria,22,00,25-07-24,25-07-24
+Odisha,Koraput,Malaria,25,00,23-07-24,23-07-24
+Odisha,Malkangiri,Malaria,30,01,22-07-24,22-07-24
+Odisha,Nabarangpur,Malaria,28,00,23-07-24,23-07-24
+Odisha,Rayagada,Malaria,26,00,24-07-24,24-07-24
+Puducherry,Puducherry,Dengue,09,00,27-07-24,27-07-24
+Punjab,Faridkot,Chickenpox,15,00,26-07-24,26-07-24
+Punjab,Patiala,Acute Diarrheal Disease,20,00,25-07-24,25-07-24
+Punjab,S.A.S Nagar,Acute Diarrheal Disease,28,00,23-07-24,23-07-24
+Rajasthan,Ganganagar,Acute Diarrheal Disease,16,00,26-07-24,26-07-24
+Rajasthan,Sikar,Acute Diarrheal Disease,19,00,26-07-24,26-07-24
+Tamil Nadu,Coimbatore,Dengue,14,00,27-07-24,27-07-24
+Tamil Nadu,Dharmapuri,Dengue,12,00,26-07-24,26-07-24
+Tamil Nadu,Erode,Dengue,11,00,27-07-24,27-07-24
+Tamil Nadu,Kancheepuram,Dengue,10,00,26-07-24,26-07-24
+Tamil Nadu,Krishnagiri,Dengue,13,00,26-07-24,26-07-24
+Tamil Nadu,Madurai,Dengue,16,00,27-07-24,27-07-24
+Tamil Nadu,Salem,Dengue,18,00,27-07-24,27-07-24
+Tamil Nadu,Tiruchirappalli,Dengue,15,00,27-07-24,27-07-24
+Tamil Nadu,Tiruvallur,Dengue,17,00,26-07-24,26-07-24
+Tamil Nadu,Vellore,Dengue,19,00,26-07-24,26-07-24
+Telangana,Bhadradri Kothagudem,Malaria,08,00,25-07-24,25-07-24
+Telangana,Hyderabad,Dengue,13,00,27-07-24,27-07-24
+Telangana,Karimnagar,Dengue,10,00,26-07-24,26-07-24
+Telangana,Khammam,Dengue,12,00,26-07-24,26-07-24
+Telangana,Mahabubabad,Malaria,07,00,25-07-24,25-07-24
+Telangana,Medchal Malkajgiri,Dengue,11,00,27-07-24,27-07-24
+Telangana,Mulugu,Malaria,09,00,25-07-24,25-07-24
+Telangana,Nizamabad,Dengue,14,00,26-07-24,26-07-24
+Telangana,Ranga Reddy,Dengue,15,00,27-07-24,27-07-24
+Telangana,Warangal,Dengue,16,00,27-07-24,27-07-24
+Tripura,Dhalai,Malaria,21,00,23-07-24,23-07-24
+Tripura,Gomati,Malaria,19,00,24-07-24,24-07-24
+Tripura,Khowai,Malaria,17,00,24-07-24,24-07-24
+Tripura,North Tripura,Malaria,15,00,23-07-24,23-07-24
+Tripura,Sepahijala,Malaria,18,00,24-07-24,24-07-24
+Tripura,South Tripura,Malaria,20,00,23-07-24,23-07-24
+Tripura,Unakoti,Malaria,16,00,23-07-24,23-07-24
+Tripura,West Tripura,Malaria,22,00,24-07-24,24-07-24
+Uttar Pradesh,Kannauj,Acute Diarrheal Disease,24,00,24-07-24,24-07-24
+Uttar Pradesh,Lucknow,Cholera,10,00,22-07-24,22-07-24
+Uttarakhand,Nainital,Chickenpox,06,00,24-07-24,24-07-24
+Uttarakhand,Rudraprayag,Hepatitis A,16,00,22-07-24,22-07-24
+West Bengal,Murshidabad,Food Poisoning,27,00,22-07-24,22-07-24
+Assam,Dima Hasao,Malaria,25,00,16-07-24,
+Assam,Kamrup,Japanese Encephalitis,03,01,18-07-24,
+Assam,Karimganj,Japanese Encephalitis,02,00,19-07-24,
+Arunachal Pradesh,Papum Pare,Dengue,08,00,03-08-23,03-08-23
+Assam,Bongaigaon,Animal Bite - Dog Bite,01,01,02-08-23,04-08-23
+Assam,Dhemaji,Japanese Encephalitis,03,00,04-08-23,04-08-23
+Assam,Jorhat,Japanese Encephalitis,10,00,03-08-23,04-08-23
+Assam,Lakhimpur,Japanese Encephalitis,04,00,03-08-23,04-08-23
+Assam,Marigaon,Japanese Encephalitis,03,00,04-08-23,04-08-23
+Assam,Sonitpur,Mumps,25,00,01-08-23,02-08-23
+Bihar,Jehanabad,Acute Diarrheal Disease,10,00,04-08-23,04-08-23
+Bihar,Pashchim Champaran,Measles,14,00,03-08-23,03-08-23
+Bihar,Pashchim Champaran,Measles,16,00,03-08-23,03-08-23
+Gujarat,Patan,Dengue,16,00,04-08-23,05-08-23
+Jammu and Kashmir,Kupwara,Acute Diarrheal Disease,12,00,02-08-23,02-08-23
+Jharkhand,Lohardaga,Fever with Rash,05,00,03-08-23,03-08-23
+Jharkhand,Ramgarh,Acute Diarrheal Disease,12,00,03-08-23,03-08-23
+Jharkhand,Sahebganj,Dengue,05,00,02-08-23,02-08-23
+Karnataka,Belagavi,Acute Diarrheal Disease,12,00,03-08-23,03-08-23
+Karnataka,Raichur,Acute Diarrheal Disease,07,00,03-08-23,03-08-23
+Karnataka,Raichur,Acute Diarrheal Disease,11,00,03-08-23,03-08-23
+Karnataka,Udupi,Animal Bite - Dog Bite,01,01,03-08-23,03-08-23
+Kerala,Kasaragod,Food Poisoning,11,00,04-08-23,05-08-23
+Madhya Pradesh,Seoni,Leptospirosis,02,00,01-08-23,01-08-23
+Maharashtra,Aurangabad,Fever,09,00,03-08-23,03-08-23
+Maharashtra,Aurangabad,Dengue,07,00,03-08-23,03-08-23
+Maharashtra,Kolhapur,Fever,11,00,04-08-23,04-08-23
+Maharashtra,Nagpur,Fever,11,00,05-08-23,05-08-23
+Maharashtra,Osmanabad,Fever,06,00,03-08-23,03-08-23
+Nagaland,Dimapur,Japanese Encephalitis,03,01,04-08-23,04-08-23
+Odisha,Baleshwar,Acute Diarrheal Disease,14,00,01-08-23,02-08-23
+Odisha,Bargarh,Acute Diarrheal Disease,10,00,04-08-23,04-08-23
+Odisha,Bolangir,Acute Diarrheal Disease,11,00,03-08-23,03-08-23
+Odisha,Kanker,Acute Diarrheal Disease,12,00,02-08-23,03-08-23
+Puducherry,Pondicherry,Food Poisoning,15,00,01-08-23,02-08-23
+Punjab,Jalandhar,Cholera,06,00,05-08-23,06-08-23
+Tamil Nadu,Madurai,Hepatitis A,137,00,15-07-23,01-08-23
+Uttar Pradesh,Bhadohi,Acute Diarrheal Disease,19,00,01-08-23,01-08-23
+Uttar Pradesh,Chandauli,Food Poisoning,11,00,04-08-23,04-08-23
+Uttar Pradesh,Chandauli,Acute Diarrheal Disease,06,00,02-08-23,02-08-23
+Uttar Pradesh,Jaunpur,Food Poisoning,10,00,02-08-23,03-08-23
+Uttar Pradesh,Sonbhadra,Acute Diarrheal Disease,17,00,02-08-23,02-08-23
+Uttar Pradesh,Sonbhadra,Acute Diarrheal Disease,12,00,16-07-23,01-08-23
+Uttarakhand,Tehri Garhwal,Acute Diarrheal Disease,08,00,01-08-23,01-08-23
+Andhra Pradesh,Nellore,Acute Diarrheal Disease,27,00,12-07-23,
+Assam,Dibrugarh,Chickenpox,09,00,18-07-23,
+Assam,Dibrugarh,Acute Diarrheal Disease,22,00,20-07-23,
+Assam,Kamrup,Acute Diarrheal Disease,64,00,13-07-23,
+Assam,Kamrup,Leptospirosis,15,00,13-07-23,
+Assam,Marigaon,Japanese Encephalitis,05,00,19-07-23,
+Assam,Sivasagar,Japanese Encephalitis,06,00,20-07-23,
+Jammu and Kashmir,Jammu,Chickenpox,10,00,15-07-23,
+Jammu and Kashmir,Shopian,Mumps,13,00,20-07-23,
+Jharkhand,Khunti,Fever with Rash,11,00,19-07-23,
+Karnataka,Kalaburagi,Leptospirosis,02,00,19-07-23,
+Karnataka,Tumkur,Acute Diarrheal Disease,33,00,16-07-23,
+Madhya Pradesh,Guna,Cholera,10,00,19-07-23,
+Madhya Pradesh,Narsinghpur,Malaria,08,00,20-07-23,
+Madhya Pradesh,Rewa,Food Poisoning,19,00,19-07-23,
+Madhya Pradesh,Ujjain,Acute Diarrheal Disease,23,00,15-07-23,
+Maharashtra,Thane,Fever,12,00,12-07-23,
+Tamil Nadu,Salem,Fever,38,00,19-07-23,
+Tamil Nadu,Thanjavur,Hepatitis A,18,00,18-07-23,
+Tamil Nadu,Tiruchirappalli,Hepatitis A,29,00,17-07-23,
+Uttar Pradesh,Chandauli,Acute Diarrheal Disease,37,00,18-07-23,
+Uttar Pradesh,Chandauli,Acute Diarrheal Disease,54,01,19-07-23,
+Uttar Pradesh,Chandauli,Acute Diarrheal Disease,10,00,16-07-23,
+Uttar Pradesh,Siddharth Nagar,Acute Diarrheal Disease,24,00,18-07-23,
+Bihar,Katihar,Fever with Rash,07,00,03-07-23,
+Kerala,Malappuram,Dengue,40,00,15-06-23,
+Kerala,Kottayam,Hepatitis A,07,00,07-07-23,
+Karnataka,Bengaluru Urban,Acute Diarrheal Disease,08,00,25-06-23,
+Sikkim,West District,Typhoid,53,00,05-07-23,
+Tamil Nadu,Tiruppur,Dengue,27,00,25-06-23,
+Bihar,Aurangabad,Acute Diarrheal Disease,17,00,07-08-23,08-08-23
+Bihar,Gaya,Acute Diarrheal Disease,09,00,11-08-23,11-08-23
+Chhattisgarh,Bilaspur,Acute Diarrheal Disease,17,00,10-08-23,10-08-23
+Chhattisgarh,Durg,Dengue,14,00,09-08-23,09-08-23
+Goa,South Goa,Dengue,06,00,11-08-23,11-08-23
+Gujarat,Sabarkantha,Food Poisoning,43,00,10-08-23,10-08-23
+Haryana,Jind,Dengue,05,00,09-08-23,09-08-23
+Jammu and Kashmir,Anantnag,Acute Diarrheal Disease,13,00,11-08-23,11-08-23
+Jammu and Kashmir,Badgam,Hepatitis A,10,00,07-08-23,07-08-23
+Jammu and Kashmir,Ganderbal,Hepatitis A,09,00,10-08-23,10-08-23
+Jammu and Kashmir,Jammu,Dengue,06,00,12-08-23,12-08-23
+Jammu and Kashmir,Kupwara,Chickenpox,07,00,07-08-23,07-08-23
+Jharkhand,Dumka,Dengue,07,00,09-08-23,09-08-23
+Jharkhand,East Singhbum,Dengue,05,00,11-08-23,11-08-23
+Jharkhand,Giridih,Acute Diarrheal Disease,15,00,09-08-23,09-08-23
+Jharkhand,Lohardaga,Chickenpox,08,00,10-08-23,10-08-23
+Jharkhand,West Singhbhum,Dengue,06,00,11-08-23,11-08-23
+Karnataka,Chitradurga,Acute Diarrheal Disease,19,00,08-08-23,08-08-23
+Karnataka,Vijayanagar,Acute Diarrheal Disease,10,00,08-08-23,08-08-23
+Kerala,Kollam,Food Poisoning,21,00,08-08-23,08-08-23
+Kerala,Kollam,Food Poisoning,35,00,08-08-23,09-08-23
+Madhya Pradesh,Narsinghpur,Malaria,05,00,12-08-23,12-08-23
+Madhya Pradesh,Vidisha,Shigellosis,09,00,11-08-23,11-08-23
+Maharashtra,Aurangabad,Acute Diarrheal Disease,20,00,07-08-23,07-08-23
+Maharashtra,Gondia,Malaria,07,00,11-08-23,11-08-23
+Maharashtra,Satara,Dengue,08,00,10-08-23,10-08-23
+Maharashtra,Yavatmal,Acute Diarrheal Disease,16,00,09-08-23,09-08-23
+Meghalaya,West Garo Hills,Suspected Typhoid,18,00,07-08-23,07-08-23
+Nagaland,Mon,Dengue,05,00,10-08-23,10-08-23
+Nagaland,Wokha,Dengue,06,00,09-08-23,09-08-23
+Odisha,Bolangir,Acute Diarrheal Disease,29,00,27-07-23,07-08-23
+Odisha,Sambalpur,Acute Diarrheal Disease,12,00,10-08-23,10-08-23
+Odisha,Sambalpur,Acute Diarrheal Disease,08,00,10-08-23,10-08-23
+Rajasthan,Jhalawar,Cholera,05,00,07-08-23,07-08-23
+Rajasthan,Jhalawar,Acute Diarrheal Disease,11,00,07-08-23,07-08-23
+Rajasthan,Pratapgarh,Cholera,09,00,05-08-23,07-08-23
+Uttar Pradesh,Bhadohi,Food Poisoning,10,00,07-08-23,07-08-23
+Uttar Pradesh,Fatehpur,Dengue,05,00,08-08-23,08-08-23
+Uttar Pradesh,Lalitpur,Acute Diarrheal Disease,13,00,07-08-23,07-08-23
+Uttar Pradesh,Mirzapur,Acute Diarrheal Disease,14,00,08-08-23,08-08-23
+Andaman & Nicobar Islands,South Andaman’s,Acute Diarrheal Disease,18,0,18-08-23,18-08-23
+Assam,Cachar,Japanese Encephalitis,1,1,12-08-23,14-08-23
+Assam,Dhemaji,Acute Diarrheal Disease,7,0,17-08-23,17-08-23
+Assam,Goalpara,Food Poisoning,3,1,14-08-23,14-08-23
+Assam,Karbi Anglong,Acute Diarrheal Disease,14,0,17-08-23,17-08-23
+Assam,South Salmar Mancachar,Food Poisoning,5,0,13-08-23,14-08-23
+Bihar,Jamui,Fever with Rash,7,0,14-08-23,14-08-23
+Bihar,Patna,Acute Diarrheal Disease,11,0,19-08-23,19-08-23
+Chhattisgarh,Bijapur,Chickenpox,10,0,17-08-23,17-08-23
+Chhattisgarh,Bilaspur,Acute Diarrheal Disease,15,0,13-08-23,17-08-23
+Delhi,South Delhi,Dengue,40,0,17-08-23,18-08-23
+Gujarat,Dohad,Food Poisoning,23,0,19-08-23,20-08-23
+Gujarat,Patan,Hepatitis A,18,0,19-08-23,19-08-23
+Gujarat,Surendranagar,Acute Diarrheal Disease,119,0,15-08-23,15-08-23
+Haryana,Karnal,Scrub Typhus,28,0,10-08-23,16-08-23
+Jammu and Kashmir,Anantnag,Mumps,65,0,19-08-23,19-08-23
+Jammu and Kashmir,Kupwara,Chickenpox,67,0,19-07-23,19-08-23
+Jammu and Kashmir,Pulwama,Hepatitis A,12,0,16-08-23,16-08-23
+Jammu and Kashmir,Shopian,Measles,6,0,19-08-23,19-08-23
+Jammu and Kashmir,Shopian,Hepatitis A,9,0,18-08-23,18-08-23
+Jammu and Kashmir,Srinagar,Mumps,16,0,18-08-23,18-08-23
+Jharkhand,Chatra,Acute Diarrheal Disease,12,0,18-08-23,19-08-23
+Jharkhand,West Singhbhum,Acute Diarrheal Disease,5,0,19-08-23,19-08-23
+Karnataka,Chikkaballapura,Food Poisoning,29,0,16-08-23,17-08-23
+Karnataka,Mysuru,Mumps,6,0,17-08-23,17-08-23
+Karnataka,Vijayapura,Acute Diarrheal Disease,41,0,15-08-23,15-08-23
+Kerala,Ernakulam,Dengue,19,0,10-08-23,22-08-23
+Kerala,Malappuram,Dengue,24,0,13-08-23,15-08-23
+Madhya Pradesh,Chhindwara,Acute Diarrheal Disease,44,0,13-07-23,16-08-23
+Madhya Pradesh,Damoh,Acute Diarrheal Disease,50,1,10-08-23,18-08-23
+Madhya Pradesh,Morena,Dengue,44,0,16-08-23,17-08-23
+Maharashtra,Beed,Suspected Dengue Fever,27,1,17-08-23,17-08-23
+Maharashtra,Gadchiroli,Malaria,2,1,18-08-23,19-08-23
+Maharashtra,Gadchiroli,Dengue,55,0,17-08-23,18-08-23
+Maharashtra,Jalna,Suspected Dengue Fever,5,1,12-08-23,18-08-23
+Maharashtra,Thane,Leptospirosis,1,1,15-08-23,18-08-23
+Manipur,Tamenglong,Acute Diarrheal Disease,24,0,12-08-23,20-08-23
+Mizoram,Hnahthial,Food poisoning,23,0,13-08-23,18-08-23
+Mizoram,Mamit,Food poisoning,63,0,10-08-23,18-08-23
+Nagaland,Peren,Acute Diarrheal Disease,12,0,14-08-23,14-08-23
+Odisha,Balasore,Mushroom Poisoning,11,0,16-08-23,16-08-23
+Odisha,Sambalpur,Acute Diarrheal Disease,32,0,13-08-23,16-08-23
+Odisha,Sundargarh,Malaria,22,0,11-08-23,14-08-23
+Tamil Nadu,Ariyalur,Mumps,10,0,15-08-23,17-08-23
+Tamil Nadu,Erode,Animal Bite - Dog Bite,13,0,18-08-23,19-08-23
+Tamil Nadu,Thanjavur,Diphtheria,4,0,15-08-23,18-08-23
+Tamil Nadu,Tiruchirappalli,Acute Diarrheal Disease,41,0,17-08-23,18-08-23
+Tamil Nadu,Villupuram,Acute Diarrheal Disease,52,0,19-08-23,19-08-23
+Uttar Pradesh,Fatehpur,Dengue,8,0,14-08-23,16-08-23
+Uttar Pradesh,Kaushambi,Food Poisoning,13,0,16-08-23,18-08-23
+Uttar Pradesh,Mirzapur,Acute Diarrheal Disease,65,0,18-08-23,18-08-23
+West Bengal,Purulia,Acute Diarrheal Disease,12,0,16-08-23,17-08-23
+Andhra Pradesh,Adilabad,Acute Diarrhoeal Disease,18 / 0,17.08.09,17.08.09  
+Andhra Pradesh,Visakhapatnam,Acute Diarrhoeal Disease,26 / 0,21.08.09,22.08.09  
+Bihar,Munger,Malaria,850 / 1,17.08.09,23.08.09  
+Karnataka,Hassan,Acute Diarrhoeal Disease,54 / 0,19.08.09,21.08.09  
+Madhya Pradesh,Morena,Acute Diarrhoeal Disease,25 / 2,20.08.09,20.08.09  
+Madhya Pradesh,Pauna,Acute Diarrhoeal Disease,15 / 0,19.08.09,19.08.09  
+Orissa,Koraput,Food Poisoning,4 / 4,18.08.09,24.08.09  
+Orissa,,Food Poisoning,2 / 2,23.08.09,25.08.09  
+Punjab,Hoshiarpur,Acute Diarrhoeal Disease,40 / 0,21.08.09,21.08.09  
+Punjab,Gurdaspur,Acute Diarrhoeal Disease,20 / 0,15.08.09,15.08.09  
+Uttar Pradesh,Hardoi,Food Poisoning,8 / 1,23.08.09,24.08.09  
+Chhattisgarh,Raipur,Acute Diarrhoeal Disease,11 / 0,06.08.09,  
+Karnataka,Koppal,Acute Diarrhoeal Disease,26 / 0,09.08.09,  
+Karnataka,Bellary,Acute Diarrhoeal Disease,26 / 0,11.08.09,  
+Karnataka,Haveri,Acute Diarrhoeal Disease,82 / 0,12.08.09,  
+Madhya Pradesh,Dewas,Dengue,2 / 0,28.07.09,  
+Tamil Nadu,Theni,Fever,19 / 0,10.08.09,  
+Orissa,Kalahandi,Acute Diarrhoeal Disease,217 / 24,31.07.09,  
+Assam,Sivasagar,Japanese Encephalitis,125/41*,04.06.09,
+Arunachal Pradesh,Papum Pare,Rabies,1,1,14-09-23,14-09-23
+Assam,Baksa,Food Poisoning,45,0,11-09-23,12-09-23
+Assam,Charaideo,Acute Diarrheal Disease,36,0,11-09-23,11-09-23
+Assam,Golaghat,Acute Diarrheal Disease,6,0,16-09-23,16-09-23
+Assam,Karbi Anglong,Chikungunya & Dengue,23,0,13-09-23,13-09-23
+Bihar,Banka,Dengue,60,0,13-09-23,14-09-23
+Bihar,Jehanabad,Dengue,35,0,14-09-23,14-09-23
+Bihar,Katihar,Measles,14,0,18-07-23,16-09-23
+Bihar,Sitamarhi,Acute Diarrheal Disease,75,0,13-09-23,13-09-23
+Chhattisgarh,Bemetara,Acute Diarrheal Disease,6,0,10-09-23,11-09-23
+Chhattisgarh,Bilaspur,Cholera,14,0,13-09-23,15-09-23
+Chhattisgarh,Korba,Acute Diarrheal Disease,14,0,09-09-23,14-09-23
+Chhattisgarh,Raigarh,Acute Diarrheal Disease,37,0,12-09-23,12-09-23
+Jammu and Kashmir,Baramulla,Jaundice,24,0,16-09-23,16-09-23
+Jammu and Kashmir,Ganderbal,Mumps,15,0,08-09-23,12-09-23
+Jammu and Kashmir,Kupwara,Jaundice,8,0,14-09-23,14-09-23
+Jammu and Kashmir,Udhampur,Human Rabies,1,1,09-09-23,14-09-23
+Jharkhand,Khunti,Chickenpox,17,0,15-09-23,15-09-23
+Jharkhand,Latehar,Fever,36,0,09-09-23,12-09-23
+Jharkhand,Lohardaga,Dengue,52,0,09-09-23,14-09-23
+Karnataka,Ballari,Acute Diarrheal Disease,43,0,16-09-23,16-09-23
+Karnataka,Chitradurga,Acute Diarrheal Disease,18,0,12-09-23,13-09-23
+Kerala,Alappuzha,Chickenpox,14,0,08-09-23,14-09-23
+Kerala,Kottayam,Food Poisoning,19,0,10-09-23,11-09-23
+Madhya Pradesh,Guna,Chickenpox,6,0,14-09-23,14-09-23
+Madhya Pradesh,Rewa,Acute Diarrheal Disease,16,1,17-09-23,17-09-23
+Madhya Pradesh,Tikamgarh,Acute Diarrheal Disease,58,3,15-09-23,15-09-23
+Maharashtra,Amravati,Dengue,10,1,11-09-23,12-09-23
+Maharashtra,Beed,Fever,5,1,14-09-23,14-09-23
+Maharashtra,Beed,Dengue,5,1,11-09-23,14-09-23
+Maharashtra,Latur,Dengue,4,0,11-09-23,11-09-23
+Maharashtra,Parbhani,Dengue,24,1,11-09-23,12-09-23
+Maharashtra,Pune,Chikungunya,9,0,08-09-23,12-09-23
+Maharashtra,Raigad,Malaria,4,1,12-09-23,15-09-23
+Maharashtra,Raigad,Dengue,3,1,09-09-23,12-09-23
+Maharashtra,Thane,Malaria,3,1,14-09-23,16-09-23
+Maharashtra,Washim,Dengue,9,0,15-09-23,15-09-23
+Manipur,Imphal West,Chickenpox,0,0,12-09-23,14-09-23
+Manipur,Imphal West,Suspected Japanese Encephalitis,1,1,11-09-23,14-09-23
+Meghalaya,East Khasi Hills,Measles,63,0,14-09-23,15-09-23
+Nagaland,Kiphire,Dengue,59,0,15-09-23,15-09-23
+Odisha,Ganjam,Mumps,36,0,14-09-23,15-09-23
+Odisha,Koraput,Food Poisoning,12,0,15-09-23,16-09-23
+Odisha,Sambalpur,Acute Diarrheal Disease,7,0,15-09-23,15-09-23
+Tamil Nadu,Tiruppur,Dengue,11,0,09-09-23,12-09-23
+Uttar Pradesh,Sonbhadra,Malaria,46,0,11-09-23,12-09-23
+Bihar,Pashchim Champaran,Measles,7,0,29-08-23,
+Jammu and Kashmir,Baramulla,Mumps,11,0,14-08-23,
+Jammu and Kashmir,Jammu,Chikungunya,9,0,01-09-23,
+Jharkhand,Deoghar,Dengue,24,0,04-09-23,
+Kerala,Kozhikode,Nipah,6,2,30-06-23,
+Kerala,Palakkad,Mumps,15,0,25-08-23,
+Madhya Pradesh,Agar Malwa,Acute Diarrheal Disease,9,0,28-08-23,
+Maharashtra,Jalna,Dengue,6,1,04-09-23,
+Uttar Pradesh,Jaunpur,Scrub Typhus,9,0,20-08-23,
+Assam,Bajali,Animal Bite Dog Bite,1,1,28-09-23,30-09-23
+Assam,Bajali,Food Poisoning,58,0,26-09-23,26-09-23
+Assam,Charaldoo,Acute Diarrheal Disease,76,0,29-09-23,01-10-23
+Assam,Darrang,Food Poisoning,7,0,25-09-23,25-09-23
+Assam,Dhemaji,Food Poisoning,20,0,01-10-23,01-10-23
+Bihar,Madhubani,Acute Diarrheal Disease,29,0,27-09-23,27-09-23
+Bihar,Vaishali,Mumps,13,0,27-09-23,29-09-23
+Chhattisgarh,Bemetara,Cholera,38,1,29-09-23,29-09-23
+Chhattisgarh,Raipur,Acute Diarrheal Disease,17,0,30-09-23,01-10-23
+Chhattisgarh,Raipur,Acute Diarrheal Disease,89,0,29-09-23,01-10-23
+Gujarat,Ahmadabad,Cholera,30,0,26-09-23,26-09-23
+Haryana,Kaithal,Acute Diarrheal Disease,11,0,27-09-23,27-09-23
+Jammu and Kashmir,Srinagar,Hepatitis A,26,0,27-09-23,27-09-23
+Jharkhand,Chatra,Dengue,11,0,23-09-23,29-09-23
+Jharkhand,Deoghar,Malaria,18,0,30-09-23,01-10-23
+Karnataka,Ballari,Mumps,12,0,29-09-23,30-09-23
+Karnataka,Chitradurga,Food Poisoning,10,0,27-09-23,30-09-23
+Karnataka,Kalaburagi,Chikungunya,10,0,25-09-23,25-09-23
+Karnataka,Kalaburagi,Mumps,10,0,25-09-23,25-09-23
+Karnataka,Tumakuru,Fever,34,0,28-09-23,29-09-23
+Karnataka,Tumakuru,Acute Diarrheal Disease,46,0,25-09-23,27-09-23
+Kerala,Malappuram,Hepatitis A,22,0,25-09-23,25-09-23
+Kerala,Palakkad,Hepatitis A,20,0,22-09-23,26-09-23
+Kerala,Thrissur,Chickenpox,36,0,29-09-23,29-09-23
+Kerala,Kannur,Food Poisoning,20,0,25-09-23,27-09-23
+Kerala,Trivandrum,Acute Diarrheal Disease,91,0,27-09-23,25-09-23
+Madhya Pradesh,Burhanpur,Malaria,29,0,26-09-23,27-09-23
+Maharashtra,Aurangabad,Dengue,3,1,27-09-23,28-09-23
+Maharashtra,Beed,Dengue,10,0,29-09-23,29-09-23
+Maharashtra,Nanded,Acute Diarrheal Disease,46,0,24-09-23,26-09-23
+Nagaland,Peren,Malaria,17,0,01-10-23,01-10-23
+Puducherry,Pondicherry,Dengue,14,0,27-09-23,27-09-23
+Punjab,S.A.S Nagar,Hepatitis A,28,1,18-09-23,25-09-23
+Tamil Nadu,Dindigul,Dengue,12,0,25-09-23,29-09-23
+Uttar Pradesh,Lalitpur,Acute Diarrheal Disease,55,0,24-09-23,26-09-23
+West Bengal,Birbhum,Acute Diarrheal Disease,33,0,27-09-23,29-09-23
+Jammu and Kashmir,Jammu,Measles,5,0,19-09-23,19-09-23
+Karnataka,Chamarajanagar,Leptospirosis,1,1,16-09-23,16-09-23
+Kerala,Kozhikode,Hepatitis A,26,0,08-08-23,08-08-23
+Madhya Pradesh,Satna,Acute Diarrheal Disease,8,2,30-08-23,30-08-23
+Maharashtra,Thane,Dengue,6,1,12-09-23,12-09-23
+Meghalaya,Ri Bhoi,Measles,16,0,19-09-23,19-09-23
+Nagaland,Longleng,Dengue,155,0,20-09-23,20-09-23
+Nagaland,Phek,Dengue,105,0,15-09-23,15-09-23
+Assam,Bajali,Animal Bite - Dog Bite,1,1,28-09-23,30-09-23
+Assam,Bajali,Food Poisoning,58,0,26-09-23,26-09-23
+Assam,Charaideo,Acute Diarrheal Disease,76,0,29-09-23,01-10-23
+Assam,Darrang,Food Poisoning,7,0,25-09-23,25-09-23
+Assam,Dhemaji,Food Poisoning,20,0,01-10-23,01-10-23
+Bihar,Madhubani,Acute Diarrheal Disease,29,0,27-09-23,27-09-23
+Bihar,Vaishali,Mumps,13,0,27-09-23,29-09-23
+Chhattisgarh,Bemetara,Cholera,38,1,29-09-23,29-09-23
+Chhattisgarh,Raipur,Acute Diarrheal Disease,17,0,30-09-23,01-10-23
+Chhattisgarh,Raipur,Acute Diarrheal Disease,89,0,29-09-23,01-10-23
+Gujarat,Ahmadabad,Cholera,30,0,26-09-23,26-09-23
+Haryana,Kaithal,Acute Diarrheal Disease,11,0,27-09-23,27-09-23
+Jammu and Kashmir,Srinagar,Hepatitis A,26,0,27-09-23,27-09-23
+Jharkhand,Chatra,Dengue,11,0,23-09-23,29-09-23
+Jharkhand,Deoghar,Malaria,18,0,30-09-23,01-10-23
+Karnataka,Ballari,Mumps,12,0,29-09-23,30-09-23
+Karnataka,Chitradurga,Food Poisoning,10,0,27-09-23,30-09-23
+Karnataka,Davangere,Human Rabies,1,1,24-09-23,27-09-23
+Karnataka,Kalaburagi,Chikungunya,10,0,25-09-23,25-09-23
+Karnataka,Kalaburagi,Mumps,10,0,25-09-23,25-09-23
+Karnataka,Tumakuru,Fever,34,0,28-09-23,29-09-23
+Karnataka,Tumakuru,Acute Diarrheal Disease,46,0,25-09-23,27-09-23
+Kerala,Malappuram,Hepatitis A,22,0,25-09-23,25-09-23
+Kerala,Palakkad,Hepatitis A,20,0,22-09-23,26-09-23
+Kerala,Thrissur,Chickenpox,36,0,29-09-23,29-09-23
+Kerala,Kannur,Food Poisoning,20,0,25-09-23,27-09-23
+Kerala,Trivandrum,Acute Diarrheal Disease,91,0,27-09-23,25-09-23
+Madhya Pradesh,Burhanpur,Malaria,29,0,26-09-23,27-09-23
+Maharashtra,Aurangabad,Dengue,3,1,27-09-23,28-09-23
+Maharashtra,Beed,Dengue,10,0,29-09-23,29-09-23
+Maharashtra,Nanded,Acute Diarrheal Disease,46,0,24-09-23,26-09-23
+Nagaland,Peren,Malaria,17,0,01-10-23,01-10-23
+Puducherry,Pondicherry,Dengue,14,0,27-09-23,27-09-23
+Punjab,S.A.S Nagar,Hepatitis A,28,1,18-09-23,25-09-23
+Tamil Nadu,Dindigul,Dengue,12,0,25-09-23,29-09-23
+Uttar Pradesh,Lalitpur,Acute Diarrheal Disease,55,0,24-09-23,26-09-23
+West Bengal,Birbhum,Acute Diarrheal Disease,33,0,27-09-23,29-09-23
+Jammu and Kashmir,Jammu,Measles,5,0,19-09-23,
+Karnataka,Chamarajanagar,Leptospirosis,1,1,16-09-23,
+Kerala,Kozhikode,Hepatitis A,26,0,08-08-23,
+Madhya Pradesh,Satna,Acute Diarrheal Disease,8,2,30-08-23,
+Maharashtra,Thane,Dengue,6,1,12-09-23,
+Meghalaya,Ri Bhoi,Measles,16,0,19-09-23,
+Nagaland,Longleng,Dengue,155,0,20-09-23,
+Nagaland,Phek,Dengue,105,0,15-09-23,
+Kerala,Ernakulam,Food Poisoning,106,00,16-01-23,16-01-23  
+Kerala,Ernakulam,Food Poisoning (Norovirus),73,00,13-01-23,25-01-23  
+Kerala,Kannur,Food Poisoning,263,00,14-01-23,19-01-23  
+Punjab,S.A.S Nagar,Acute Diarrheal Disease,32,00,15-01-23,19-01-23  
+Assam,Lakhimpur,Chickenpox & Measles,12,00,03-01-23,  
+Gujarat,Bhavnagar,Food Poisoning,559,00,03-12-22,  
+Jharkhand,Lohardaga,Fever with Rash,13,00,20-12-22,  
+Karnataka,Udupi,Japanese Encephalitis,01,01,17-12-22,  
+Kerala,Kannur,Probable Leishmaniasis,01,01,22-11-22,  
+Kerala,Palakkad,Japanese Encephalitis,01,01,24-12-22,  
+Maharashtra,Aurangabad,Measles,14,00,30-12-22,  
+Tripura,South Tripura,Acute Diarrheal Disease,147,00,01-01-23,  
+Uttar Pradesh,Bhadohi,Measles,17,00,03-01-23,  
+Uttar Pradesh,Faizabad,Measles,10,00,05-01-23,  
+Uttar Pradesh,Pratapgarh,Chickenpox,18,00,01-01-23,  
+Uttar Pradesh,Jhansi,Chickenpox,11,00,09-01-23,  
+Bihar,Purnia,Dengue,21,0,29-09-23,04-10-23
+Chhattisgarh,Baloda Bazar,Acute Diarrheal Disease,27,0,04-10-23,04-10-23
+Chhattisgarh,Baloda Bazar,Acute Diarrheal Disease,25,0,03-10-23,03-10-23
+Chhattisgarh,Durg,Cholera,15,0,04-10-23,04-10-23
+Chhattisgarh,Janjgir-Champa,Acute Diarrheal Disease,25,0,30-09-23,03-10-23
+Chhattisgarh,Surguja,Fever,48,0,03-10-23,03-10-23
+Gujarat,Dang,Food Poisoning,25,0,07-10-23,07-10-23
+Gujarat,Mahesana,Hepatitis A,57,0,04-10-23,04-10-23
+Jammu and Kashmir,Baramulla,Jaundice,12,0,04-10-23,06-10-23
+Jammu and Kashmir,Rajouri,Dengue,51,0,07-10-23,07-10-23
+Jammu and Kashmir,Samba,Chikungunya,10,0,07-10-23,07-10-23
+Jammu and Kashmir,Samba,Chikungunya,18,0,06-10-23,07-10-23
+Jammu and Kashmir,Srinagar,Mumps,8,0,05-10-23,05-10-23
+Jharkhand,Khunti,Chikungunya,9,0,01-10-23,07-10-23
+Jharkhand,Sahebganj,Acute Diarrheal Disease,14,2,06-10-23,07-10-23
+Karnataka,Bengaluru Rural,Fever,27,0,04-10-23,04-10-23
+Karnataka,Raichur,Japanese Encephalitis,6,0,02-10-23,03-10-23
+Karnataka,Udupi,Acute Diarrheal Disease,5,0,06-10-23,07-10-23
+Karnataka,Uttar Kannad,Leptospirosis,3,1,03-10-23,03-10-23
+Kerala,Palakkad,Dog Bite,5,0,03-10-23,06-10-23
+Kerala,Malappuram,Acute Diarrheal Disease,93,0,05-10-23,07-05-23
+Kerala,Thiruvananthapuram,Brucellosis,2,0,04-10-23,06-10-23
+Madhya Pradesh,Gwalior,Food Poisoning,166,0,04-10-23,04-10-23
+Madhya Pradesh,Mandla,Measles,5,0,06-10-23,06-10-23
+Madhya Pradesh,Morena,Fever,26,0,06-10-23,06-10-23
+Madhya Pradesh,Rewa,Acute Diarrheal Disease,10,1,03-10-23,04-10-23
+Madhya Pradesh,Vidisha,Hepatitis A,4,0,05-10-23,06-10-23
+Maharashtra,Amravati,Dengue,26,1,04-10-23,05-10-23
+Maharashtra,Beed,Dengue,5,1,03-10-23,06-10-23
+Maharashtra,Nagpur,Dengue,89,1,05-10-23,06-10-23
+Maharashtra,Raigad,Dengue,6,1,05-10-23,06-10-23
+Maharashtra,Sangli,Zika Virus,1,0,29-09-23,03-10-23
+Maharashtra,Thane,Dengue,3,1,30-09-23,04-10-23
+Maharashtra,Thane,Dengue,7,1,27-09-23,03-10-23
+Maharashtra,Washim,Acute Diarrheal Disease,75,0,30-09-23,03-10-23
+Odisha,Sonepur,Acute Diarrheal Disease,22,0,05-10-23,05-10-23
+Telangana,Adilabad,Acute Diarrheal Disease,82,0,07-10-23,07-10-23
+Uttar Pradesh,Fatehpur,Dengue,10,0,02-10-23,04-10-23
+Uttar Pradesh,Meerut,Dengue,98,0,01-10-23,05-10-23
+Chhattisgarh,Bastar,Acute Diarrheal Disease,9,3,25-09-23,
+Jammu and Kashmir,Anantnag,Hepatitis A,15,0,04-09-23,
+Jammu and Kashmir,Rajouri,Dengue,10,0,05-09-23,
+Kerala,Kollam,Acute Diarrheal Disease
+Arunachal Pradesh,Lower Siang,Dengue,10,0,09-10-23,11-10-23
+Arunachal Pradesh,Upper Siang,Acute Diarrheal Disease,13,0,07-10-23,13-10-23
+Assam,Udalguri,Human Rabies,1,1,13-10-23,13-10-23
+Bihar,Jamui,Acute Diarrheal Disease,17,0,10-10-23,12-10-23
+Chhattisgarh,Bemetara,Acute Diarrheal Disease,99,0,09-10-23,10-10-23
+Chhattisgarh,Janjgir-Champa,Acute Diarrheal Disease,14,0,07-10-23,09-10-23
+Gujarat,Sabarkantha,Acute Diarrheal Disease,43,0,10-10-23,11-10-23
+Jammu and Kashmir,Bandipora,Mumps,30,0,11-10-23,11-10-23
+Jammu and Kashmir,Rajauri,Dengue,15,0,14-10-23,14-10-23
+Jharkhand,Deoghar,Dengue,20,0,09-10-23,13-10-23
+Jharkhand,Gumla,Acute Diarrheal Disease,32,0,06-10-23,13-10-23
+Jharkhand,Hazaribagh,Acute Diarrheal Disease,28,0,11-10-23,11-10-23
+Jharkhand,West Singhbhum,Malaria,17,0,13-09-23,13-10-23
+Karnataka,Bagalkot,Mumps,28,0,10-10-23,10-10-23
+Karnataka,Raichur,Dengue,30,0,09-10-23,10-10-23
+Kerala,Kozhikode,Acute Diarrheal Disease,120,0,13-10-23,14-10-23
+Kerala,Malappuram,Hepatitis A,24,0,11-10-23,13-10-23
+Kerala,Malappuram,Acute Diarrheal Disease,35,0,11-10-23,13-10-23
+Kerala,Palakkad,West Nile Fever,1,0,12-10-23,13-10-23
+Kerala,Thrissur,Hepatitis A,54,0,12-10-23,13-10-23
+Kerala,Wayanad,Measles,27,0,10-10-23,10-10-23
+Madhya Pradesh,Morena,Dengue,38,0,11-10-23,11-10-23
+Madhya Pradesh,Neemuch,Acute Gastroenteritis,11,0,11-10-23,11-10-23
+Madhya Pradesh,Ratlam,Leptospirosis,1,1,11-10-23,14-10-23
+Madhya Pradesh,Sehore,Dengue,10,0,06-10-23,09-10-23
+Madhya Pradesh,Shivpuri,Diphtheria,1,1,12-10-23,13-10-23
+Maharashtra,Aurangabad,Dengue,4,1,13-10-23,14-10-23
+Maharashtra,Buldhana,Dengue,24,0,08-10-23,12-10-23
+Maharashtra,Pune,Dengue,59,1,06-10-23,09-10-23
+Maharashtra,Solapur,Acute Diarrheal Disease,32,0,11-10-23,13-10-23
+Maharashtra,Yavatmal,Acute Diarrheal Disease,27,0,09-10-23,10-10-23
+Mizoram,Hnahthial,Scrub Typhus,191,1,13-10-23,13-10-23
+Odisha,Sambalpur,Food Poisoning,57,0,11-10-23,11-10-23
+Punjab,Malerkotla,Mumps,22,0,12-10-23,12-10-23
+Rajasthan,Rajsamand,Scrub Typhus,6,0,12-10-23,13-10-23
+Tamil Nadu,Tiruchirappalli,Acute Diarrheal Disease,13,0,11-10-23,14-10-23
+Uttar Pradesh,Chandauli,Acute Diarrheal Disease,18,0,07-10-23,09-10-23
+Uttar Pradesh,Gonda,Fever,24,0,10-01-23,11-10-23
+Bihar,Saharsa,Dengue,396,0,01-10-23,
+Jharkhand,Lohardaga,Chikungunya,23,0,29-09-23,
+Karnataka,Tumakuru,Dengue,32,0,03-10-23,
+Kerala,Kannur,Hepatitis A,10,0,04-10-23,
+Kerala,Kozhikode,Hepatitis A,71,0,28-09-23,
+Meghalaya,Ri Bhoi,Measles,9,0,05-10-23,
+Arunachal Pradesh,Papum Pare,Animal Bite - Dog Bite,4,1,18-10-23,18-10-23
+Assam,Udalguri,Food Poisoning,7,0,14-10-23,16-10-23
+Chhattisgarh,Bemetara,Acute Diarrheal Disease,44,0,18-10-23,18-10-23
+Chhattisgarh,Kabirdham,Acute Diarrheal Disease,14,0,16-10-23,17-10-23
+Chhattisgarh,Mohla Manpur Ambagarh Chouki,Acute Diarrheal Disease,38,0,18-10-23,19-10-23
+Chhattisgarh,Raigarh,Acute Diarrheal Disease,27,0,13-10-23,16-10-23
+Gujarat,Valsad,Food Poisoning,7,0,19-10-23,19-10-23
+Haryana,Palwal,Diphtheria,8,4,19-10-23,19-10-23
+Jammu and Kashmir,Baramulla,Acute Diarrheal Disease,79,0,19-10-23,19-10-23
+Jammu and Kashmir,Kathua,Chikungunya,39,0,13-10-23,16-10-23
+Jammu and Kashmir,Srinagar,Mumps,11,0,21-10-23,22-10-23
+Jharkhand,Dumka,Dengue,9,0,17-10-23,18-10-23
+Jharkhand,Koderma,Food Poisoning,54,0,21-10-23,22-10-23
+Jharkhand,Pakur,Acute Diarrheal Disease,15,0,20-10-23,21-10-23
+Jharkhand,Simdega,Dengue,49,0,21-10-23,21-10-23
+Karnataka,Chikkamagaluru,Fever,17,0,15-10-23,17-10-23
+Karnataka,Chitradurga,Chikungunya,36,0,21-10-23,22-10-23
+Karnataka,Raichur,Dengue,27,0,18-10-23,19-10-23
+Karnataka,Uttar Kannad,Leptospirosis,1,1,20-10-23,20-10-23
+Kerala,Malappuram,Food Poisoning,25,0,17-10-23,21-10-23
+Kerala,Malappuram,Chickenpox,15,0,13-10-23,16-10-23
+Kerala,Palakkad,Hepatitis A,24,0,19-10-23,19-10-23
+Kerala,Palakkad,Measles,10,0,18-10-23,18-10-23
+Madhya Pradesh,Barwani,Acute Diarrheal Disease,5,0,19-10-23,21-10-23
+Madhya Pradesh,Bhopal,Dengue,22,0,13-10-23,19-10-23
+Madhya Pradesh,Mandla,Dengue,8,0,20-10-23,20-10-23
+Madhya Pradesh,Morena,Dengue,18,0,18-10-23,20-10-23
+Madhya Pradesh,Morena,Dengue,71,0,16-10-23,17-10-23
+Madhya Pradesh,Neemuch,Dengue,29,0,18-10-23,19-10-23
+Maharashtra,Aurangabad,Dengue,5,0,14-10-23,16-10-23
+Maharashtra,Beed,Dengue,5,1,19-10-23,20-10-23
+Maharashtra,Beed,Dengue,5,0,16-10-23,17-10-23
+Maharashtra,Dhule,Dengue,12,1,17-10-23,17-10-23
+Maharashtra,Dhule,Dengue,18,1,16-10-23,16-10-23
+Maharashtra,Gadchiroli,Dengue,3,1,20-10-23,21-10-23
+Maharashtra,Kolhapur,Chikungunya,145,0,18-10-23,19-10-23
+Maharashtra,Nagpur,Dengue,9,1,18-10-23,19-10-23
+Maharashtra,Nanded,Dengue,8,0,16-10-23,18-10-23
+Maharashtra,Nanded,Dengue,6,0,16-10-23,17-10-23
+Maharashtra,Osmanabad,Dengue & Chikungunya,11,1,17-10-23,18-10-23
+Maharashtra,Parbhani,Dengue,19,1,16-10-23,16-10-23
+Maharashtra,Thane,Dengue,1,1,18-10-23,21-10-23
+Odisha,Kendujhar,Food Poisoning,11,0,21-09-23,18-10-23
+Odisha,Koraput,Measles,6,0,19-10-23,20-10-23
+Odisha,Sambalpur,Acute Diarrheal Disease,46,0,18-10-23,18-10-23
+Punjab,Faridkot,Chickenpox,44,0,13-10-23,16-10-23
+Tamil Nadu,Coimbatore,Acute Diarrheal Disease,68,0,15-10-23,16-10-23
+Andhra Pradesh,Visakhapatnam,Food Poisoning,13,0,09-10-23,
+Bihar,Gopalganj,Typhoid,10,0,04-10-23,
+Bihar,Jehanabad,Measles,10,0,13-09-23,
+Jharkhand,Sahebganj,Acute Diarrheal Disease,13,0,12-10-23,
+Kerala,Ernakulam,Dengue,39,0,02-09-23,
+Kerala,Kozhikode,Acute Diarrheal Disease,120,0,04-10-23,
+Kerala,Thrissur,Measles,34,0,20-09-23,
+Madhya Pradesh,Hoshangabad,Leptospirosis,8,0,26-09-23,
+Madhya Pradesh,Katni,Acute Diarrheal Disease,7,0,09-10-23,
+Madhya Pradesh,Rajgarh,Dengue,15,0,12-10-23,
+Madhya Pradesh,Rajgarh,Dengue,5,0,12-10-23,
+Madhya Pradesh,Satna,Measles,9,0,27-09-23,
+Madhya Pradesh,Shahdol,Acute Diarrheal Disease,5,0,10-10-23,
+Maharashtra,Nanded,Dengue,11,0,10-10-23,
+Maharashtra,Nanded,Dengue,12,0,11-10-23,
+Maharashtra,Nanded,Scrub Typhus,10,1,29-08-23,
+Maharashtra,Thane,Dengue,10,0,11-10-23,
+Odisha,Kendujhar,Food Poisoning,39,0,14-10-23,
+Andhra Pradesh,Chittoor,Acute Diarrheal Disease,38,0,21-10-23,25-10-23
+Arunachal Pradesh,Papum Pare,Animal Bite - Dog Bite,3,0,23-10-23,24-10-23
+Assam,Sonitpur,Acute Diarrheal Disease,6,0,26-10-23,26-10-23
+Gujarat,Anand,Acute Diarrheal Disease,6,0,27-10-23,27-10-23
+Gujarat,Junagadh,Food Poisoning,103,0,26-10-23,26-10-23
+Gujarat,Navsari,Acute Diarrheal Disease,8,0,25-10-23,25-10-23
+Gujarat,Sabar Kantha,Diphtheria,1,1,26-10-23,27-10-23
+Gujarat,Tapi,Dengue,10,0,26-10-23,26-10-23
+Karnataka,Mandya,Acute Diarrheal Disease,22,0,25-10-23,25-10-23
+Kerala,Kannur,Acute Diarrheal Disease,21,0,25-10-23,25-10-23
+Kerala,Palakkad,Acute Diarrheal Disease,25,0,27-10-23,28-10-23
+Kerala,Thiruvananthapuram,Zika Virus,1,0,21-10-23,27-10-23
+Kerala,Thiruvananthapuram,Acute Diarrheal Disease,11,0,26-10-23,27-10-23
+Madhya Pradesh,Dewas,Acute Diarrheal Disease,20,0,28-10-23,29-10-23
+Madhya Pradesh,Morena,Acute Diarrheal Disease,10,0,25-10-23,26-10-23
+Madhya Pradesh,Narsinghpur,Malaria,20,0,26-10-23,26-10-23
+Madhya Pradesh,Narsinghpur,Dengue,16,0,25-10-23,25-10-23
+Madhya Pradesh,Neemuch,Dengue,20,0,24-10-23,24-10-23
+Madhya Pradesh,Ratlam,Dengue,22,0,27-10-23,28-10-23
+Maharashtra,Akola,Dengue,8,0,23-10-23,23-10-23
+Maharashtra,Akola,Dengue,9,1,20-10-23,23-10-23
+Maharashtra,Amravati,Dengue,5,1,21-10-23,23-10-23
+Maharashtra,Aurangabad,Dengue,17,1,21-10-23,25-10-23
+Maharashtra,Beed,Dengue,3,1,25-10-23,26-10-23
+Maharashtra,Beed,Dengue,1,1,23-10-23,23-10-23
+Maharashtra,Kolhapur,Hepatitis-A,16,0,25-10-23,25-10-23
+Maharashtra,Osmanabad,Dengue,6,0,25-10-23,27-10-23
+Maharashtra,Satara,Chikungunya,6,0,23-10-23,25-10-23
+Maharashtra,Yavatmal,Acute Diarrheal Disease,43,0,25-10-23,26-10-23
+Mizoram,Aizawl,Typhoid,64,1,23-10-23,24-10-23
+Mizoram,Aizawl,Food Poisoning,34,0,23-10-23,24-10-23
+Uttar Pradesh,Fatehpur,Chickenpox,30,0,26-10-23,26-10-23
+Jharkhand,Deoghar,Chikungunya,11,0,29-09-23,
+Jharkhand,Sahebganj,Acute Diarrheal Disease,41,0,08-10-23,
+Rajasthan,Pratapgarh,Dengue,255,0,11-10-23,
+Assam,Biswanath,Human Rabies,1,1,04-11-23,04-11-23
+Bihar,Saran,Dengue,8,0,25-10-23,03-11-23
+Bihar,Siwan,Dengue,25,0,25-10-23,03-11-23
+Chhattisgarh,Bilaspur,Acute Diarrheal Disease,10,0,26-10-23,30-10-23
+Haryana,Nuh,Japanese Encephalitis,10,4,30-10-23,01-11-23
+Jammu and Kashmir,Kupwara,Mumps,14,0,02-11-23,03-11-23
+Jharkhand,Jamtara,Acute Diarrheal Disease,67,0,03-11-23,03-11-23
+Jharkhand,Khunti,Fever with Rash,15,0,26-10-23,30-10-23
+Jharkhand,West Singhbhum,Malaria,7,0,01-11-23,01-11-23
+Karnataka,Bengaluru Rural,Human Rabies,1,1,30-10-23,31-10-23
+Karnataka,Mandya,Human Rabies,1,1,02-11-23,02-11-23
+Karnataka,Raichur,Dengue,20,0,30-10-23,31-10-23
+Karnataka,Vijayapura,Human Rabies,1,1,03-11-23,04-11-23
+Kerala,Ernakulam,Shigellosis,11,0,01-11-23,05-11-23
+Kerala,Ernakulam,Acute Diarrheal Disease,34,0,28-10-23,30-10-23
+Kerala,Kannur,Zika Virus,5,0,31-10-23,05-11-23
+Kerala,Kottayam,Acute Diarrheal Disease,18,0,31-10-23,01-11-23
+Kerala,Malappuram,Hepatitis A,4,0,01-11-23,01-11-23
+Kerala,Palakkad,Mumps,11,0,04-10-23,04-11-23
+Kerala,Palakkad,Mumps,74,0,27-10-23,02-11-23
+Kerala,Pathanamthitta,Dengue,12,0,31-10-23,01-11-23
+Madhya Pradesh,Indore,Fever of unknown origin,25,0,31-10-23,31-10-23
+Madhya Pradesh,Khargone,Measles,5,0,02-11-23,02-11-23
+Madhya Pradesh,Rajgarh,Dengue,9,0,02-11-23,02-11-23
+Maharashtra,Ahmednagar,Dengue,26,1,27-10-23,30-10-23
+Maharashtra,Kolhapur,Zika Virus,5,0,02-11-23,02-11-23
+Maharashtra,Nandurbar,Dengue,11,0,01-11-23,05-11-23
+Maharashtra,Thane,Dengue,3,1,30-10-23,02-11-23
+Manipur,Bishnupur,Acute Diarrheal Disease,23,0,02-11-23,02-11-23
+Meghalaya,West Jaintia Hills,Dengue,42,0,27-10-23,02-11-23
+Mizoram,Serchhip,Food Poisoning,36,0,31-10-23,01-11-23
+Odisha,Cuttack,Acute Diarrheal Disease,14,0,05-11-23,05-11-23
+Tamil Nadu,Sivaganga,Mumps,15,0,02-11-23,03-11-23
+Uttar Pradesh,Jhansi,Food Poisoning,649,0,29-10-23,30-10-23
+West Bengal,Birbhum,Acute Diarrheal Disease,43,0,31-10-23,02-11-23
+Madhya Pradesh,Bhopal,Fever of Unknown Origin,26,0,20-10-23,
+Madhya Pradesh,Jabalpur,Food Poisoning,46,0,25-07-23,
+Maharashtra,Nandurbar,Dengue,16,0,23-10-23,
+Rajasthan,Udaipur,Acute Diarrheal Disease,95,0,25-06-23,
+Rajasthan,Udaipur,Acute Diarrheal Disease,20,0,20-08-23,
+Andhra Pradesh,Chittoor,Acute Diarrheal Disease,36,0,04-11-23,07-11-23
+Assam,Chirang,Measles,6,0,08-11-23,10-11-23
+Assam,Dibrugarh,Acute Diarrheal Disease,36,0,07-11-23,07-11-23
+Assam,Jorhat,Acute Diarrheal Disease,14,0,08-11-23,09-11-23
+Chhattisgarh,Kabirdham,Acute Diarrheal Disease,13,0,08-11-23,10-11-23
+Gujarat,Gandhinagar,Acute Diarrheal Disease,29,0,08-11-23,08-11-23
+Gujarat,Mahisagar,Acute Diarrheal Disease,6,0,08-11-23,08-11-23
+Gujarat,Sabarkantha,Hepatitis A,26,0,06-11-23,06-11-23
+Haryana,Panchkula,Acute Diarrheal Disease,151,1,04-11-23,06-11-23
+Jharkhand,Dumka,Dengue,9,0,05-11-23,06-11-23
+Jharkhand,Jamtara,Chikenpox,10,0,04-11-23,06-11-23
+Jharkhand,Khunti,Measles,7,0,10-11-23,10-11-23
+Jharkhand,Saraikela Kharsawan,Acute Diarrheal Disease,16,0,08-11-23,09-11-23
+Karnataka,Bengaluru Rural,Acute Diarrheal Disease,28,0,08-11-23,09-11-23
+Karnataka,Hassan,Acute Diarrheal Disease,21,0,07-11-23,08-11-23
+Karnataka,Ramanagara,Acute Diarrheal Disease,15,0,10-11-23,11-11-23
+Kerala,Ernakulam,Hepatitis A,10,0,08-11-23,08-11-23
+Kerala,Palakkad,Acute Diarrheal Disease,13,0,08-11-23,08-11-23
+Kerala,Pathanamthitta,Food Poisoning,18,0,09-11-23,10-11-23
+Kerala,Thiruvananthapuram,Hepatitis A,9,0,06-11-23,07-11-23
+Madhya Pradesh,Bhopal,Scrub Typhus,11,0,09-11-23,09-11-23
+Madhya Pradesh,Satna,Acute Diarrheal Disease,27,0,08-11-23,08-11-23
+Madhya Pradesh,Shajapur,Measles,14,0,07-11-23,08-11-23
+Maharashtra,Ahmednagar,Acute Diarrheal Disease,179,0,05-11-23,08-11-23
+Maharashtra,Beed,Dengue,5,1,04-11-23,09-11-23
+Maharashtra,Nagpur,Scrub Typhus,3,1,08-11-23,09-11-23
+Maharashtra,Nanded,Dengue,10,0,22-09-23,10-11-23
+Maharashtra,Osmanabad,Dengue,31,1,09-11-23,09-11-23
+Maharashtra,Sangli,Dengue,6,0,03-11-23,06-11-23
+Maharashtra,Satara,Dengue,16,0,08-11-23,08-11-23
+Manipur,Imphal West,Measles,9,0,04-11-23,07-11-23
+Meghalaya,South West Khasi Hills,Hepatitis A,15,0,01-11-23,08-11-23
+Odisha,Bargarh,Food Poisoning,30,0,06-11-23,07-11-23
+Odisha,Bargarh,Acute Diarrheal Disease,8,0,10-11-23,11-11-23
+Odisha,Dhenkanal,Acute Diarrheal Disease,7,0,05-11-23,07-11-23
+Odisha,Mayurbhanj,Acute Diarrheal Disease,13,0,10-11-23,09-11-23
+West Bengal,Birbhum,Acute Diarrheal Disease,65,1,06-11-23,06-11-23
+Assam,Nalbari,Acute Diarrheal Disease,8,0,30-09-23,
+Bihar,Jehanabad,Dengue,39,0,30-10-23,
+Madhya Pradesh,Indore,Dengue,96,0,29-10-23,
+Madhya Pradesh,Shivpuri,Dengue,38,0,31-10-23,
+Maharashtra,Beed,Dengue,5,1,30-10-23,
+Maharashtra,Nanded,Dengue,6,1,27-09-23,
+Maharashtra,Nanded,Dengue,12,0,20-09-23,
+Manipur,Jiribam,Malaria,6,0,03-10-23,
+Chhattisgarh,Raigarh,Acute Diarrheal Disease,127,0,19-11-23,19-11-23
+Chhattisgarh,Raigarh,Acute Diarrheal Disease,18,0,11-11-23,14-11-23
+Jammu and Kashmir,Baramulla,Chickenpox,8,0,14-11-23,15-11-23
+Jammu and Kashmir,Srinagar,Hepatitis A,11,0,18-11-23,18-11-23
+Jammu and Kashmir,Udhampur,Chikungunya,5,0,10-11-23,15-11-23
+Jharkhand,Saraikela Kharsawan,Chickenpox,7,0,16-11-23,16-11-23
+Kerala,Kasaragod,Hepatitis A,81,0,10-11-23,14-11-23
+Kerala,Kollam,Acute Diarrheal Disease,14,0,13-11-23,13-11-23
+Kerala,Kozhikode,Hepatitis A,14,1,17-11-23,18-11-23
+Kerala,Kozhikode,Hepatitis A,21,1,13-11-23,13-11-23
+Kerala,Thiruvananthapuram,Zika Virus,1,0,13-11-23,14-11-23
+Madhya Pradesh,Chhatarpur,Chickenpox,6,0,11-11-23,14-11-23
+Mizoram,Lunglei,Food Poisoning,11,0,18-11-23,18-11-23
+Odisha,Cuttack,Acute Diarrheal Disease,24,0,14-11-23,15-11-23
+Odisha,Deogarh,Acute Diarrheal Disease,38,0,13-11-23,13-11-23
+Tamil Nadu,Virudhunagar,Leptospirosis,13,0,14-11-23,15-11-23
+Uttar Pradesh,Chandauli,Chickenpox,14,0,05-11-23,14-11-23
+West Bengal,Purba Bardhaman,Acute Diarrheal Disease,40,0,14-11-23,16-11-23
+Arunachal Pradesh,Papumpare,Scrub Typhus,34,0,15-10-23,
+Assam,Darrang,Measles,6,0,06-11-23,
+Jharkhand,West Singhbhum,Malaria,64,0,16-10-23,
+Meghalaya,West Khasi Hills,Scrub Typhus,17,0,06-11-23,
+Assam,Barpeta,Human Rabies,1,1,23-11-23,24-11-23
+Assam,Charaldeo,Fever,32,0,20-11-23,20-11-23
+Assam,Dhubri,Acute Diarrheal Disease,128,0,23-11-23,24-11-23
+Assam,Karbi Anglong,Chikungunya,67,0,24-11-23,24-11-23
+Assam,Tamulpur,Tetanus,1,1,25-11-23,25-11-23
+Chhattisgarh,Balod,Acute Diarrheal Disease,31,0,22-11-23,24-11-23
+Chhattisgarh,Baloda Bazar,Acute Diarrheal Disease,14,0,22-11-23,22-11-23
+Chhattisgarh,Rajnandgaon,Mumps,5,0,21-11-23,21-11-23
+Gujarat,Junagadh,Acute Diarrheal Disease,19,0,21-11-23,21-11-23
+Gujarat,Vadodara,Hepatitis-A,218,0,25-11-23,26-11-23
+Jammu and Kashmir,Rajauri,Dengue,59,0,20-11-23,20-11-23
+Jharkhand,Latchar,Acute Diarrheal Disease,25,0,18-11-23,21-11-23
+Jharkhand,West Singhbhum,Dysentery,55,0,21-10-23,21-11-23
+Karnataka,Bengaluru Urban,Malaria,1,1,21-11-23,22-11-23
+Karnataka,Chikkamagaluru,Acute Diarrheal Disease,18,0,20-11-23,20-11-23
+Karnataka,Ramanagara,Acute Diarrheal Disease,161,0,19-11-23,20-11-23
+Karnataka,Tumakuru,Measles,7,0,21-11-23,21-11-23
+Karnataka,Udupi,Mumps,11,0,22-11-23,23-11-23
+Kerala,Alappuzha,Food Poisoning,39,0,21-11-23,21-11-23
+Kerala,Idukki,Mumps,10,0,20-11-23,23-11-23
+Kerala,Kozhikode,Acute Diarrheal Disease,67,0,23-11-23,24-11-23
+Kerala,Kozhikode,Acute Diarrheal Disease,21,0,22-11-23,22-11-23
+Kerala,Malappuram,Acute Diarrheal Disease,10,0,23-11-23,26-11-23
+Kerala,Pathanamthitta,Acute Diarrheal Disease,42,0,25-11-23,25-11-23
+Kerala,Thiruvananthapuram,Chickenpox,5,0,22-11-23,25-11-23
+Madhya Pradesh,Ratlam,Acute Diarrheal Disease,73,0,23-11-23,24-11-23
+Madhya Pradesh,Sehore,Leptospirosis,8,0,24-11-23,24-11-23
+Maharashtra,Raigad,Malaria,3,1,24-11-23,25-11-23
+Maharashtra,Washim,Dengue and Chikungunya,16,0,21-11-23,21-11-23
+Maharashtra,Washim,Dengue and Chikungunya,20,0,21-11-23,21-11-23
+Odisha,Balangir,Food Poisoning,30,0,24-11-23,24-11-23
+Odisha,Kendrapara,Food Poisoning,11,0,18-11-23,20-11-23
+Odisha,Malkangiri,Scrub Typhus,8,0,21-11-23,21-11-23
+Telangana,Hyderabad,Acute Diarrheal Disease,13,0,21-11-23,21-11-23
+Uttar Pradesh,Banda,Measles,7,0,19-11-23,24-11-23
+Uttar Pradesh,Lalitpur,Measles,10,0,17-11-23,21-11-23
+Bihar,Gaya,Chikungunya,10,0,10-11-23,
+Jammu and Kashmir,Doda,Dengue,362,0,16-11-23,
+Jammu and Kashmir,Udhampur,Chikungunya,45,0,10-11-23,
+Kerala,Ernakulam,Dengue,33,0,16-11-23,
+Kerala,Thiruvananthapuram,Zika Virus,1,0,14-11-23,
+Madhya Pradesh,Agar Malwa,Dengue,10,0,08-11-23,
+Madhya Pradesh,Anuppur,Scrub Typhus,1,1,10-11-23,
+Madhya Pradesh,Bhopal,Measles,5,0,14-11-23,
+Maharashtra,Nashik,Dengue,13,1,16-10-23,
+Tamil Nadu,Ariyalur,Fever,9,0,14-11-23,
+Tamil Nadu,Virudhunagar,Dengue & Leptospirosis,11,0,14-11-23,
+Tamil Nadu,Virudhunagar,Leptospirosis,5,0,16-11-23,
+Uttar Pradesh,Lalitpur,Measles,5,0,01-11-23,
+Uttar Pradesh,Mirzapur,Scrub Typhus,16,0,15-11-23,
+Andhra Pradesh,Kurnool,Acute Diarrheal Disease,97,0,27-11-23,28-11-23
+Assam,Nagaon,Measles,34,0,24-11-23,28-11-23
+Jharkhand,Deoghar,Malaria,27,1,30-11-23,01-12-23
+Jharkhand,Dumka,Chickenpox,12,0,29-11-23,30-11-23
+Karnataka,Bagalkot,Acute Diarrheal Disease,28,0,28-11-23,28-11-23
+Karnataka,Chikkaballapura,Animal Bite - Dog Bite,10,0,04-12-23,02-12-23
+Karnataka,Chikkaballapura,Dengue,11,0,27-11-23,27-11-23
+Karnataka,Davanagere,Acute Diarrheal Disease,24,0,27-11-23,28-11-23
+Karnataka,Raichur,Acute Diarrheal Disease,92,0,29-11-23,01-12-23
+Kerala,Kannur,Shigellosis,15,0,30-11-23,01-12-23
+Kerala,Kottayam,Chickenpox,32,0,28-11-23,30-11-23
+Kerala,Malappuram,Acute Diarrheal Disease,26,0,01-12-23,01-12-23
+Kerala,Palakkad,Acute Diarrheal Disease,75,0,01-12-23,01-12-23
+Madhya Pradesh,Mandla,Dengue,5,0,29-11-23,29-11-23
+Madhya Pradesh,Schore,Dengue,6,0,28-11-23,28-11-23
+Odisha,Bolangir,Acute Diarrheal Disease,80,0,29-11-23,29-11-23
+Puducherry,Karaikal,Acute Diarrheal Disease,54,0,23-11-23,29-11-23
+Punjab,Sangrur,Acute Diarrheal Disease,66,0,02-12-23,02-12-23
+Tamil Nadu,Thanjavur,Mumps,10,0,25-11-23,27-11-23
+West Bengal,Nadia,Acute Diarrheal Disease,50,0,26-11-23,28-11-23
+Assam,Darrang,Measles,9,0,09-11-23,
+Bihar,Jehanabad,Measles,8,0,25-10-23,
+Jharkhand,Godda,Malaria,4850,0,18-11-23,
+Maharashtra,Gadchiroli,Malaria,4,1,11-11-23,
+Puducherry,Karaikal,Dengue,43,0,16-11-23,
+Uttar Pradesh,Fatehpur,Measles,5,0,20-11-23,
+Assam,Bongaigaon,Measles,7,0,07-12-23,07-12-23
+Assam,Charaldeo,Leptospirosis,17,0,04-12-23,05-12-23
+Assam,Chirang,Malaria,58,0,01-12-23,04-12-23
+Assam,Kamrup Metro,Human Rabies,1,1,06-12-23,07-12-23
+Assam,South Salmara Mancachar,Measles,13,0,09-12-23,09-12-23
+Bihar,Begusarai,Measles,5,0,07-12-23,08-12-23
+Bihar,Gaya,Measles,7,0,04-12-23,07-12-23
+Bihar,Madhubani,Acute Diarrheal Disease,86,0,06-12-23,06-12-23
+Bihar,Supaul,Food Poisoning,6,0,06-12-23,06-12-23
+Chhattisgarh,Raigarh,Acute Diarrheal Disease,18,0,04-12-23,06-12-23
+Himachal Pradesh,Hamirpur,Acute Diarrheal Disease,40,0,10-12-23,10-12-23
+Jammu and Kashmir,Srinagar,Hepatitis A,8,0,08-12-23,08-12-23
+Karnataka,Ramanagara,Cholera,4,0,08-12-23,09-12-23
+Kerala,Alappuzha,Mumps,31,0,06-12-23,08-12-23
+Kerala,Kottayam,Food Poisoning,11,0,08-12-23,08-12-23
+Madhya Pradesh,Barwani,Malaria,13,0,04-12-23,05-12-23
+Madhya Pradesh,Barwani,Food Poisoning,25,0,04-12-23,05-12-23
+Madhya Pradesh,Datta,Jaundice,10,0,09-12-23,10-12-23
+Madhya Pradesh,Rajgarh,Food Poisoning,22,0,10-12-23,10-12-23
+Madhya Pradesh,Umaria,Scrub Typhus,12,0,05-12-23,05-12-23
+Maharashtra,Gadchiroli,Malaria,10,1,02-12-23,05-12-23
+Maharashtra,Nanded,Mumps,7,0,06-12-23,06-12-23
+Maharashtra,Pune,Dengue,7,0,07-11-23,04-12-23
+Maharashtra,Thane,Dengue,8,1,30-11-23,08-12-23
+Mizoram,Kolasib,Fever with Rash,5,0,01-12-23,04-12-23
+Odisha,Balangir,Acute Diarrheal Disease,35,0,06-12-23,06-12-23
+Odisha,Khordha,Acute Diarrheal Disease,35,0,06-12-23,06-12-23
+Rajasthan,Jhalawar,Acute Diarrheal Disease,225,0,29-11-23,04-12-23
+Tamil Nadu,Tenkasi,Dengue,7,0,03-12-23,06-12-23
+Bihar,Jehanabad,Measles,5,0,09-11-23,
+Chhattisgarh,Narayanpur,Fever with Altered sensorium,3,3,29-11-23,
+Jharkhand,Dhanbad,Dengue,56,0,16-11-23,
+Kerala,Palakkad,Mumps,12,0,07-11-23,
+Maharashtra,Pune,Dengue,7,0,24-11-23,
+Puducherry,Pondicherry,Animal Bite - Dog Bite,25,0,29-11-23,
+Tamil Nadu,Virudhunagar,Leptospirosis,8,0,30-11-23,
+Bihar,Nalanda,Chickenpox,12,00,23-01-2023,23-01-2023
+Chhattisgarh,Janigir-Champa,Chickenpox,11,00,23-01-2023,23-01-2023
+Karnataka,Hassan,Human Rabies,01,01,21-01-2023,25-01-2023
+Kerala,Kollam,Food Poisoning,23,00,27-01-2023,28-01-2023
+Kerala,Malappuram,Food Poisoning,20,00,21-01-23,31-01-23
+Kerala,Thrissur,Acute Diarrheal Disease,30,00,26-01-23,22
+Kerala,Wayanad,Acute Diarrheal Disease,98,00,24-01-23,30-01-23
+Odisha,Deogarh,Acute Diarrheal Disease,20,00,27-01-2023,27-01-2023
+Rajasthan,Dausa,Food Poisoning,103,00,25-01-2023,27-01-2023
+Tamil Nadu,Tiruchirappalli,Cholera,06,00,27-01-2023,28-01-2023
+Uttar Pradesh,Pilibhit,Acute Diarrheal Disease,25,00,21-01-2023,27-01-2023
+Gujarat,Gir Somnath,Measles,05,00,17-12-2022,
+Kerala,Kannur,Hepatitis A,12,00,17-11-22,
+Assam,Barpeta,Rabies,1,1,16-12-23,17-12-23
+Assam,Kamrup,Acute Diarrheal Disease,122,0,13-12-23,17-12-23
+Assam,Udalguri,Chickenpox,11,0,16-12-23,16-12-23
+Bihar,Patna,Mumps,28,0,06-12-23,11-12-23
+Bihar,Supaul,Measles,5,0,09-12-23,16-12-23
+Chhattisgarh,Kabirdham,Acute Diarrheal Disease,10,0,10-12-23,12-12-23
+Gujarat,Junagadh,Acute Diarrheal Disease,35,0,11-12-23,11-12-23
+Gujarat,Rajkot,Acute Diarrheal Disease,18,0,14-12-23,14-12-23
+Jharkhand,East Singhbum,Measles,2,0,14-12-23,15-12-23
+Karnataka,Belagavi,Animal Bite - Dog Bite,22,0,14-12-23,16-12-23
+Karnataka,Raichur,Acute Diarrheal Disease,26,0,10-12-23,11-12-23
+Karnataka,Shivamogga,Kyasanur Forest Disease,1,0,15-12-23,15-12-23
+Kerala,Kannur,Hepatitis A,11,0,14-12-23,14-12-23
+Kerala,Kollam,Acute Diarrheal Disease,36,0,12-12-23,12-12-23
+Kerala,Kottayam,Chickenpox,9,0,07-12-23,11-12-23
+Kerala,Thiruvananthapuram,Mumps,7,0,13-12-23,14-12-23
+Kerala,Thrissur,Chickenpox,24,0,11-12-23,12-12-23
+Madhya Pradesh,Harda,Mumps,20,0,12-12-23,14-12-23
+Madhya Pradesh,Hoshangabad,Acute Diarrheal Disease,35,0,10-12-23,11-12-23
+Madhya Pradesh,Jhabua,Acute Diarrheal Disease,15,1,11-12-23,11-12-23
+Maharashtra,Amravati,Malaria,17,0,08-12-23,11-12-23
+Maharashtra,Aurangabad,Acute Diarrheal Disease,40,0,15-12-23,16-12-23
+Maharashtra,Gadchiroli,Malaria,6,1,09-12-23,12-12-23
+Maharashtra,Palghar,Dengue,7,1,11-12-23,11-12-23
+Mizoram,Mamit,Food Poisoning,14,0,17-12-23,17-12-23
+Odisha,Rayagada,Acute Diarrheal Disease,18,0,11-12-23,13-12-23
+Odisha,Sundargarh,Cholera,3001,9,11-12-23,16-12-23
+Rajasthan,Baran,Mumps,60,0,13-12-23,13-12-23
+Tamil Nadu,Namakkal,Chickenpox,11,0,15-12-23,16-12-23
+Tamil Nadu,Tiruvannamalai,Cholera,20,1,13-12-23,14-12-23
+Bihar,Supaul,Measles,5,0,04-12-23,
+Karnataka,Bagalkot,Mumps,14,0,16-11-23,
+Maharashtra,Nashik,Zika Virus,1,0,29-11-23,
+Odisha,Dhenkanal,Typhoid,11,0,01-12-23,
+Assam,Bajali,Scrub Typhus,1,1,22-12-23,23-12-23
+Assam,Darrang,Human Rabies,1,1,16-12-23,18-12-23
+Assam,Lakhimpur,Fever with Rash,7,0,20-12-23,20-12-23
+Chhattisgarh,Balod,Chickenpox,20,0,17-12-23,19-12-23
+Chhattisgarh,Bijapur,Mumps,21,0,15-12-23,22-12-23
+Chhattisgarh,Durg,Acute Diarrheal Disease,121,0,18-12-23,18-12-23
+Gujarat,Sabar Kantha,Crimean-Congo Hemorrhagic Fever,1,1,21-12-23,22-12-23
+Gujarat,Surendranagar,Food Poisoning,35,0,22-12-23,22-12-23
+Jammu and Kashmir,Udhampur,Mumps,15,0,18-12-23,19-12-23
+Karnataka,Bengaluru Rural,Mumps,12,0,19-12-23,19-12-23
+Karnataka,Gadag,Mumps,43,0,19-12-23,19-12-23
+Karnataka,Vijayapura,Human Rabies,1,1,19-12-23,20-12-23
+Kerala,Kannur,Food Poisoning,35,0,21-12-23,22-12-23
+Kerala,Kozhikode,Hepatitis A,16,0,18-12-23,18-12-23
+Kerala,Palakkad,Jaundice,18,0,18-12-23,18-12-23
+Kerala,Pathanamthitta,Hepatitis A,6,0,20-12-23,23-12-23
+Kerala,Wayanad,Chickenpox,18,0,20-12-23,20-12-23
+Madhya Pradesh,Datia,Chickenpox,7,0,19-12-23,20-12-23
+Madhya Pradesh,Datia,Chickenpox,5,0,17-12-23,18-12-23
+Madhya Pradesh,East Nimar,Fever,23,0,19-12-23,19-12-23
+Madhya Pradesh,Hoshangabad,Leptospirosis,3,1,22-12-23,22-12-23
+Madhya Pradesh,Hoshangabad,Scrub Typhus,6,0,22-12-23,22-12-23
+Madhya Pradesh,Narsinghpur,Chickenpox,9,0,16-12-23,19-12-23
+Maharashtra,Gadchiroli,Food Poisoning,132,0,20-12-23,20-12-23
+Maharashtra,Jalgaon,Acute Diarrheal Disease,62,0,23-12-23,23-12-23
+Maharashtra,Nashik,Chikungunya,8,0,23-11-23,20-12-23
+Maharashtra,Raigad,Dengue,1,1,18-12-23,20-12-23
+Maharashtra,Sangli,Mumps,9,0,16-12-23,18-12-23
+Odisha,Mayurbhanj,Acute Diarrheal Disease,78,0,24-12-23,24-12-23
+Tamil Nadu,Thanjavur,Mumps,6,0,20-12-23,21-12-23
+Tamil Nadu,Tiruchirappalli,Acute Diarrheal Disease,20,0,21-12-23,22-12-23
+Tripura,Gomati,Acute Gastroenteritis,31,0,20-12-23,21-12-23
+Uttar Pradesh,Lalitpur,Measles,11,0,19-12-23,21-12-23
+Uttar Pradesh,Pratapgarh,Mumps,10,0,21-12-23,23-12-23
+Uttarakhand,Pauri Garhwal,Fever,27,0,19-12-23,19-12-23
+Maharashtra,Satara,Chikungunya,5,0,09-12-23,
+Uttar Pradesh,Baghpat,Food Poisoning,21,0,07-12-23,
+Uttar Pradesh,Banda,Mumps,29,0,13-12-23,
+Uttar Pradesh,Banda,Chickenpox,22,0,14-12-23,
+Uttar Pradesh,Kushi Nagar,Food Poisoning,24,0,06-12-23,
+Uttar Pradesh,Saharanpur,Fever,144,0,07-12-23,
+Assam,Barpeta,Scrub Typhus,1,1,25-12-23,30-12-23
+Assam,Udalguri,Acute Diarrheal Disease,10,0,30-12-23,30-12-23
+Bihar,Jehanabad,Food Poisoning,13,0,27-12-23,27-12-23
+Chhattisgarh,Baloda Bazar,Acute Diarrheal Disease,23,0,27-12-23,28-12-23
+Gujarat,Bharuch,Acute Diarrheal Disease,35,0,27-12-23,28-12-23
+Gujarat,Gandhinagar,Cholera,4,0,30-12-23,30-12-23
+Karnataka,Bagalkot,Mumps,19,0,27-11-23,27-12-23
+Karnataka,Bengaluru Rural,Cholera,318,1,25-12-23,25-12-23
+Karnataka,Chitradurga,Food Poisoning,37,0,27-12-23,28-12-23
+Madhya Pradesh,Khargone,Acute Diarrheal Disease,34,0,27-12-23,27-12-23
+Odisha,Cuttack,Acute Diarrheal Disease,16,0,27-12-23,27-12-23
+Odisha,Kandhamal,Acute Diarrheal Disease,126,0,25-12-23,26-12-23
+Odisha,Sundargarh,Acute Diarrheal Disease,25,0,29-12-23,30-12-23
+Tamil Nadu,Tiruvannamalai,Cholera,45,0,23-12-23,26-12-23
+West Bengal,Coochbehar,Acute Diarrheal Disease,60,0,29-12-23,29-12-23
+Bihar,Pashchim Champaran,Measles,18,0,10-12-23,-
+Bihar,Pashchim Champaran,Measles,7,0,04-12-23,-
+Uttar Pradesh,Rae Bareli,Acute Diarrheal Disease,87,0,21-12-23,-
+West Bengal,Purba Bardhaman,Food Poisoning,16,0,18-12-23,-
+Chhattisgarh,Baloda Bazar,Chickenpox,52,00,21-01-2023,30-01-2023
+Gujarat,Mahesana,Acute Diarrheal Disease,449,00,02-02-2023,02-02-2023
+Himachal Pradesh,Kangra,Acute Diarrheal Disease,112,00,31-01-2023,31-01-2023
+Kerala,Kanpur,Food Poisoning,40,00,30-01-23,
+Kerala,Kasaragod,Suspected Food Poisoning,665,00,01-02-23,07-02-23
+Kerala,Palakkad,Influenza H3N2,23,00,26-01-23,09-02-23
+Karnataka,Bengaluru,Acute Diarrheal Disease,44,00,19-01-23,31-01-23
+Karnataka,Belagavi,Food Poisoning,25,00,05-02-23,06-02-23
+Karnataka,Chikkamagaluru,Kyasanur Forest Disease,01,00,21-01-23,21-01-23
+Karnataka,Davangere,Food Poisoning,12,00,28-01-23,30-01-23
+Karnataka,Davangere,Chickenpox,13,00,23-01-23,23-01-23
+Karnataka,Shivamogga,Acute Diarrheal Disease,178,00,16-01-23,17-01-23
+Karnataka,Tumkur,Dengue and Chikungunya,20,00,23-01-23,24-01-23
+Karnataka,Tumkur,Pyresia of Unknown Origin,125,00,20-01-23,24-01-23
+Karnataka,Tumkur,Chikungunya,15,00,16-01-23,20-01-23
+Karnataka,Uduppi,Food Poisoning,30,00,20-01-23,21-01-23
+Maharashtra,Latur,Measles,07,00,30-01-2023,30-01-2023
+Maharashtra,Sangli,Food Poisoning,34,00,27-01-2023,31-01-2023
+Odisha,Bargarh,Food Poisoning,31,00,31-01-2023,31-01-2023
+Odisha,Cuttack,Food Poisoning,220,00,19-01-2023,30-01-2023
+Puducherry,Pondicherry,Food poisoning,15,00,31-01-2023,31-01-2023
+Rajasthan,Alwar,Measles,92,00,19-11-2022,03-02-2023
+Uttar Pradesh,Fatehpur,Chickenpox,24,00,27-01-2023,01-02-2023
+Kerala,Malappuram,Cutaneous Leishmaniasis,02,00,15-11-22,
+Karnataka,Bengaluru Rural,Chickenpox,24,00,15-01-23,
+Maharashtra,Ahmednagar,Dengue,02,01,13-01-2023,
+Assam,Marigoon,Leptospirosis,01,00,08-02-2023,09-02-2023
+Chhattisgarh,Baloda Bazar,Chickenpox,21,00,25-01-2023,06-02-2023
+Gujarat,Junagadh,Food Poisoning,32,00,10-02-2023,11-02-2023
+Jharkhand,Dumka,Chickenpox,03,00,07-02-2023,08-02-2023
+Karnataka,Bengaluru Urban,Chickenpox,29,00,08-02-2023,09-02-2023
+Karnataka,Bidar,Rabies,01,01,02-02-23,06-02-23
+Karnataka,Ballari,Rabies,01,01,06-02-23,07-02-23
+Karnataka,Dakshina Kannada,Food Poisoning,22,00,07-02-23,09-02-23
+Karnataka,Dakshina Kannada,Acute Diarrheal Disease,34,00,08-02-23,09-02-23
+Karnataka,Hassan,Chickenpox,29,00,03-02-23,07-02-23
+Karnataka,Tumkur,Chickenpox,13,00,04-02-23,09-02-23
+Karnataka,Udupi,Acute Diarrheal Disease,12,00,04-02-23,06-02-23
+Kerala,Kanpur,Food Poisoning,181,00,08-02-23,10-02-23
+Kerala,Palakkad,Chickenpox,19,00,26-01-23,16-02-23
+Kerala,Thrissur,Chickenpox,11,00,04-02-23,15-02-23
+Odisha,Angul,Food Poisoning,27,00,06-02-23,07-02-23
+Odisha,Deogarh,Chickenpox,28,00,10-02-2023,10-02-2023
+Uttar Pradesh,Mirzapur,Jatropha Poisoning,16,00,05-01-2023,07-02-2023
+Kerala,Ernakulam,Acute Diarrheal Disease,17,00,07-01-23,
+Kerala,Kozhikode,Acute Diarrheal Disease,0,00,13-01-2023,
+Meghalaya,West Khasi Hills,Rubella,01,00,08-01-2023,
+Assam,Dibrugarh,Rabies,01,01,13-02-2023,13-02-2023
+Assam,Sonitpur,Chickenpox,20,00,16-02-2023,17-02-2023
+Gujarat,Jamnagar,Food Poisoning,44,00,19-02-2023,19-02-2023
+Jharkhand,Khunti,Chickenpox,17,00,11-02-2023,13-02-2023
+Karnataka,Kodagu,Diphtheria,01,01,11-02-23,13-02-23
+Karnataka,Hassan,Food Poisoning,16,00,16-02-23,17-02-23
+Karnataka,Yadgiri,Acute Diarrheal Disease,93,03,14-02-23,19-02-23
+Kerala,Ernakulam,Food Poisoning,105,00,11-02-23,20-02-23
+Maharashtra,Osmanabad,Food Poisoning,13,00,19-02-2023,19-02-2023
+Odisha,Balasore,Japanese Encephalitis,12,01,17-02-23,18-02-23
+Uttar Pradesh,Mirzapur,Food Poisoning,21,02,13-02-2023,14-02-2023
+Bihar,Katihar,Food Poisoning,145,00,07-02-2023,
+Chhattisgarh,Kanker,Acute Diarrheal Disease,167,00,09-02-2023,
+Jammu and Kashmir,Anantnag,Hepatitis A,44,00,16-01-2023,
+Karnataka,Hassan,Measles & Rubella,60,00,09-02-23,
+Kerala,Kannur,Food Poisoning,238,00,09-02-2023,
+Kerala,Malappuram,Cutaneous Leishmaniasis,01,00,04-02-23,
+Kerala,Wayanand,Acute Diarrheal Disease,43,00,17-01-23,
+Maharashtra,Solapur,Food Poisoning,66,00,02-02-2023,
+Odisha,Jajpur,Hepatitis A,19,00,17-01-23,
+Uttar Pradesh,Fatehpur,Measles,05,00,07-02-2023,
+Uttar Pradesh,Jalaun,Measles,31,00,08-02-2023
+Gujarat,Navsari,Food Poisoning,18,00,20-02-2023,21-02-2023
+Jammu and Kashmir,Badgam,Jaundice,08,00,22-02-2023,25-02-2023
+Jammu and Kashmir,Badgam,Hepatitis A,09,00,20-02-2023,23-02-2023
+Kerala,Kannur,Food Poisoning,182,00,24-02-23,27-02-23
+Kerala,Kottayam,Monkey Pox,01,00,20-02-23,20-02-23
+Karnataka,Bagalkote,Chickenpox,10,00,21-02-23,23-02-23
+Karnataka,Yadgir,Chikungunya,13,00,21-02-23,22-02-23
+Madhya Pradesh,Betul,Acute Diarrheal Disease,31,00,23-02-2023,24-02-2023
+Madhya Pradesh,Khargone,Acute Diarrheal Disease,46,00,26-02-2023,26-02-2023
+Odisha,Bargarh,Food Poisoning,14,00,23-02-2023,23-02-2023
+Telangana,Narayanpet,Acute Diarrheal Disease,64,00,21-02-2023,21-02-2023
+Uttarakhand,Pithoragarh,Hepatitis A,56,00,21-02-23,26-02-23
+Assam,Lakhimpur,Acute Diarrheal Disease,28,00,07-02-2023,
+Bihar,Patna,Measles,17,00,31-01-2023,
+Jharkhand,Jamtara,Measles & Rubella,05,00,08-02-2023,
+Kerala,Malappuram,Acute Diarrheal Disease,20,00,21-01-23,
+Karnataka,Dakshin Kannada,Leptospirosis,01,01,01-02-23,
+Karnataka,Dakshin Kannada,Acute Diarrheal Disease,254,00,06-02-2023,
+Karnataka,Hassan,Chickenpox,19,00,06-02-2023,
+Karnataka,Raichur,Chikungunya,42,00,16-02-23,
+Madhya Pradesh,Shivpuri,Food Poisoning,111,00,20-01-2023,
+Maharashtra,Pune,Acute Diarrheal Disease,49,00,09-02-2023,
+Tamil Nadu,Erode,Food Poisoning,102,00,10-02-2023,
+Uttar Pradesh,Pratapgarh,Fever with Rash,65,00,06-02-2023
+Bihar,Aurangabad,Measles,06,00,25-02-2023,02-03-2023
+Chhattisgarh,Durg,Fever with Rash,31,00,28-02-2023,01-03-2023
+Kerala,Malappuram,Cholera,52,00,04-03-23,09-03-23
+Kerala,Palakkad,Chickenpox,22,00,27-02-23,02-03-23
+Kerala,Thrissur,Adeno Virus,220,00,02-03-23,09-03-23
+Maharashtra,Ahmednagar,Fever,120,00,24-02-2023,01-03-2023
+Odisha,Cuttack,Food Poisoning,12,00,25-02-2023,27-02-2023
+Tamil Nadu,Salem,Chickenpox,13,00,01-03-2023,02-03-2023
+Tamil Nadu,Tiruvannamalai,Chickenpox,40,00,25-02-2023,27-02-2023
+Kerala,Ernakulam,Adeno Virus,581,00,18-02-23,
+Kerala,Kottayam,Adeno Virus,75,00,19-02-23,
+Kerala,Palakkad,Chickenpox,10,00,29-01-23,
+Kerala,Palakkad,Food Poisoning,23,00,23-02-23,
+Madhya Pradesh,Raisen,Chickenpox,14,00,18-02-23,
+Odisha,Rayagada,Acute Diarrheal Disease,11,00,21-02-23,

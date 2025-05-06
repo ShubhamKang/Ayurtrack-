@@ -1,0 +1,708 @@
+Name of State/UT,Name of District,Disease/ Illness,No. of Cases,No. of Deaths,Date of Start of Outbreak,Date of Reporting
+Assam,Dima Hasao,Rabies,1,1,07-03-21,10-03-21
+Bihar,Jahanabad,Chicken Pox,13,0,07-03-21,12-03-21
+Maharashtra,Kolhapur,Chikungunya,6,0,10-03-21,10-03-21
+Tamil Nadu,Madurai,Diphtheria,1,1,07-03-21,09-03-21
+West Bengal,Hooghly,Cholera,9,0,06-03-21,08-03-21
+West Bengal,Hooghly,Acute Diarrheal Disease,43,0,08-03-21,10-03-21
+West Bengal,Purba Medinipur,Food Poisoning,95,0,12-03-21,12-03-21
+West Bengal,Purba Medinipur,Food Poisoning,186,0,10-03-21,10-03-21
+Assam,Darrang (Mangaldoi),Leptospirosis,1,0,02-03-21,
+Kerala,Ernakulam,Shigella,3,0,03-03-21,
+Andhra Pradesh,Ananthapur,Food Poisoning,5,0,15-03-21,16-03-21
+Haryana,Panipat,Diphtheria,1,0,17-03-21,22-03-21
+Haryana,Faridabad,Chickenpox,5,0,18-03-21,22-03-21
+Jharkhand,West Singhbhum,Chickenpox,14,0,15-03-21,16-03-21
+Jharkhand,West Singhbhum,Chickenpox,8,0,18-03-21,19-03-21
+Maharashtra,Bhandara,Food Poisoning,88,1,15-03-21,18-03-21
+Meghalaya,West Khasi Hills,Acute Diarrheal Disease,37,0,12-03-21,17-03-21
+West Bengal,Puruliya,Acute Diarrheal Disease,255,0,16-03-21,17-03-21
+Odisha,Dhenkanal,Food Poisoning,21,2,19-02-21,
+West Bengal,South 24 Paraganas,Acute Diarrheal Disease,122,0,09-03-21,
+Karnataka,Bidar,Chikungunya,44,0,15-02-21,
+Assam,Cachar,Rabies,2,2,18-03-21,25-03-21
+Assam,Golaghat,Rabies,2,2,24-03-21,26-03-21
+Maharashtra,Satara,Acute Diarrheal Disease,80,0,21-03-21,24-03-21
+Meghalaya,Ri Bhoi,Acute Diarrheal Disease,32,0,22-03-21,22-03-21
+Odisha,Kalahandi,Acute Diarrheal Disease,12,0,25-03-21,27-03-21
+Odisha,Nawarangpur,Chickenpox,5,0,25-03-21,27-03-21
+Odisha,Angul,Food Poisoning,127,0,24-03-21,25-03-21
+West Bengal,South 24 Parganas,Acute Diarrheal Disease,57,0,25-03-21,31-03-21
+West Bengal,Purba Medinipur,Food Poisoning,503,0,24-03-21,25-03-21
+West Bengal,South 24 Parganas,Acute Diarrheal Disease,32,0,22-03-21,25-03-21
+West Bengal,North 24 Parganas,Acute Diarrheal Disease,93,0,19-03-21,20-03-21
+Jharkhand,Pakur,Suspected Measles,11,0,25-01-21,
+Karnataka,Raichur,Acute Diarrheal Disease,11,0,25-01-21,
+Kerala,Ernakulam,Acute Diarrheal Disease,19,0,28-03-21,05-04-21
+Kerala,Ernakulam,Food Poisoning,19,0,24-03-21,05-04-21
+Odisha,Angul,Food Poisoning,24,0,01-04-21,06-04-21
+Odisha,Kandhamal,Acute Diarrheal Disease,10,0,04-04-21,13-04-21
+Tamil Nadu,Madurai,Diphtheria,1,0,30-03-21,04-04-21
+West Bengal,Purba Bardhaman,Acute Diarrheal Disease,97,0,31-03-21,02-04-21
+West Bengal,Purba Bardhaman,Acute Diarrheal Disease,29,0,31-03-21,01-04-21
+Himachal Pradesh,Kinnaur,Jaundice,18,0,15-03-21,
+Kerala,Ernakulam,Acute Diarrheal Disease,37,0,09-03-21,
+Kerala,Ernakulam,Hepatitis A,15,0,05-03-21,
+Karnataka,Dharwad,Suspected Dengue,10,0,10-04-21,10-04-21
+Kerala,Trivandrum,Food Poisoning,5,0,08-04-21,12-04-21
+Kerala,Ernakulam,Acute Diarrheal Disease,50,0,05-04-21,12-04-21
+Kerala,Palakkad,Dengue,7,0,01-04-21,12-04-21
+Kerala,Wayanad,Shigellosis,1,1,01-04-21,05-04-21
+Meghalaya,East Khasi Hills,Acute Diarrheal Disease,8,0,05-04-21,08-04-21
+West Bengal,Burdhaman,Acute Diarrheal Disease,41,0,06-04-21,07-04-21
+West Bengal,Hooghly,Cholera,25,0,07-04-21,08-04-21
+West Bengal,Howrah,Acute Diarrheal Disease,31,0,05-04-21,06-04-21
+Assam,Jorhat,Rubella,1,0,24-03-21,
+Meghalaya,East Garo Hills,Acute Diarrheal Disease,24,0,09-04-21,12-04-21
+West Bengal,South 24 Parganas,Acute Diarrheal Disease,120,1,04-04-21,04-04-21
+West Bengal,South 24 Parganas,Acute Diarrheal Disease,55,0,22-04-21,23-04-21
+Maharashtra,Satara,Dengue,7,0,15-04-21,24-04-21
+West Bengal,South 24 Parganas,Acute Diarrheal Disease,146,0,16-04-21,18-04-21
+Kerala,Kottayam,Dengue,19,0,10-03-21,
+Maharashtra,Ahmednagar,Chikungunya,3,1,23-03-21,
+Maharashtra,Ahmednagar,Chikungunya,13,0,04-04-21,
+Maharashtra,Satara,Dengue,31,1,05-04-21,
+Odisha,Koraput,Acute Diarrheal Disease,09,00,01-05-21,05-05-21
+Odisha,Nayagarh,Acute Diarrheal Disease,31,01,30-04-21,01-05-21
+Punjab,Shahid Bhagat Singh Nagar,Acute Diarrheal Disease,19,0,08-05-21,10-05-21
+Kerala,Kasaragod,Dengue,51,0,12-05-21,17-05-21
+Kerala,Kozhikode,Dengue,43,0,10-04-21,
+Kerala,Thrissur,Brucellosis,1,0,20-04-21,
+Maharashtra,Thane,Malaria,2,1,02-05-21,
+Kerala,Ernakulam,Acute Diarrheal Disease,92,00,01-01-21,06-01-21
+Maharashtra,Ahmednagar,Food Poisoning,104,01,03-01-21,04-01-21
+Madhya Pradesh,Hoshangabad,Chickenpox,15,00,07-01-21,08-01-21
+Tamil Nadu,Dharmapuri,Acute Diarrheal Disease,17,00,04-01-21,07-01-21
+West Bengal,Howrah,Food Poisoning,47,00,06-01-21,07-01-21
+Assam,Lakshimpur,Suspected Mushroom Poisoning,09,00,19-05-21,20-05-21
+Assam,Lakshimpur,Suspected Mushroom Poisoning,06,00,17-05-21,19-05-21
+Kerala,Trivandrum,Zika Virus,65,00,15-05-21,20-05-21
+Maharashtra,Nashik,Chikungunya,06,00,19-05-21,21-05-21
+Kerala,Kannur,Dengue,32,00,02-05-21,
+Kerala,Malappuram,Dengue,37,00,03-03-21,
+Maharashtra,Nashik,Chikungunya,03,00,18-03-21,
+Maharashtra,Nashik,Chikungunya,05,00,17-03-21,
+Maharashtra,Nashik,Chikungunya,03,00,19-03-21,
+Maharashtra,Pune,Chikungunya,04,00,08-02-21,
+Maharashtra,Pune,Dengue,04,00,08-01-21,
+Maharashtra,Pune,Chikungunya,07,00,04-02-21,
+Maharashtra,Pune,Chikungunya,07,00,04-02-21,
+Maharashtra,Thane,Dengue,02,01,29-04-21,
+Haryana,Faridabad,Fever with rashes,05,00,18-03-21,
+Kerala,Ernakulam,Pyrexia of unknown origin,09,00,11-05-21,
+Kerala,Kozhikode,Dengue,64,00,05-05-21,
+Gujarat,Navsari,Acute Diarrheal Disease,15,0,06-06-21,07-06-21
+Gujarat,Sabarkantha,Jaundice,11,0,29-05-21,31-05-21
+Gujarat,Surat,Acute Diarrheal Disease,108,6,30-05-21,31-05-21
+Maharashtra,Bhandara,Acute Diarrheal Disease,108,0,03-06-21,04-06-21
+Maharashtra,Pune,Chikungunya,6,0,01-06-21,06-06-21
+West Bengal,Purba Bardhaman,Cholera,29,0,31-05-21,01-06-21
+West Bengal,Birbhum,Acute Diarrheal Disease,51,0,01-06-21,02-06-21
+Kerala,Ernakulam,Dengue,24,1,05-05-21,
+Kerala,Malappuram,Dengue,20,0,17-05-21,
+Meghalaya,West Khasi Hills,Mushroom Poisoning,8,5,25-05-21,
+Assam,Lakhimpur,Scrub Typhus,01,00,07-06-21,11-06-21
+Maharashtra,Osmanabad,Dengue Fever,07,01,02-06-21,09-06-21
+Punjab,Sahibzada Ajit Singh Nagar,Acute Diarrheal Disease,337,00,09-06-21,09-06-21
+Punjab,Sahibzada Ajit Singh Nagar,Acute Diarrheal Disease,07,00,08-06-21,09-06-21
+Tamil Nadu,Dindigul Palani,Diphtheria,01,00,05-06-21,14-06-21
+Gujarat,Anand,Acute Diarrheal Disease,15,00,31-05-21,
+Kerala,Kozhikode,Dengue,64,00,11-05-21,
+Kerala,Trivandrum,Chikungunya,10,00,14-05-21,
+Kerala,Palakkad,Dengue Fever,08,00,19-05-21,
+West Bengal,Diamond Harbour Health District,Acute Diarrheal Disease,289,00,16-04-21,
+Assam,Nagaon,Japanese Encephalitis,01,00,17-06-21,18-06-21
+Gujarat,Banaskantha,Epidemic Dropsy,07,02,18-06-21,18-06-21
+Gujarat,Morbi,Acute Diarrheal Disease,44,00,11-06-21,16-06-21
+Odisha,Mayurbhanj,Acute Diarrheal Disease,18,00,20-06-21,26-06-21
+West Bengal,Burdhaman,Acute Diarrheal Disease,29,00,17-06-21,23-06-21
+Kerala,Kozhikode,Dengue,24,00,20-05-21,
+Maharashtra,Karad,Suspected Dengue,13,00,09-06-21,
+Maharashtra,Satara,Suspected Dengue,15,00,08-06-21,
+Maharashtra,Satara,Suspected Dengue,11,00,08-06-21,
+Bihar,Jahanabad,Japanese Encephalitis,01,01,21-06-21,24-06-21
+Bihar,Jahanabad,Food Poisoning,19,00,20-06-21,24-06-21
+Madhya Pradesh,Khargon,Acute Diarrheal Disease,174,00,24-06-21,25-06-21
+Maharashtra,Nandurbar,Acute Diarrheal Disease,36,00,19-06-21,23-06-21
+Maharashtra,Sindhudurg (Kudal),Dengue,21,00,25-06-21,25-06-21
+Maharashtra,Sindhudurg (Kudal),Dengue,41,00,24-06-21,25-06-21
+Odisha,Balasore,Food Poisoning,12,00,27-06-21,28-06-21
+Uttar Pradesh,Farrukhabad,Dengue,07,00,26-06-21,26-06-21
+Kerala,Kollam,Dengue,22,00,07-06-21,
+Kerala,Palakkad,Dengue,16,00,24-05-21,
+Kerala,Thiruvananthapuram,Chikungunya,16,00,15-06-21,
+Maharashtra,Kolhapur,Dengue,05,03,15-06-21,
+Maharashtra,Pune,Chikungunya,05,00,14-06-21,
+West Bengal,Birbhum,Acute Diarrheal Disease,35,00,17-06-21,
+West Bengal,Birbhum,Cholera,51,00,17-06-21,
+Assam,Bongaigaon,Japanese Encephalitis,01,01,29-06-21,03-07-21
+Assam,Cachar,Japanese Encephalitis,01,01,24-06-21,03-07-21
+Gujarat,Gandhi Nagar,Acute Diarrheal Disease,12,00,30-06-21,30-06-21
+Gujarat,Kheda,Cholera,10,00,29-06-21,29-06-21
+Jharkhand,Ranchi,Acute Diarrheal Disease,08,00,28-06-21,01-07-20
+Madhya Pradesh,Badwani,Acute Diarrheal Disease,17,00,02-07-21,03-07-21
+Kerala,Ernakulam,Food Poisoning,128,00,30-06-21,06-07-21
+Kerala,Alappuzha,Food Poisoning,616,00,28-06-21,01-07-21
+Karnataka,Chitradurga,Food Poisoning,32,00,28-06-21,30-06-21
+Karnataka,Davanagere,Acute Diarrheal Disease,31,00,29-06-21,29-06-21
+Punjab,Patiala,Acute Diarrheal Disease,20,01,29-06-21,04-07-21
+West Bengal,Purulia,Acute Diarrheal Disease,37,00,04-07-21,04-07-21
+West Bengal,Jhargram,Food Poisoning,34,00,01-07-21,01-07-21
+Andhra Pradesh,Visakhapatnam,Food Poisoning,18,00,17-06-21,
+Assam,Dhemaji,Scrub Typhus,01,00,14-06-21,
+Assam,Lakhimpur,Japanese Encephalitis,01,00,25-06-21,
+Assam,Lakhimpur,Japanese Encephalitis,01,01,17-06-21,
+Maharashtra,Aurangabad,Suspected Dengue,05,01,25-06-21,
+Maharashtra,Nandurbar,Acute Diarrheal Disease,07,00,19-06-21,
+Maharashtra,Pune,Dengue,06,00,24-06-21,
+Kerala,Palakkad,Suspected Dengue,09,00,10-06-21,
+Kerala,Palakkad,Dengue,08,00,10-06-21,
+Chhattisgarh,Raigarh,Acute Diarrheal Disease,27,00,07-07-2022,10-07-2022
+Haryana,Kaithal,Hepatitis A,13,00,07-07-22,13-07-22
+Haryana,Nuh,Measles,08,00,06-07-22,07-07-2022
+Jharkhand,West Singhbhum,Fever with Rash,5,0,07-07-2022,07-07-2022
+Karnataka,Bidar,Chikungunya,36,00,06-07-22,07-07-22
+Karnataka,Chitradurga,Japanese Encephalitis,01,00,03-07-22,05-07-22
+Karnataka,Raichur,Acute Diarrheal Disease,42,00,03-07-22,04-07-22
+Karnataka,Vijayapura,Acute Diarrheal Disease,54,00,03-07-22,04-07-22
+Maharashtra,Chandrapur,Acute Diarrheal Disease,45,0,04-07-2022,05-07-2022
+Odisha,Subarnapur,Acute Diarrheal Disease,24,00,04-07-22,11-07-22
+Odisha,Sundargarh,Food Poisoning,108,00,05-07-22,06-07-22
+Punjab,Fatehgarh Sahib,Dengue,19,00,28-07-2022,04-08-2022
+Telangana,Jogulamba Gadwal,Acute Diarrheal Disease,38,00,07-07-2022,09-07-2022
+Telangana,Jogulamba Gadwal,Acute Diarrheal Disease,65,00,28-07-2022,07-08-2022
+Uttarakhand,Rudraprayag,Acute Diarrheal Disease,12,00,04-07-22,10-07-22
+Uttar Pradesh,Rae Bareli,Chickenpox,25,00,02-07-2022,07-07-2022
+Jharkhand,Simdega,Malaria,148,1,28-06-2022,
+Kerala,Ernakulam,Dengue,85,00,27-06-22,
+Kerala,Thrissur,Shigella,01,00,01-07-22,
+Kerala,Kollam,Dengue,42,00,16-06-22,
+Madhya Pradesh,Khargone,Acute Diarrheal Disease,19,00,01-07-2022,
+Mizoram,Aizawl,Visceral Leishmaniosis,1,0,01-06-2022,
+Mizoram,Aizawl,Acute Diarrheal Disease,24,0,22-06-2022,
+Odisha,Jharsuguda,Acute Diarrheal Disease,21,1,28-01-2022,
+Tamil Nadu,Thiruvarur,Food Poisoning,12,00,25-06-2022,
+Telangana,Hyderabad,Acute Diarrheal Disease,65,00,27-06-22,
+Andhra Pradesh,Kurnool,Acute Diarrheal Disease,41,03,25-07-21,26-07-2021
+Assam,Nagaon,Japanese Encephalitis,01,00,19-07-21,20-07-21
+Gujarat,Navsari,Acute Diarrheal Disease,31,00,25-07-21,25-07-21
+Karnataka,Bellary,Leptospirosis,11,00,23-07-21,24-07-21
+Karnataka,Mandya,Gastroenteritis,26,00,26-07-21,28-07-21
+Punjab,Sangrur,Acute Diarrhealbisease,20,00,24-07-20,24-07-20
+Assam,Bongaigaon,Japanese Encephalitis,02,00,07-07-21,
+Assam,Lakhimpur,Japanese Encephalitis,02,00,13-07-21,
+Haryana,Panchkula,Cholera,511,01,13-07-21,
+Jharkhand,Godda,Acute Diarrheal Disease,08,00,14-07-21,
+Jharkhand,West Singhbhum,Acute Diarrheal Disease,09,01,21-07-21,
+Kerala,Palakkad,Dengue,11,00,13-06-21,
+Kerala,Ernakulam,Zika,01,00,14-07-21,
+Maharashtra,Chandrapur,Dengue,58,01,03-07-21,
+Maharashtra,Nagpur,Dengue,04,01,10-07-21,
+Andhra Pradesh,West Godavari,Convulsions of Unknown cause,29,00,17-01-21,17-01-21
+Puducherry,Puducherry,Dengue,06,00,11-01-21,11-01-21
+Bihar,West Champaran (Betilah),Measles,33,00,01-01-21,
+Kerala,Camanore (Kamur),Visceral Leishmaniasis,01,00,25-10-20,
+Kerala,Camanore (Kamur),Acute Diarrheal Disease,16,00,09-12-20,
+Maharashtra,Gondia,Acute Diarrheal Disease,194,00,07-01-21,
+Maharashtra,Satara,Dengue,08,00,28-12-20,
+Tamil Nadu,Thiruvallur,Diphtheria,01,00,04-01-21,
+Assam,Cachar,Japanese Encephalitis,01,01,20-07-21,29-07-21  
+Assam,Darrang (Mangaldol),Acute Encephalitic Syndrome,01,01,15-07-21,28-07-21  
+Assam,Lakhimpur,Acute Encephalitis Syndrome,01,01,22-07-21,31-07-21  
+Assam,Nagaon,Japanese Encephalitis,01,00,30-07-21,31-07-21  
+Assam,Udalguri,Suspected Japanese Encephalitis,01,00,27-07-21,29-07-21  
+Assam,Udalguri,Acute Encephalitis Syndrome,01,01,25-07-21,29-07-21  
+Gujarat,Kheda,Food Poisoning,24,00,29-07-21,29-07-21  
+Gujarat,Panchmahal,Viral Encephalitis,01,01,31-07-21,02-08-21  
+Haryana,Panchkula,Cholera,521,01,13-07-21,04-08-21  
+Haryana,Yamuna Nagar,Acute Diarrheal Disease,31,00,31-07-21,02-08-21  
+J&K,Ramban,Food Poisoning,95,01,27-07-21,02-08-21  
+Jharkhand,Godda,Acute Diarrheal Disease,12,00,31-07-21,01-08-21  
+Kerala,Ernakulam,Zika Virus,01,00,24-07-21,02-08-21  
+Maharashtra,Ahmednagar,Fever,07,00,26-07-21,26-07-21  
+Maharashtra,Bhandara,Fever,06,00,19-07-21,30-07-21  
+Maharashtra,Buldhana,Dengue,07,00,01-07-21,28-07-21  
+Maharashtra,Chandrapur,Fever,69,02,19-07-21,30-07-21  
+Maharashtra,Gadchiroli,Malaria,04,01,24-07-21,26-07-21  
+Maharashtra,Jalgaon,Fever,12,00,20-07-21,27-07-21  
+Maharashtra,Nasik,Chikungunya,53,00,18-06-21,29-07-21  
+Maharashtra,Osmanabad,Dengue,04,00,23-07-21,28-07-21  
+Maharashtra,Pune,Chikungunya,05,00,22-07-21,29-07-21  
+Punjab,Mansa,Chickenpox,04,00,02-08-21,02-08-21   
+Assam,Bongaigaon, Japanese Encephalitis,10,02,11-07-21,02-08-21  
+Chandigarh,Chandigarh,Cholera,08,00,01-08-21,09-08-21  
+Gujarat,Vadodara,Cholera,03,00,31-07-21,09-08-21  
+Haryana,Karnal,Acute Diarrheal Disease,36,00,09-08-21,16-08-21  
+Haryana,Yamuna Nagar,Cholera,21,00,03-08-21,09-08-21  
+Haryana,Yamuna Nagar,Acute Diarrheal Disease,21,00,03-08-21,09-08-21  
+Jharkhand,Latehar,Scrub Typhus,08,00,02-08-21,02-08-21  
+Jharkhand,West Singhbhum,Viral Fever,64,00,02-08-21,04-08-21  
+Maharashtra,Amravati,Dengue,13,02,11-07-21,02-08-21  
+Maharashtra,Beed,Chikungunya,07,00,02-08-21,03-08-21  
+Maharashtra,Chandrapur,Malaria,01,01,03-08-21,07-08-21  
+Maharashtra,Chandrapur,Japanese Encephalitis,01,00,16-07-21,04-08-21  
+Maharashtra,Gadchiroli,Malaria,28,01,31-07-21,02-08-21  
+Maharashtra,Kolhapur,Chikungunya,06,00,02-08-21,04-08-21  
+Maharashtra,Raigad,Lepiospirosis,29,00,02-08-21,04-08-21  
+Maharashtra,Thane,Lepiospirosis,02,02,28-06-21,05-08-21  
+Punjab,Sangrur,Acute Diarrheal Disease,68,00,13-08-21,14-08-21  
+West Bengal,Purulia,Acute Diarrheal Disease,22,00,06-08-21,06-08-21  
+West Bengal,South 24 Parganas,Acute Diarrheal Disease,51,00,24-07-21,25-07-21  
+Assam,Darrang (Mangaldoi),Leptospirosis,01,00,29-06-21,  
+Assam,Lakhimpur,Scrub Typhus,01,00,27-07-21,  
+Maharashtra,Chandrapur,Dengue,04,00,13-07-21,  
+Maharashtra,Raigad,Dengue,18,00,11-06-21,  
+Maharashtra,Satara,Chikungunya,20,00,14-07-21,  
+Maharashtra,Satara,Dengue,06,00,16-07-21,  
+Maharashtra,Wardha,Dengue,04,00,07-06-21,
+Assam,Multiple Districts: Bongaigaon, Darrang, Lakhimpur, Marigaon, Nagaon, Udalguri,Japanese Encephalitis,10,02,11-07-21,02-08-21  
+Chandigarh,Chandigarh,Cholera,08,00,01-08-21,09-08-21  
+Gujarat,Vadodara,Cholera,03,00,31-07-21,09-08-21  
+Haryana,Karnal,Acute Diarrheal Disease,36,00,09-08-21,16-08-21  
+Haryana,Yamuna Nagar,Cholera,21,00,03-08-21,09-08-21  
+Haryana,Yamuna Nagar,Acute Diarrheal Disease,21,00,03-08-21,09-08-21  
+Jharkhand,Latehar,Scrub Typhus,08,00,02-08-21,02-08-21  
+Jharkhand,West Singhbhum,Viral Fever,64,00,02-08-21,04-08-21  
+Maharashtra,Amravati,Dengue,13,02,11-07-21,02-08-21  
+Maharashtra,Beed,Chikungunya,07,00,02-08-21,03-08-21  
+Maharashtra,Chandrapur,Malaria,01,01,03-08-21,07-08-21  
+Maharashtra,Chandrapur,Japanese Encephalitis,01,00,16-07-21,04-08-21  
+Maharashtra,Gadchiroli,Malaria,28,01,31-07-21,02-08-21  
+Maharashtra,Kolhapur,Chikungunya,06,00,02-08-21,04-08-21  
+Maharashtra,Raigad,Lepiospirosis,29,00,02-08-21,04-08-21  
+Maharashtra,Thane,Lepiospirosis,02,02,28-06-21,05-08-21  
+Punjab,Sangrur,Acute Diarrheal Disease,68,00,13-08-21,14-08-21  
+West Bengal,Purulia,Acute Diarrheal Disease,22,00,06-08-21,06-08-21  
+West Bengal,South 24 Parganas,Acute Diarrheal Disease,51,00,24-07-21,25-07-21  
+Assam,Darrang (Mangaldoi),Leptospirosis,01,00,29-06-21,  
+Assam,Lakhimpur,Scrub Typhus,01,00,27-07-21,  
+Maharashtra,Chandrapur,Dengue,04,00,13-07-21,  
+Maharashtra,Raigad,Dengue,18,00,11-06-21,  
+Maharashtra,Satara,Chikungunya,20,00,14-07-21,  
+Maharashtra,Satara,Dengue,06,00,16-07-21,  
+Maharashtra,Wardha,Dengue,04,00,07-06-21,
+Assam,Dima Hasao,Acute Encephalitis Syndrome,01,01,08-08-21,11-08-21,Under Control  
+Gujarat,Sabarkantha,Typhoid,34,00,10-08-21,13-08-21,Under Surveillance  
+Maharashtra,Kolhapur,Acute Diarrheal Disease,215,00,10-08-21,13-08-21,Under Surveillance  
+Maharashtra,Thane,Chikungunya,06,00,13-08-21,13-08-21,Under Control  
+Tamil Nadu,Mayliaduthurai,Food Poisoning,54,00,15-08-21,16-08-21,Under Surveillance  
+Uttar Pradesh,Lucknow,Cholera,138,01,09-08-21,12-08-21,Under Control  
+Uttar Pradesh,Pratapgarh,Food Poisoning,09,00,14-08-21,14-08-21,Under Surveillance  
+Assam,Bongaigaon,Japanese Encephalitis,01,00,31-07-21,,Under Control  
+Karnataka,Ballari,Dengue,25,00,04-08-2021,,Under Control  
+Karnataka,Davanagere,Acute Gastroenteritis,30,00,09-08-2021,,Under Surveillance  
+Karnataka,Haveri,Acute Gastroenteritis,48,00,13-08-2021,,Under Control  
+Maharashtra,Osmanabad,Dengue,03,00,20-07-21,,Under Surveillance  
+Maharashtra,Satara,Dengue,10,00,27-07-21,,Under Surveillance  
+Maharashtra,Raigad,Leptospirosis,06,00,03-08-21,,Under Surveillance  
+Maharashtra,Raigad,Leptospirosis,05,00,03-08-21,,Under Surveillance  
+Madhya Pradesh,Burhanpur,Dengue,15,00,12-08-21,,Under Control  
+Tamil Nadu,Tirunelveli,Viral Hepatitis A,74,00,13-08-21,,Under Surveillance
+Assam,Darrang (Mangaldoi),Food Poisoning,51,00,15-08-21,19-08-21,Under Surveillance  
+Assam,Nagaon,Acute Encephalitis Syndrome,01,01,10-08-21,16-08-21,Under Surveillance  
+Haryana,Karnal,Acute Diarrheal Disease,26,00,22-08-21,22-08-21,Under Control  
+Jharkhand,Godda,Acute Diarrheal Disease,38,00,20-08-21,20-08-21,Under Surveillance  
+Maharashtra,Chandrapur,Malaria,07,03,07-08-21,17-08-21,Under Surveillance  
+Maharashtra,Satara,Hepatitis A,19,00,10-08-21,17-08-21,Under Surveillance  
+Maharashtra,Thane,Dengue,05,00,17-08-21,20-08-21,Under Surveillance  
+Maharashtra,Yavatmal,Food Poisoning,40,00,16-08-21,18-08-21,Under Control  
+Uttar Pradesh,Hardoi,Rubella,02,00,27-06-21,19-08-21,Under Surveillance  
+Uttar Pradesh,Lucknow,Acute Diarrheal Disease,73,00,16-08-21,17-08-21,Under Control  
+Uttar Pradesh,Panchsheel Nagar,Acute Encephalitis Syndrome,03,00,17-08-21,19-08-21,Under Surveillance  
+West Bengal,Basirhat,Acute Diarrheal Disease,37,00,17-08-21,18-08-21,Under Surveillance
+Assam,Nagaon,Scrub Typhus,01,00,24-08-21,26-08-21,Under Control  
+Assam,Nagaon,Japanese Encephalitis,01,01,23-08-21,26-08-21,Under Surveillance  
+Karnataka,Davanagere,Suspected Food Poisoning,88,00,24-08-21,26-08-21,Under Surveillance  
+Karnataka,Kalburgi,Chikungunya,46,00,22-08-21,26-08-21,Under Control  
+Tamil Nadu,Salem,Dengue,23,00,24-08-21,25-08-21,Under Control  
+Tamil Nadu,Virudhunagar - Sivakasi,Dengue,22,00,26-08-21,31-08-21,Under Control  
+Uttar Pradesh,Ambedkar Nagar,Suspected Food Poisoning,06,00,23-08-21,27-08-21,Under Surveillance  
+Uttar Pradesh,Farrukhabad,Fever,260,01,23-08-21,26-08-21,Under Control  
+Maharashtra,Amravati,Dengue,22,03,18-08-21,,Under Control  
+Maharashtra,Pune,Chikungunya,07,00,13-08-21,,Under Control  
+Maharashtra,Satara,Dengue,09,00,03-08-21,,Under Surveillance  
+Maharashtra,Satara,Dengue,06,00,11-08-21,,Under Surveillance  
+Tamil Nadu,Dindigul,Dengue/Scrub Typhus,25,00,19-08-21,,Under Surveillance
+Assam,Udalguri,Acute Diarrheal Disease,34,00,31-08-21,02-09-21,Under Surveillance  
+Assam,Udalguri,Leptospirosis,01,00,01-09-21,03-09-21,Under Control  
+Haryana,Kurukshetra,Acute Diarrheal Disease,16,00,03-09-21,06-09-21,Under Surveillance  
+Maharashtra,Akola,Dengue,03,00,30-08-21,31-08-21,Under Control  
+Tamil Nadu,Thanjavur,Food Borne Illness,04,01,03-09-21,03-09-21,Under Control  
+Uttarakhand,Haridwar,Japanese Encephalitis,01,00,31-08-21,05-09-21,Under Surveillance  
+Uttar Pradesh,Firozabad,Dengue,5754,05,02-09-21,02-09-21,Under Control    
+Uttar Pradesh,Farrukhabad,Malaria,96,00,29-08-21,01-09-21,Under Control  
+Uttar Pradesh,Farrukhabad,Fever,22,00,29-08-21,01-09-21,Under Control  
+Uttar Pradesh,Kannauj,Dengue,09,00,31-08-21,03-09-21,Under Surveillance  
+Uttar Pradesh,Kaushambi,Acute Diarrheal Disease,10,00,23-08-21,31-08-21,Under Control  
+Uttar Pradesh,Saharanpur,Dengue,05,00,04-09-21,04-09-21,Under Surveillance  
+West Bengal,Howrah,Acute Diarrheal Disease,42,00,07-09-21,07-09-21,Under Surveillance  
+West Bengal,North 24 parganas,Acute Diarrheal Disease,94,00,07-09-21,07-09-21,Under Surveillance  
+Karnataka,Davanagere,Acute Diarrheal Disease,96,00,23-08-21,,Under Control  
+Maharashtra,Amravati,Food Poisoning,18,03,25-08-21,,Under Control  
+Maharashtra,Pune,Dengue,23,00,07-06-21,,Under Control  
+Maharashtra,Pune,Chikungunya,42,00,07-06-21,,Under Control
+Assam,Nagaon,Leptospirosis,01,00,10-09-21,12-09-21,Under Surveillance  
+Haryana,Palwal,Leptospirosis,08,08,11-09-21,12-09-21,Under Surveillance  
+Jharkhand,West Singhbhum,Acute Diarrheal Disease,08,00,05-09-21,07-09-21,Under Surveillance  
+Punjab,SAS Nagar,Acute Diarrheal Disease,138,00,06-09-21,12-09-21,Under Surveillance  
+Tamil Nadu,Tiruvannamalai-Cheyyar,Food Borne Illness,31,01,10-09-21,11-09-21,Under Surveillance  
+Uttar Pradesh,Gautam Budha Nagar,Scrub Typhus,03,00,05-09-21,06-09-21,Under Surveillance  
+Uttar Pradesh,Hardol,Acute Febrile Illness,58,00,05-09-21,07-09-21,Under Control  
+Uttarakhand,Dehradun,Acute Diarrheal Disease,10,01,06-09-21,12-09-21,Under Surveillance  
+Uttarakhand,Champawat,Acute Diarrheal Disease,03,01,06-09-21,12-09-21,Under Surveillance  
+Uttarakhand,Hardwar,Malaria,04,02,07-09-21,12-09-21,Under Surveillance  
+West Bengal,Jalpaiguri,Dengue,119,01,10-09-21,13-09-21,Under Surveillance  
+Karnataka,Mysuru,Diphtheria,01,00,30-08-21,,Under Control  
+Maharashtra,Jalgaon,Dengue,54,01,02-09-21,,Under Control  
+Uttar Pradesh,Mainpuri,Dengue,32,00,30-08-21,,Under Surveillance
+Assam,Dima Hasao,Leptospirosis,01,00,10-09-21,18-09-21,Under Surveillance  
+Gujarat,Valsad,Acute Diarrheal Disease,10,00,11-09-21,14-09-21,Under Surveillance  
+Jharkhand,West Singhbhum,Acute Diarrheal Disease,42,00,17-09-21,18-09-21,Under Surveillance  
+Karnataka,Bagalkot,Acute Diarrheal Disease,10,00,11-09-21,13-09-21,Under Surveillance  
+Karnataka,Yadgir,Acute Gastroenteritis,40,00,14-09-21,14-09-21,Under Surveillance  
+Meghalaya,RI Bhoi,Acute Diarrheal Disease,30,00,18-09-21,19-09-21,Under Surveillance  
+Nagaland,Mon,Fever with Rashes,01,00,13-09-21,18-09-21,Under Surveillance  
+Uttarakhand,Haridwar,Acute Encephalitis Syndrome,01,01,14-09-21,19-09-21,Under Surveillance  
+West Bengal,Murshidabad,Food Poisoning,179,00,14-09-21,15-09-21,Under Control  
+Assam,Darrang (Mangaldo),Japanese Encephalitis,01,00,01-09-21,,Under Surveillance  
+Chandigarh,Chandigarh,Cholera,11,00,01-08-21,,Under Surveillance  
+Haryana,Nuh,Dengue,26,00,03-09-21,,Under Control   
+Karnataka,Tumkur,Chikungunya,63,00,18-08-21,,Under Control  
+Uttar Pradesh,Farrukhabad,Fever,163,01,01-09-21,,Under Control  
+Uttar Pradesh,Kannauj,Dengue,11,00,31-08-21,,Under Surveillance
+Assam,Lakhimpur,Measles,02,00,17-09-21,22-09-21,Under Surveillance  
+Gujarat,Surat,Cholera,28,00,24-09-21,27-09-21,Under Control  
+Jharkhand,West Singhbhum,Acute Diarrheal Disease,66,00,20-09-21,26-09-21,Under Surveillance  
+Karnataka,Mysuru,Dengue,13,00,20-09-21,21-09-21,Under Control  
+Maharashtra,Aurangabad,Acute Febrile Illness,14,01,19-09-21,22-09-21,Under Control  
+Maharashtra,Jaigaon,Acute Febrile Illness,12,00,18-09-21,21-09-21,Under Surveillance  
+Maharashtra,Nandurban,Acute Febrile Illness,17,01,21-09-21,23-09-21,Under Surveillance  
+Punjab,Sangrur,Acute Diarrheal Disease,14,00,24-09-21,24-09-21,Under Control  
+Tamil Nadu,Cuddalore,Food Borne Illness,17,00,20-09-21,22-09-21,Under Control  
+Tamil Nadu,Virudhunagar,Leptospirosis,13,00,25-09-21,29-09-21,Under Control  
+Uttar Pradesh,Bareilly,Dengue,158,05,23-09-21,23-09-21,Under Control  
+Assam,Lakhimpur,Leptospirosis,02,00,02-09-21,,Under Surveillance  
+Maharashtra,Gadchiroli,Serub Typhus,18,01,06-09-21,,Under Control  
+Meghalaya,East Garo Hills,Dengue,03,00,16-09-21,,Under Surveillance  
+Uttar Pradesh,Hardol,Acute Febrile Illness,51,00,12-09-21,,Under Surveillance   
+Uttar Pradesh,Kannauj,Dengue,60,00,10-09-21,,Under Surveillance  
+Bihar,Jahanabad,Suspected Japanese Encephalitis,02,00,25-09-21,29-09-21,Under Surveillance  
+Haryana,Gurugram,Acute Diarrheal Disease,20,00,30-09-21,01-10-21,Under Control  
+Jharkhand,West Singhbhum,Acute Diarrheal Disease,11,00,29-09-21,30-09-21,Under Surveillance  
+Maharashtra,Osmanabad,Chikungunya,15,00,18-09-21,28-09-21,Under Control  
+Punjab,Shahid Bhagat Singh Nagar,Acute Diarrheal Disease,25,00,01-10-21,03-10-21,Under Surveillance  
+Uttar Pradesh,Auraiya,Dengue,34,00,28-09-21,01-10-21,Under Surveillance  
+Uttar Pradesh,Azamgarh,Cholera,575,03,28-09-21,29-09-21,Under Control  
+Uttar Pradesh,Gautam Budh Nagar,Cholera,03,00,27-09-21,01-10-21,Under Control  
+Uttar Pradesh,Lucknow,Cholera,13,00,02-10-21,03-10-21,Under Control  
+Uttar Pradesh,Siddharth Nagar,Food Poisoning,04,00,30-09-21,01-10-21,Under Surveillance  
+Uttar Pradesh,Siddharth Nagar,Cholera,60,02,25-09-21,29-09-21,Under Control  
+Uttarakhand,Dehradun,Acute Diarrheal Disease,25,00,29-09-21,03-10-21,Under Surveillance  
+West Bengal,Jalpaiguri,Seasonal Influenza,1217,03,10-09-21,13-09-21,Under surveillance  
+Jharkhand,Hazaribagh,Japanese Encephalitis,15,00,23-09-21,,Under Surveillance  
+Jharkhand,Sahebganj,Acute Diarrheal Disease,04,00,24-09-21,,Under Control  
+Maharashtra,Gadelirroll,Dengue,16,01,28-09-21,,Under Control  
+Maharashtra,Osmanabad,Dengue,04,00,10-08-21,,Under Control  
+Uttar Pradesh,Ghaziabad,Dengue,388,00,31-08-21,,Under Control  
+Uttar Pradesh,Hardoi,Malaria/Dengue,77,00,19-09-21,,Under Surveillance  
+Uttar Pradesh,Hardoi,Malaria,150,00,13-09-21,,Under Control  
+Uttar Pradesh,Jhansi,Dengue,40,00,01-09-21,,Under Control  
+Uttar Pradesh,Jalam,Dengue,23,01,01-09-21,,Under Surveillance  
+Uttar Pradesh,Kamauj,Dengue,83,00,09-09-21,,Under Surveillance  
+Uttar Pradesh,Mirzapur,Provisional Food Poisoning,38,01,22-09-21,,Under Surveillance
+Karnataka,Gadag,Influenza A H3N2,93,00,13-01-21,20-01-21
+Karnataka,Tumkur,Influenza A H3N2,15,00,17-01-21,21-01-20
+Karnataka,Raichur,Acute Diarrheal Disease,13,00,20-01-20,21-01-20
+Karnataka,Chickaballapura,Acute Diarrheal Disease,61,00,24-01-21,24-01-21
+Karnataka,Bagalkot,Chikungunya,18,00,17-01-21,18-01-21
+Karnataka,Ballari,Acute Diarrheal Disease,18,01,20-01-21,21-01-21
+Karnataka,Ballari,Acute Diarrheal Disease,19,00,24-01-21,24-01-21
+Kerala,Trivandrum,Food Poisoning,28,00,18-01-21,24-01-21
+Maharashtra,Gadchiroli,Malaria,02,01,20-01-21,21-01-21
+Punjab,Patiala,Acute Diarrheal Disease,41,00,18-01-21,19-01-21
+West Bengal,North 24 Parganas,Acute Diarrheal Disease,62,00,18-01-21,20-01-21
+Assam,Dima Hasao,Acute Encephalitis Syndrome,01,01,02-10-21,05-10-21,Under Control
+Assam,Nagaan,Leptospirosis,02,00,06-10-21,08-10-21,Under Surveillance
+Gujarat,Jamnagar,Food Poisoning,05,01,09-10-21,09-10-21,Under Control
+Gujarat,Navsari,Cholera,72,00,04-10-21,04-10-21,Under Surveillance
+Gujarat,Surat,Cholera,15,00,08-10-21,08-10-21,Under Surveillance
+Jharkhand,West Singhbhum,Food Poisoning,07,00,04-10-21,05-10-21,Under Surveillance
+Jharkhand,West Singhbhum,Acute Diarrheal Disease,26,00,03-10-21,05-10-21,Under Surveillance
+Jharkhand,West Singhbhum,Malaria,48,00,08-10-21,09-10-21,Under Surveillance
+Maharashtra,Beed,Dengue Chikungunya,19,00,03-10-21,05-10-21,Under Surveillance
+Maharashtra,Gadchiroli,Dengue,04,01,04-10-21,05-10-21,Under Control
+Maharashtra,Thane,Leptospirosis,02,01,04-10-21,07-10-21,Under Surveillance
+Tamil Nadu,Ariyalur,Dengue,17,00,06-10-21,07-10-21,Under Control
+Tamil Nadu,Salem,Dengue,36,00,06-10-21,07-10-21,Under Control
+Tamil Nadu,Sivaganga,Dengue,13,00,30-09-21,06-10-21,Under Surveillance
+Uttar Pradesh,Farrukhabad,Malaria,13,00,07-10-21,10-10-21,Under Surveillance
+Uttar Pradesh,Jalaun,Dengue,07,00,04-10-21,08-10-21,Under Surveillance
+Uttar Pradesh,Pratapgarh,Food Poisoning,11,00,01-10-21,04-10-21,Under Control
+Uttar Pradesh,Siddharth Nagar,Food Poisoning,03,00,05-10-21,05-10-21,Under Surveillance
+Uttar Pradesh,Unnao,Food Poisoning,51,00,08-10-21,11-10-21,Under Control
+Uttarakhand,Haridwar,Food Poisoning,22,00,07-10-21,11-10-21,Under Control
+West Bengal,Purulia,Cholera,28,00,03-10-21,03-10-21,Under Surveillance
+West Bengal,South 24 Parganas,Food Poisoning,56,00,09-10-21,09-10-21,Under Surveillance
+Kerala,Palakkad,Acute Respiratory Infection,30,00,26-09-21,,Under Surveillance
+Maharashtra,Chandrapur,Dengue,07,00,16-08-21,,Under Surveillance
+Maharashtra,Chandrapur,Acute Febrile Illness,06,01,30-08-21,,Under Surveillance
+Maharashtra,Chandrapur,Malaria,09,00,22-08-21,,Under Control
+Maharashtra,Osmanabad,Chikungunya,05,01,29-09-21,,Under Control
+Odisha,Koraput,Acute Diarrheal Disease,22,02,26-09-21,,Under Surveillance
+Punjab,SAS Nagar,Acute Diarrheal Disease,15,00,10-10-21,,Under Surveillance
+Uttar Pradesh,Fatehpur,Scrub Typhus Dengue Leptospirosis,05,01,26-09-21,,Under Surveillance
+Uttar Pradesh,Fatehpur,Mumps (Provisional),10,00,23-09-21,,Under Control
+Uttar Pradesh,Ghazipur,Dengue,09,00,20-09-21,,Under Control
+Uttar Pradesh,Sant Ravi Das Nagar,Acute Diarrheal Disease,07,01,26-09-21,,Under Surveillance
+West Bengal,North 24 Parganas,Cholera,1027,01,07-09-21,,Under Control
+Assam,Nagaan,Leptospirosis,02,01,07-10-21,11-10-21,Under Surveillance  
+Karnataka,Ballari,Acute Diarrheal Disease,11,00,16-10-21,16-10-21,Under Control  
+Karnataka,Kalaburagi,Acute Diarrheal Disease,15,00,11-10-21,11-10-21,Under Control  
+Karnataka,Kalaburagi,Cholera,05,00,11-10-21,11-10-21,Under Control  
+Maharashtra,Beed,Dengue,06,00,13-10-21,14-10-21,Under Surveillance  
+Punjab,SAS Nagar,Acute Diarrheal Disease,26,00,17-10-21,18-10-21,Under Surveillance  
+Uttar Pradesh,Lucknow,Acute Diarrheal Disease,12,00,11-10-21,12-10-21,Under Surveillance  
+Uttarakhand,Haridwar,Dengue,172,00,16-10-21,18-10-21,Under Control  
+West Bengal,Purulia,Cholera,22,00,13-10-21,14-10-21,Under Control  
+Assam,Darrang (Mangaldoi),Leptospirosis,02,01,07-09-21,,Under Surveillance  
+Assam,Darrang (Mangaldoi),Scrub Typhus,01,01,14-08-21,,Under Surveillance  
+Gujarat,Banaskantha,Epidemic Dropsy,07,03,23-07-21,,Under Control  
+Uttar Pradesh,Ghazipur,Dengue,12,00,20-09-21,,Under Control  
+Uttar Pradesh,Ghazipur,Food Poisoning,12,00,18-09-21,,Under Control  
+Uttar Pradesh,Jhansi,Leptospirosis,08,00,15-09-21,,Under Control  
+Uttar Pradesh,Kaushambi,Acute Diarrheal Disease,10,00,27-09-21,,Under Control  
+West Bengal,North 24 Parganas,Cholera,1027,01,07-09-21,,Under Control
+Gujarat,Navsari,Acute Diarrheal Disease,05,00,21-10-21,21-10-21,Under Control  
+Haryana,Kaithal,Acute Diarrheal Disease,38,00,23-10-21,25-10-21,Under Surveillance  
+Jharkhand,East Singhbhum,Acute Diarrheal Disease,04,00,15-10-21,19-10-21,Under Control  
+Jharkhand,West Singhbhum,Acute Diarrheal Disease,24,00,19-10-21,22-10-21,Under Surveillance  
+Karnataka,Gadag,Fever,09,00,18-10-21,18-10-21,Under Surveillance  
+Karnataka,Bengaluru Urban,Acute Diarrheal Disease,171,00,18-10-21,19-10-21,Under Control  
+Karnataka,Mandya,Food Poisoning,152,00,16-10-21,20-10-21,Under Surveillance  
+Kerala,Kozhikode,Food Poisoning,21,00,21-10-21,26-10-21,Under Surveillance  
+Maharashtra,Beed,Fever,10,01,19-10-21,22-10-21,Under Control  
+Nagaland,Mon,Measles,04,00,16-10-21,31-10-21,Under Control  
+Odisha,Koraput,Suspected Anthrax,03,01,20-10-21,24-10-21,Under Surveillance  
+Punjab,Kapurthala,Acute Diarrheal Disease,120,00,18-10-21,18-10-21,Under Surveillance  
+Telangana,Hyderabad,Food Poisoning,30,00,20-10-21,24-10-21,Under Surveillance  
+Tamil Nadu,Pudukottai,Dengue,20,00,21-10-21,22-10-21,Under Surveillance  
+Tamil Nadu,Madurai,Acute Diarrheal Disease,21,00,18-10-21,20-10-21,Under Surveillance  
+Tamil Nadu,Vellore,Acute Diarrheal Disease,28,00,21-10-21,22-10-21,Under Surveillance  
+Uttar Pradesh,Chandauli,Acute Diarrheal Disease,38,00,21-10-21,22-10-21,Under Surveillance  
+Uttar Pradesh,Ghazipur,Acute Diarrheal Disease,43,00,14-10-21,22-10-21,Under Control  
+Uttar Pradesh,Muzaffarnagar,Dengue,140,00,31-08-21,18-10-21,Under Surveillance  
+Uttar Pradesh,Pratapgarh,Food Poisoning,11,00,19-10-21,20-10-21,Under Surveillance  
+Uttar Pradesh,Siddharth Nagar,Food Poisoning,12,01,23-10-21,23-10-21,Under Control  
+West Bengal,Birbhum,Acute Diarrheal Disease,38,00,21-10-21,24-10-21,Under Surveillance  
+Jharkhand,Garhwa,Dengue,04,00,05-10-21,,Under Surveillance  
+Kerala,Wayanad,Acute Diarrheal Disease,28,00,10-10-21,,Under Surveillance  
+Maharashtra,Thane,Dengue,05,01,01-10-21,,Under Surveillance  
+Uttar Pradesh,Agra,Dengue,43,01,09-09-21,,Under Surveillance  
+Uttar Pradesh,Auraiya,Fever,48,00,04-10-21,,Under Surveillance
+Kerala,Wayanad,Food Poisoning,48,00,05-11-21,08-11-21
+Maharashtra,Gadchiroli,Malaria,01,01,01-11-21,02-11-21
+Maharashtra,Thane,Dengue,01,01,31-10-21,03-11-21
+Punjab,Patiala,Acute Diarrheal Disease,49,06,04-11-21,05-11-21
+Tamil Nadu,Ramanathapuram,Dengue,05,00,30-10-21,08-11-21
+West Bengal,Purulia,Acute Diarrheal Disease,25,00,02-11-21,03-11-21
+Gujarat,Sabarkantha,CCHF,01,00,23-10-21,
+Uttar Pradesh,Lalitpur,Measles,06,00,12-08-21,
+Uttar Pradesh,Mirzapur,Measles,23,00,08-07-21,
+Uttar Pradesh,Pratapgarh,Measles,25,00,24-08-21,
+Gujarat,Navsari,Acute Diarrheal Disease,12,00,22-11-21,23-11-21
+Jharkhand,East Singhbhum,Acute Diarrheal Disease,23,00,07-11-21,13-11-21
+Kerala,Kozhikode,Food Poisoning,21,01,12-11-21,13-11-21
+Maharashtra,Kolhapur,Cholera,66,00,08-11-21,11-11-21
+Maharashtra,Satara,Chikungunya,05,00,07-11-21,12-11-21
+Odisha,Nabarangpur,Scrub Typhus,07,00,10-11-21,12-11-21
+Punjab,SBS Nagar,Acute Diarrheal Disease,73,00,09-11-21,10-11-21
+Punjab,Patiala,Suspected Food Poisoning,09,00,11-11-21,13-11-21
+Tamil Nadu,Thanjavur,Leptospirosis,13,00,10-11-21,11-11-21
+Telangana,Kamareddy,Food Poisoning,31,00,06-11-21,08-11-21
+Telangana,Nirmal,Food Poisoning,60,00,09-11-21,10-11-21
+Uttar Pradesh,Chandauli,Acute Diarrheal Disease,24,01,05-11-21,09-11-21
+Uttar Pradesh,Ghazipur,Acute Diarrheal Disease,09,01,09-11-21,11-11-21
+Uttar Pradesh,Kannauj,Zika Virus,01,00,10-11-21,10-11-21
+Uttar Pradesh,Lucknow,Zika Virus,06,00,11-11-21,12-11-21
+West Bengal,South 24 Parganas,Food Poisoning,192,00,13-11-21,14-11-21
+Jharkhand,Dhanbad,Acute Diarrheal Disease,15,00,16-09-21,
+Maharashtra,Satara,Dengue,14,00,16-10-21,
+Uttar Pradesh,Ballia,Acute Diarrheal Disease,14,00,30-10-21,
+Uttar Pradesh,Fatehpur,Suspected Measles,01,01,29-07-21,
+Uttar Pradesh,Firozabad,Rubella,01,00,03-09-21,
+Uttar Pradesh,Firozabad,Measles,07,00,21-09-21,
+Uttar Pradesh,Gorakhpur,Measles Rubella,67,00,01-07-21,
+West Bengal,Howrah,Suspected Dengue,290,00,17-10-21,
+Jharkhand,West Singhbhum,Acute Diarrheal Disease,12,00,16-11-21,17-11-21
+Kerala,Kozhikode,Food Poisoning,14,00,20-11-21,22-11-21
+Kerala,Wayanad,Food Poisoning,81,00,15-11-21,16-11-21
+Maharashtra,Kolhapur,Cholera,03,00,12-11-21,17-11-21
+Maharashtra,Raigad,Malaria,19,00,11-11-21,17-11-21
+Odisha,Sundargarh,Food Poisoning,98,00,21-11-21,26-11-21
+Odisha,Bargarh,Acute Diarrheal Disease,28,00,21-11-21,22-11-21
+Tamil Nadu,Thanjavur,Typhoid,19,00,17-11-21,18-11-21
+Tamil Nadu,Thirupathur,Food Borne Illness,13,00,16-11-21,17-11-21
+Uttar Pradesh,Auraiya,Dengue,43,00,18-11-21,20-11-21
+Uttar Pradesh,Ambedkar Nagar,Measles Rubella (Provisional),06,00,11-11-21,17-11-21
+Uttar Pradesh,Kanpur,Zika Virus,142,00,23-10-21,15-11-21
+West Bengal,Murshidabad,Food Poisoning,152,00,22-11-21,23-11-21
+Jharkhand,Dhanbad,Acute Diarrheal Disease,31,00,18-10-21,
+Uttarakhand,Uttarkashi,Viral Hepatitis,30,00,20-11-21,
+Jharkhand,West Singhbhum,Chickenpox,06,00,22-11-21,23-11-21
+Kerala,Kasaragod,Food Poisoning,23,00,23-11-21,25-11-21
+Kerala,Pathanamthitta,Food Poisoning,39,00,24-11-21,26-11-21
+Kerala,Kollam,Hepatitis B,04,00,26-11-21,29-11-21
+Kerala,Kollam,Food Poisoning,13,00,22-11-21,26-11-21
+Kerala,Kollam,Hepatitis C,06,00,26-11-21,29-11-21
+Maharashtra,Nanded,Food Poisoning,250,00,23-11-21,24-11-21
+Maharashtra,Nanded,Chikungunya,09,00,23-11-21,28-11-21
+Maharashtra,Thane,Dengue,01,01,01-11-21,25-11-21
+Tamil Nadu,Salem,Acute Diarrheal Disease,13,00,22-11-21,26-11-21
+Tamil Nadu,Kalhakurichi,Acute Diarrheal Disease,19,00,22-11-21,23-11-21
+Telangana,Rangareddy,Acute Gastroenteritis,16,00,26-11-21,27-11-21
+Uttar Pradesh,Fatehpur,Zika Virus,01,00,25-11-21,26-11-21
+Kerala,Thrissur,Acute Diarrheal Disease,57,00,08-11-21,
+Telangana,Naigonda,Dengue,09,00,15-11-21,
+Uttar Pradesh,Jhansi,Fever with Rash,10,00,03-08-21,
+Kerala,Ernakulam,Acute Diarrheal Disease,61,00,29-10-21,06-12-21
+Kerala,Thrissur,Acute Diarrheal Disease,20,00,26-11-21,31-11-21
+Kerala,Thrissur,Food Poisoning,138,00,01-12-21,06-12-21
+Maharashtra,Kolapur,Food Poisoning,05,00,03-12-21,05-12-21
+Mizoram,Aizwal West,Dengue,16,00,02-12-21,02-12-21
+Tamil Nadu,Vellore,Acute Diarrheal Disease,05,00,01-12-21,03-12-21
+Telangana,Jagtial,Food Poisoning,38,00,03-12-21,04-12-21
+Telangana,Karimnagar,Food Poisoning,53,00,03-12-21,05-12-21
+Uttar Pradesh,Sonbhadra,Malaria,119,00,27-11-21,04-12-21
+Jharkhand,Dhanbad,Acute Diarrheal Disease,19,00,07-11-21,
+Maharashtra,Raigad,Leptospirosis,12,00,13-11-21,
+Maharashtra,Sindhudurga (Kudah),Malaria,04,00,24-11-21,
+Gujarat,Jammagar,Food Poisoning,48,01,03-12-21,03-12-21
+Gujarat,Surat,Acute Diarrheal Disease,22,00,11-12-21,11-12-21
+Jharkhand,Sahibganj,Measles,04,00,08-11-21,08-12-21
+Kerala,Ernakulam,Acute Diarrheal Disease,15,00,09-12-21,06-12-21
+Kerala,Kozhikode,Cholera,01,00,08-12-21,09-12-21
+Maharashtra,Akola,Chikungunya,10,00,07-12-21,07-12-21
+Maharashtra,Kolhapur,Acute Diarrheal Disease,29,00,08-12-21,11-12-21
+Odisha,Rayagada,Acute Diarrheal Disease,11,00,05-12-21,08-12-21
+Tamil Nadu,Tiruvallur,Acute Diarrheal Disease,167,00,03-12-21,08-12-21
+Tamil Nadu,Thanjavur,Mixed Fever,45,00,11-12-21,11-12-21
+West Bengal,Burdwan,Acute Diarrheal Disease,89,00,09-12-21,10-12-21
+Chhattisgarh,Balodabazar,Acute Diarrheal Disease,26,00,28-11-21,
+Kerala,Palakkad,Visceral Leishmaniosis,01,01,01-11-21,
+Karnataka,Ballari,Acute Diarrheal Disease,14,0,26-01-21,27-01-21
+Karnataka,Hassan,Rabies,1,1,29-01-21,29-01-21
+Kerala,Ernakulam,Acute Diarrheal Disease,23,0,25-01-21,02-02-21
+Madhya Pradesh,Nimach,Food Poisoning,16,0,25-01-21,25-01-21
+Maharashtra,Gadchiroli,Malaria,10,1,26-01-21,27-01-21
+Maharashtra,Kolhapur,Hand Foot and Mouth Disease (HFMD),12,0,25-01-21,30-01-21
+Odisha,Koraput,Suspected Food Poisoning,13,0,28-01-21,30-01-21
+Puducherry,Puducherry,Dengue,13,0,25-01-21,25-01-21
+Tamil Nadu,Virudhunagar-Sivakasi,Dengue,7,0,25-01-21,25-01-21
+Andhra Pradesh,Visakhapatnam,Acute Diarrheal Disease,7,0,19-01-21,
+Assam,Goalpara,Chickenpox,22,0,05-01-21,
+Karnataka,Raichur,Acute Diarrheal Disease,13,0,20-01-21,
+Kerala,Thrissur,Melioidosis,1,0,22-06-20,
+Tamil Nadu,Tirunelveli,Acute Encephalitis Syndrome,1,1,19-01-21,
+Gujarat,Surat,Acute Diarrheal Disease,10,00,13-12-21,13-12-21
+Karnataka,Davanagere,Acute Diarrheal Disease,41,00,17-12-21,17-12-21
+Karnataka,Kalaburagi,Acute Diarrheal Disease,14,00,16-12-21,18-12-21
+Kerala,Ermakulam,Acute Diarrheal Disease,24,00,15-12-21,17-12-21
+Maharashtra,Kolhapur,Chikungunya,06,00,17-12-21,18-21-21
+Telangana,Hyderabad,Food Poisoning,69,00,14-12-21,16-12-21
+Tamil Nadu,Thiruvallur - Poonamallee,Food Borne Illness,350,00,15-12-21,16-12-21
+Tamil Nadu,Dindigul,Acute Febrile Illness,14,00,18-12-21,20-12-21
+Karnataka,Mandya,Rabies,01,01,02-12-21,
+Maharashtra,Satara,Dengue,10,00,14-09-21,
+Maharashtra,Satara,Chikungunya,08,00,15-08-21,
+Maharashtra,Satara,Dengue,03,00,25-08-21,
+Maharashtra,Satara,Dengue,05,00,26-10-21,
+Assam,Nagaan,Leptospirosis,01,01,18-12-21,23-12-21
+Assam,Nagaan,Dengue,01,00,20-12-21,22-12-21
+Jharkhand,Godda,Fever with Rashes,02,00,24-12-21,25-12-21
+Jharkhand,Ranchi,Fever with Rashes,02,00,22-12-21,22-12-21
+Maharashtra,Kolhapur,Acute Diarrheal Disease,12,01,20-12-21,22-12-21
+Tamil Nadu,Kallakurichi,Acute Diarrheal Disease,19,00,20-12-21,20-12-21
+Tamil Nadu,Tiruchirappalli,Fever,16,00,20-12-21,21-12-21
+Telangana,Nalgonda,Dengue,08,00,20-12-21,23-12-21
+Uttar Pradesh,Fatehpur,Jatropha Poisoning,35,00,20-12-21,21-12-21
+Tamil Nadu,Tiruvallur,Acute Diarrheal Disease,13,00,15-12-21,
+Uttar Pradesh,Pilibhit,Chickenpox,29,00,10-12-21,
+Jharkhand,Pakur,Fever with Rash,12,00,24-12-21,29-12-21
+Maharashtra,Jaigaon,Fever,13,00,28-12-21,31-12-21
+Andhra Pradesh,Prakasam,Dog Bite,1,1,29-01-21,02-02-21
+Assam,Karbi Anglong (Diphu),Food Poisoning,202,0,02-02-21,03-02-21
+Bihar,Supaul,Food Poisoning,40,0,07-02-21,08-02-21
+Himachal Pradesh,Bilaspur,Acute Diarrheal Disease,309,0,06-02-21,06-02-21
+Karnataka,Chamarajanagara,Chikungunya,15,0,02-01-21,06-02-21
+Karnataka,Hassan,Acute Diarrheal Disease,14,0,01-02-21,03-02-21
+Karnataka,Mandya,Acute Diarrheal Disease,26,0,04-02-21,06-02-21
+Karnataka,Raichur,Acute Diarrheal Disease,18,0,05-02-21,06-02-21
+Maharashtra,Satara,Chikungunya,20,0,25-01-21,01-02-21
+Maharashtra,Thane,Malaria,2,1,06-01-21,01-02-21
+Meghalaya,East Khasi Hills,Acute Diarrheal Disease,5,2,27-01-21,01-02-21
+Meghalaya,South Garo Hills,Acute Diarrheal Disease,15,0,07-01-21,03-02-21
+Odisha,Bolangir,Chikungunya,5,0,30-01-21,01-02-21
+Odisha,Bolangir,Chickenpox,5,0,30-01-21,01-02-21
+Odisha,Jajpur,Acute Diarrheal Disease,35,0,04-02-21,06-02-21
+Odisha,Puri,Acute Diarrheal Disease,350,0,06-02-21,06-02-21
+Uttar Pradesh,Amethi,Chickenpox,18,0,30-01-21,02-02-21
+Assam,Goalpara,Acute Diarrheal Disease,13,0,15-01-21,
+Maharashtra,Satara,Dysentery,35,0,15-01-21,
+Maharashtra,Satara,Dysentery,44,0,10-01-21,
+Andhra Pradesh,Anantapur,Food Poisoning,53,0,11-02-21,11-02-21
+Assam,Nagaon,Chickenpox,41,0,12-02-21,13-02-21
+Jammu & Kashmir,Doda,Enteric Fever (Typhoid),130,0,08-02-21,13-02-21
+Jharkhand,East Singhbhum,Chickenpox,10,0,08-02-21,08-02-21
+Jharkhand,Simdega,Chickenpox,22,0,07-02-21,13-02-21
+Karnataka,Dharwad,Dengue,3,0,09-02-21,09-02-21
+Karnataka,Davanagere,Leptospirosis,1,0,09-02-21,09-02-21
+Maharashtra,Satara,Chikungunya,19,0,05-02-21,11-02-21
+Maharashtra,Thane,Chikungunya,2,0,30-01-21,08-02-21
+Puducherry,Puducherry,Food Poisoning,36,0,16-02-21,16-02-21
+West Bengal,Hooghly,Cholera,97,0,06-02-21,07-02-21
+West Bengal,Purulia,Acute Diarrheal Disease,25,0,08-02-21,08-02-21
+Odisha,Subarnapur,Chickenpox,16,0,20-01-21,
+Assam,Barpeta,Measles,01,00,10-02-21,17-02-21
+Assam,Dibrugarh,Scrub Typhus,03,01,07-02-21,20-02-21
+Assam,Dhemaji,Scrub Typhus,01,00,20-02-21,20-02-21
+Assam,Golaghat,Rabies,01,01,20-02-21,20-02-21
+Karnataka,Bidar,Chikungunya,30,00,20-02-21,24-02-21
+Karnataka,Chikkaballapura,Rabies,01,01,21-02-21,25-02-21
+Kerala,Kasaragod,Leptospirosis,26,02,14-02-21,22-02-21
+Odisha,Bhadrak,Food Poisoning,42,00,18-02-21,19-02-21
+Odisha,Kendrapara,Food Poisoning,47,00,21-02-21,22-02-21
+Tamil Nadu,Madurai,Diphtheria,01,00,16-02-21,17-02-21
+Uttarakhand,Pauri Garhwal,Hepatitis A,05,00,20-01-21,27-01-2021
+Karnataka,Mysuru,Diphtheria,01,01,09-02-21,
+Maharashtra,Satara,Dengue,19,00,16-12-20,
+Andhra Pradesh,Kurnool,Acute Diarrheal Disease,24,01,20-02-21,21-02-21
+Assam,Lakhimpur,Food Poisoning,08,00,21-02-21,22-02-21
+Karnataka,Dharwad,Dog bite,05,00,23-02-21,23-02-21
+Karnataka,Kolar,Acute Diarrheal Disease,43,00,23-02-21,25-02-21
+Karnataka,Tumakuru,Food Poisoning,19,00,22-02-21,23-02-21
+Odisha,Puri,Chickenpox,23,00,27-02-21,02-03-21
+Punjab,Kapurthala,Food Poisoning,28,00,25-02-21,26-02-21
+Puducherry,Puducherry,Acute Diarrheal Disease,108,00,22-02-21,22-02-21
+Tamil Nadu,Pudukottai,Acute Diarrheal Disease,41,00,22-02-21,22-02-21
+Assam,Dibrugarh,Hepatitis E,01,00,10-02-21,
+Jharkhand,Pakur,Measles,14,00,19-02-21,
+JAMMU & KASHMIR,Udhampur,Avian Influenza,03 birds,425 birds,31-01-21,
+Karnataka,Udupi,Rabies,01,01,29-01-21,
+Maharashtra,Jalgaon,Food Poisoning,81,00,17-02-21,
+Madhya Pradesh,Dhaar,Acute Diarrheal disease,10,01,12-02-21,
+Uttar Pradesh,Siddharth Nagar,Measles,05,00,18-02-21,
+Andhra Pradesh,Ananthapur,Acute Diarrheal Disease,30,0,05-03-21,06-03-21
+Kerala,Wayanad,Food Poisoning,11,0,04-03-21,04-03-21
+Odisha,Balasore,Food Poisoning,40,0,05-03-21,06-03-21
+Odisha,Nawarangpur,Food Poisoning,81,0,02-03-21,04-03-21
+Puducherry,Puducherry,Dengue,11,0,01-03-21,01-03-21
+Tamil Nadu,Perambalur,Acute Diarrheal Disease,14,0,06-03-21,06-03-21
+West Bengal,Hooghly,Acute Diarrheal Disease,29,0,06-03-21,08-03-21
+Assam,Barpeta,Acute Flaccid Paralysis,1,0,20-02-21,
+Assam,Barpeta,Acute Diarrheal Disease,1,0,21-02-21,
+Assam,Lakhimpur,Measles,1,0,28-02-21,
+Kerala,Ernakulam,Acute Diarrheal Disease,26,0,24-02-21,
+Kerala,Ernakulam,Shigella,3,0,24-02-21,
+Kerala,Kozhikode,Shigellosis,3,0,26-02-21,
+Kerala,Kannur,Hepatitis A,12,0,09-02-21,
+West Bengal,Hooghly,Cholera,51,0,26-02-21,

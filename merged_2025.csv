@@ -1,0 +1,351 @@
+Name of State/UT,Name of District,Disease/Illness,No. of Cases,No. of Deaths,Date of Start of Outbreak,Date of Reporting
+Assam,Lakhimpur,Acute Diarrheal Disease,16,0,03-01-2025,03-01-2025
+Chhattisgarh,Durg,Acute Diarrheal Disease,49,0,30-12-2024,31-12-2024
+Chhattisgarh,Mahasammud,Acute Diarrheal Disease,59,0,03-01-2025,05-01-2025
+Gujarat,Mahesana,Acute Diarrheal Disease,8,0,04-01-2025,04-01-2025
+Jammu and Kashmir,Pulwama,Hepatitis A,21,0,02-01-2025,02-01-2025
+Jharkhand,Latchar,Enteric fever,25,0,04-01-2025,04-01-2025
+Karnataka,Mysuru,Food Poisoning,36,0,03-01-2025,03-01-2025
+Kerala,Kamur,Food Poisoning,359,0,03-01-2025,05-01-2025
+Kerala,Kasaragod,Food Poisoning,40,0,31-12-2024,31-12-2024
+Kerala,Kollam,Food Poisoning,22,0,30-12-2024,30-12-2024
+Kerala,Palakkad,Food Poisoning,44,0,02-01-2025,03-01-2025
+Kerala,Palakkad,Mumps,36,0,01-01-2025,02-01-2025
+Madhya Pradesh,Narsinghpur,Acute Diarrheal Disease,19,0,04-01-2025,04-01-2025
+Madhya Pradesh,Schore,Measles,11,0,30-12-2024,30-12-2024
+Maharashtra,Amravati,Acute Diarrheal Disease,20,0,29-12-2024,30-12-2024
+Maharashtra,Raigad,Acute Diarrheal Disease,62,0,29-12-2024,30-12-2024
+Maharashtra,Satara,Chikungunya,17,0,01-01-2025,01-01-2025
+Odisha,Deogarh,Acute Diarrheal Disease,17,0,30-12-2024,30-12-2024
+Odisha,Rayagada,Malaria,24,0,31-12-2024,01-01-2025
+Odisha,Rayagada,Malaria,16,0,31-12-2024,01-01-2025
+Odisha,Rayagada,Malaria,13,0,31-12-2024,01-01-2025
+Odisha,Rayagada,Malaria,30,0,31-12-2024,01-01-2025
+Tamil Nadu,Erode,Diphtheria,1,1,29-12-2024,30-12-2024
+Tamil Nadu,Tiruchirappalli,Mumps,6,0,31-12-2024,02-01-2025
+Uttar Pradesh,Lailipur,Fever with rash,12,0,29-01-2024,30-12-2024
+Bihar,Jamui,Typhoid,37,0,03-12-2024,
+Uttar Pradesh,Balrampur,Acute Diarrheal Disease,31,0,25-08-2024,
+Uttar Pradesh,Balrampur,Acute Diarrheal Disease,21,0,21-08-2024,
+Andhra Pradesh,Anakapalli,Acute Diarrheal Disease,22,0,08-01-2025,09-01-2025
+Andhra Pradesh,Tirupati,Food Poisoning,23,0,04-01-2025,06-01-2025
+Assam,Nagaon,Diphtheria,1,1,11-01-2025,11-01-2025
+Assam,Nagaon,Measles,8,0,06-01-2025,07-01-2025
+Bihar,Jehanabad,Chickenpox,15,0,08-01-2025,08-01-2025
+Bihar,Purbi Champaran,Chickenpox,5,0,09-01-2025,10-01-2025
+Chhattisgarh,Baloda Bazar,Mumps,15,0,09-01-2025,09-01-2025
+Chhattisgarh,Kondagaon,Food Poisoning,45,0,10-01-2025,10-01-2025
+Haryana,Gurugram,Acute Diarrheal Disease,59,0,08-01-2025,09-01-2025
+Jammu and Kashmir,Baramulla,Hepatitis A,13,0,06-01-2025,07-01-2025
+Jammu and Kashmir,Ganderbal,Acute Hepatitis,16,0,10-01-2025,10-01-2025
+Jammu and Kashmir,Poonch,Acute Diarrheal Disease,16,0,08-01-2025,08-01-2025
+Jharkhand,Dumka,Chickenpox,7,0,09-01-2025,10-01-2025
+Jharkhand,Dumka,Chickenpox,12,0,08-01-2025,09-01-2025
+Jharkhand,West Singhbhum,Malaria (Plasmodium falciparum),15,0,11-01-2025,11-01-2025
+Karnataka,Shivamogga,Kyasanur Forest Disease,5,0,10-01-2025,10-01-2025
+Kerala,Kottayam,Mumps,6,0,08-01-2025,08-01-2025
+Kerala,Kozhikode,Hepatitis A,47,0,01-01-2025,07-01-2025
+Kerala,Malappuram,Hepatitis A,14,0,08-01-2025,08-01-2025
+Kerala,Palakkad,Acute Gastroenteritis (Norovirus),5,0,07-01-2025,09-01-2025
+Kerala,Pathanamthitta,Chickenpox,12,0,09-01-2025,10-01-2025
+Kerala,Thrissur,Mumps,9,0,03-01-2025,08-01-2025
+Kerala,Wayanad,Acute Gastroenteritis (Norovirus),29,0,06-01-2025,08-01-2025
+Madhya Pradesh,Ashoknagar,Acute Diarrheal Disease,90,0,10-01-2025,10-01-2025
+Maharashtra,Raigad,Leptospirosis,15,1,31-12-2024,06-01-2025
+Meghalaya,West Jaintia Hills,Malaria,6,0,08-01-2025,08-01-2025
+Odisha,Jajapur,Measles,11,0,10-01-2025,10-01-2025
+Tamil Nadu,Dindigul,Mumps,13,0,09-01-2025,10-01-2025
+Tamil Nadu,Pudukkottai,Chikungunya,20,0,06-01-2025,08-01-2025
+Tamil Nadu,Tenkasi,Chickenpox,13,0,08-01-2025,09-01-2025
+Tamil Nadu,Tiruvannamalai,Chickenpox,16,0,09-01-2025,10-01-2025
+Tamil Nadu,Tuticorin,Mumps,13,0,07-01-2025,09-01-2025
+West Bengal,Howrah,Acute Diarrheal Disease,57,0,03-01-2025,06-01-2025
+Arunachal Pradesh,Pakke Kessang,Human Rabies,1,1,25-12-2024,
+Madhya Pradesh,Chhatarpur,Measles,9,0,17-12-2024,
+Meghalaya,West Jaintia Hills,Scrub Typhus,15,0,08-12-2024,
+Sikkim,Gangtok,Jaundice,136,0,23-12-2024,
+Assam,Sonitpur,Dysentery,17,0,16-01-2025,18-01-2025
+Bihar,Jehanabad,Fever with Rash,8,0,10-01-2025,14-01-2025
+Bihar,Purbi Champaran,Fever with Rash,14,0,12-01-2025,18-01-2025
+Jammu and Kashmir,Kupwara,Acute Diarrheal Disease,8,0,19-01-2025,19-01-2025
+Jammu and Kashmir,Udhampur,Hepatitis E,8,0,14-01-2025,17-01-2025
+Karnataka,Davangere,Food Poisoning,29,0,13-01-2025,15-01-2025
+Karnataka,Hassan,Leptospirosis,1,1,13-01-2025,16-01-2025
+Kerala,Ernakulam,Hepatitis A,12,0,14-01-2025,14-01-2025
+Kerala,Kannur,Food Poisoning,86,0,15-01-2025,18-01-2025
+Kerala,Kannur,Mpox,1,0,11-01-2025,14-01-2025
+Kerala,Kottayam,Food Poisoning,25,0,15-01-2025,16-01-2025
+Kerala,Malappuram,Food Poisoning,30,0,10-01-2025,15-01-2025
+Kerala,Thrissur,Mpox,1,0,11-01-2025,16-01-2025
+Maharashtra,Amravati,Food Poisoning,133,0,12-01-2025,13-01-2025
+Maharashtra,Buldhana,Acute Diarrheal Disease,12,1,14-01-2025,14-01-2025
+Meghalaya,North Garo Hills,Chickenpox,11,0,17-01-2025,17-01-2025
+Odisha,Dhenkanal,Acute Diarrheal Disease,32,0,16-01-2025,18-01-2025
+Odisha,Koraput,Food Poisoning,22,0,17-01-2025,17-01-2025
+Tamil Nadu,Kallakurichi,Acute Diarrheal Disease,9,0,17-01-2025,17-01-2025
+Uttar Pradesh,Shravasti,Chickenpox,6,0,15-01-2025,15-01-2025
+West Bengal,24 Paraganas North,Food Poisoning,31,0,14-01-2025,16-01-2025
+West Bengal,Coochbehar,Food Poisoning,11,1,13-01-2025,13-01-2025
+Bihar,Bhagalpur,Paratyphoid,8,0,16-12-2024,
+Kerala,Ernakulam,Mumps,22,0,06-01-2025,
+Kerala,Pathanamthitta,Mpox,1,0,30-12-2024,
+Kerala,Thrissur,Chickenpox,21,0,07-01-2025,
+Madhya Pradesh,Bhopal,Chickenpox,19,0,02-01-2025,
+Rajasthan,Kota,Hepatitis A,15,0,17-12-2024,
+Uttar Pradesh,Shamli,Human Rabies,1,1,07-01-2025,
+Andhra Pradesh,Vizianagaram,Acute Diarrheal Disease,15,0,21-01-2025,22-01-2025
+Arunachal Pradesh,East Kameng,Human Rabies,1,1,18-01-2025,20-01-2025
+Assam,Bongaigaon,Acute Encephalitic Syndrome,1,1,20-01-2025,20-01-2025
+Assam,Hailakandi,Typhoid,74,0,20-12-2024,20-01-2025
+Assam,Tinsukia,Human Rabies,1,1,24-01-2025,24-01-2025
+Gujarat,Bharuch,Food Poisoning,224,0,19-01-2025,20-01-2025
+Haryana,Karnal,Typhoid,10,0,20-01-2025,20-01-2025
+Jharkhand,Chatra,Typhoid,7,0,22-12-2024,22-01-2025
+Jharkhand,Garhwa,Malaria,5,0,25-01-2025,25-01-2025
+Jharkhand,Giridih,Acute Diarrheal Disease,8,0,21-01-2025,21-01-2025
+Kerala,Ernakulam,Dengue,1,1,21-01-2025,21-01-2025
+Kerala,Ernakulam,Malaria,1,1,21-01-2025,21-01-2025
+Kerala,Ernakulam,Hepatitis A,12,0,18-01-2025,20-01-2025
+Kerala,Idukki,Mumps,20,0,20-01-2025,21-01-2025
+Kerala,Kannur,Food Poisoning,35,0,24
+Kerala,Kasaragod,Food Poisoning,417,0,25-01-2025,25-01-2025
+Kerala,Kollam,Food Poisoning,22,0,23-01-2025,24-01-2025
+Kerala,Kottayam,Hepatitis A,6,0,20-01-2025,22-01-2025
+Kerala,Malappuram,Food Poisoning,60,0,21-01-2025,23-01-2025
+Kerala,Palakkad,Acute Gastroenteritis,115,0,22-01-2025,22-01-2025
+Kerala,Pathanamthitta,Mumps,13,0,22-01-2025,22-01-2025
+Kerala,Thiruvananthapuram,Food Poisoning,113,0,20-01-2025,21-01-2025
+Kerala,Wayanad,Food Poisoning,48,0,20-01-2025,22-01-2025
+Kerala,Wayanad,Mumps,7,0,20-01-2025,21-01-2025
+Madhya Pradesh,Dhar,Chikungunya,11,0,22-01-2025,22-01-2025
+Madhya Pradesh,Dindori,Acute Diarrheal Disease,13,0,19-01-2025,20-01-2025
+Andhra Pradesh,Alluri Sitharama Raju,Fever with Rash,15,0,27/01/2025,28/01/2025
+Assam,Dibrugarh,Acute Diarrheal Diseases,19,0,01/02/2025,01/02/2025
+Assam,Golaghat,Food Poisoning,11,0,30/01/2025,30/01/2025
+Assam,Karimganj,Human Rabies,1,1,29/01/2025,29/01/2025
+Assam,Lakhimpur,Hepatitis A,11,0,30/01/2025,30/01/2025
+Bihar,Begusarai,Fever with Rash,13,0,27/01/2025,01/02/2025
+Bihar,Begusarai,Fever with Rash,14,0,27/01/2025,29/01/2025
+Bihar,Patna,Fever with Rash,8,0,30/01/2025,30/01/2025
+Chhattisgarh,Balod,Acute Diarrheal Disease,59,0,29/01/2025,30/01/2025
+Gujarat,Jamnagar,Crimean-Congo Hemorrhagic Fever,1,1,28/01/2025,28/01/2025
+Gujarat,Tapi,Measles,2,0,30/01/2025,30/01/2025
+Jammu and Kashmir,Anantnag,Hepatitis A,9,0,26/01/2025,28/01/2025
+Jammu and Kashmir,Kulgam,Jaundice,19,0,28/01/2025,29/01/2025
+Jharkhand,Godda,Chickenpox,7,0,25/01/2025,27/01/2025
+Jharkhand,Latehar,Food Poisoning,25,0,31/01/2025,31/01/2025
+Jharkhand,Lohardaga,Japanese Encephalitis,2,0,27/01/2025,27/01/2025
+Karnataka,Bagalkot,Chickenpox,15,0,28/01/2025,28/01/2025
+Karnataka,Bidar,Chikungunya,5,0,30/01/2025,31/01/2025
+Karnataka,Uttar Kannad,Acute Diarrheal Disease,8,0,27/01/2025,28/01/2025
+Kerala,Alappuzha,Food Poisoning,27,0,27/01/2025,28/01/2025
+Kerala,Ernakulam,Food Poisoning,23,0,26/01/2025,30/01/2025
+Kerala,Wayanad,Acute Diarrheal Diseases,31,0,28/01/2025,28/01/2025
+Madhya Pradesh,Burhanpur,Chickenpox,10,0,01/02/2025,01/02/2025
+Madhya Pradesh,East Nimar,Food Poisoning,98,0,26/01/2025,27/01/2025
+Madhya Pradesh,Khargone,Cholera,69,0,28/01/2025,28/01/2025
+Maharashtra,Pune,Food Poisoning,20,0,28/01/2025,29/01/2025
+Maharashtra,Sangli,Food Poisoning,34,0,28/01/2025,29/01/2025
+Manipur,Senapati,Food Poisoning,28,0,29/01/2025,29/01/2025
+Odisha,Anugul,Acute Diarrheal Disease,31,0,29/01/2025,29/01/2025
+Odisha,Boudh,Chickenpox,18,0,31/01/2025,31/01/2025
+Odisha,Kendujhar,Food Poisoning,26,0,29/01/2025,30/01/2025
+Odisha,Nuapada,Food Poisoning,38,0,29/01/2025,29/01/2025
+Tamil Nadu,Coimbatore,Mumps,12,0,31/01/2025,01/02/2025
+Tamil Nadu,Nagapattinam,Leptospirosis,2,0,27/01/2025,27/01/2025
+Tamil Nadu,Namakkal,Mumps,15,0,29/01/2025,30/01/2025
+Tamil Nadu,Sivaganga,Mumps,10,0,28/01/2025,29/01/2025
+Tamil Nadu,Thanjavur,Chickenpox,16,0,28/01/2025,29/01/2025
+Tamil Nadu,Tirupathur,Mumps,29,0,29/01/2025,29/01/2025
+Tamil Nadu,Tuticorin,Hepatitis A,17,0,28/01/2025,29/01/2025
+Tamil Nadu,Villupuram,Mumps,8,0,27/01/2025,29/01/2025
+Uttar Pradesh,Farrukhabad,Food Poisoning,30,0,01/02/2025,01/02/2025
+West Bengal,Hooghly,Cholera,13,0,02/02/2025,02/02/2025
+Bihar,Samastipur,Fever with Rash,22,0,16/01/2025,
+Jharkhand,Latehar,Paratyphoid,14,0,27/12/2024,
+Odisha,Ganjam,Measles,54,0,07/01/2025,
+Odisha,Ganjam,Acute Diarrheal Disease,15,0,21/01/2025,
+Punjab,Patiala,Hepatitis A,27,0,01/01/2025,
+Assam,Lakhimpur,Acute Diarrheal Disease,9,0,06-02-2025,06-02-2025
+Bihar,Patna,Measles,5,0,07-02-2025,07-02-2025
+Gujarat,Tapi,Food Poisoning,25,0,06-02-2025,06-02-2025
+Jammu and Kashmir,Doda,Human Rabies,1,1,05-02-2025,06-02-2025
+Jammu and Kashmir,Kulgam,Hepatitis A,11,0,05-02-2025,05-02-2025
+Jharkhand,Deoghar,Malaria,12,0,31-01-2025,07-02-2025
+Jharkhand,Dhanbad,Chickenpox,16,0,06-02-2025,07-02-2025
+Jharkhand,Dumka,Measles,9,0,06-02-2025,07-02-2025
+Jharkhand,Dumka,Chickenpox,10,0,05-02-2025,06-02-2025
+Jharkhand,Giridih,Chickenpox,14,0,04-02-2025,04-02-2025
+Jharkhand,Koderma,Typhoid,8,0,06-02-2025,08-02-2025
+Jharkhand,Koderma,Food Poisoning,18,0,07-02-2025,07-02-2025
+Karnataka,Bengaluru Urban,Acute Diarrheal Disease,32,0,05-02-2025,05-02-2025
+Kerala,Kannur,Food Poisoning,77,0,05-02-2025,09-02-2025
+Kerala,Kannur,Food Poisoning,58,0,03-02-2025,09-02-2025
+Kerala,Kannur,Acute Gastroenteritis,1529,0,30-01-2025,03-02-2025
+Kerala,Kasaragod,Food Poisoning,55,0,04-02-2025,04-02-2025
+Kerala,Kottayam,Hepatitis A,32,0,06-02-2025,07-02-2025
+Kerala,Kottayam,Chickenpox,12,0,31-01-2025,06-02-2025
+Kerala,Kozhikode,Food Poisoning,76,0,06-02-2025,06-02-2025
+Kerala,Malappuram,Hepatitis A,14,0,06-02-2025,06-02-2025
+Kerala,Malappuram,Hepatitis A,20,0,06-02-2025,06-02-2025
+Kerala,Thrissur,Mumps,30,0,03-02-2025,04-02-2025
+Kerala,Wayanad,Acute Diarrheal Disease,8,0,02-02-2025,04-02-2025
+Madhya Pradesh,Ashoknagar,Measles,11,0,05-02-2025,05-02-2025
+Madhya Pradesh,Chhatarpur,Measles,9,0,08-02-2025,08-02-2025
+Madhya Pradesh,Guna,Measles,16,0,03-02-2025,03-02-2025
+Andhra Pradesh,Alluri Sitharama Raju,Acute Diarrheal Disease,14,0,08-02-2025,10-02-2025
+Assam,Dima Hasao,Chickenpox,19,0,14-02-2025,16-02-2025
+Bihar,Patna,Chickenpox,5,0,08-02-2025,10-02-2025
+Bihar,Saran,Fever with Rash,7,0,08-02-2025,15-02-2025
+Chhattisgarh,Durg,Acute Diarrheal Disease,34,0,12-02-2025,13-02-2025
+Chhattisgarh,Kondagaon,Acute Diarrheal Disease,26,0,12-02-2025,14-02-2025
+Gujarat,Ahmedabad,Acute Diarrheal Disease,11,0,16-02-2025,16-02-2025
+Gujarat,Devbhumi Dwarka,Food Poisoning,61,0,12-02-2025,12-02-2025
+Gujarat,Navsari,Food Poisoning,107,0,15-02-2025,15-02-2025
+Jharkhand,Deoghar,Fever with Rash,3,0,07-02-2025,15-02-2025
+Jharkhand,Deoghar,Fever with Rash,3,0,12-02-2025,14-02-2025
+Jharkhand,Giridih,Chickenpox,4,0,15-02-2025,15-02-2025
+Jharkhand,Giridih,Chickenpox,8,0,11-02-2025,11-02-2025
+Jharkhand,Jamtara,Chickenpox,5,0,11-02-2025,11-02-2025
+Jharkhand,Latehar,Scrub Typhus,38,0,15-02-2025,15-02-2025
+Karnataka,Hassan,Food Poisoning,12,0,10-02-2025,11-02-2025
+Karnataka,Uttar Kannad,Acute Diarrheal Disease,33,0,12-02-2025,12-02-2025
+Kerala,Ernakulam,Hepatitis A,15,0,11-02-2025,15-02-2025
+Kerala,Ernakulam,Hepatitis A,19,0,15-02-2025,15-02-2025
+Kerala,Ernakulam,Mumps,5,0,08-02-2025,13-02-2025
+Kerala,Ernakulam,Dengue,12,0,10-02-2025,10-02-2025
+Kerala,Kozhikode,Jaundice,94,0,13-02-2025,13-02-2025
+Madhya Pradesh,Chhatarpur,Rubella,1,1,13-02-2025,13-02-2025
+Madhya Pradesh,Dindori,Jaundice,5,0,13-02-2025,13-02-2025
+Madhya Pradesh,Shahdol,Hepatitis A,3,0,10-02-2025,11-02-2025
+Maharashtra,Akola,Typhoid,30,0,14-02-2025,14-02-2025
+Maharashtra,Amravati,Fever,10,1,12-02-2025,14-02-2025
+Maharashtra,Aurangabad,Fever,18,2,08-02-2025,10-02-2025
+Maharashtra,Bhandara,Acute Diarrheal Disease,21,0,08-02-2025,10-02-2025
+Maharashtra,Latur,Measles,27,0,10-02-2025,10-02-2025
+Maharashtra,Nagpur,Acute Diarrheal Disease,51,0,07-02-2025,10-02-2025
+Maharashtra,Nanded,Food Poisoning,77,0,08-02-2025,10-02-2025
+Maharashtra,Wardha,Food Poisoning,29,0,10-02-2025,11-02-2025
+Meghalaya,East Khasi Hills,Acute Diarrheal Disease,11,0,13-02-2025,14-02-2025
+Odisha,Anugul,Food Poisoning,96,0,10-02-2025,10-02-2025
+Odisha,Ganjam,Measles,21,0,11-02-2025,11-02-2025
+Odisha,Koraput,Acute Diarrheal Disease,34,0,10-02-2025,11-02-2025
+Rajasthan,Jalore,Acute Diarrheal Disease,22,0,08-02-2025,12-02-2025
+Tamil Nadu,Dindigul,Mumps,6,0,13-02-2025,15-02-2025
+Tamil Nadu,Sivaganga,Hepatitis A,5,0,10-02-2025,11-02-2025
+Tamil Nadu,Villupuram,Chickenpox,11,0,11-02-2025,14-02-2025
+Dadra And Nagar Haveli,Dadra & Nagar Haveli,Acute Diarrheal Disease,41,0,12-02-2025,13-02-2025
+Uttar Pradesh,Ambedkar Nagar,Chickenpox,22,0,10-02-2025,11-02-2025
+Uttar Pradesh,Moradabad,Food Poisoning,39,0,11-02-2025,11-02-2025
+Uttar Pradesh,Muzaffarnagar,Food Poisoning,29,0,10-02-2025,13-02-2025
+West Bengal,Medinipur West,Food Poisoning,21,0,11-02-2025,12-02-2025
+Andhra Pradesh,Parvathipuram Manyam,Acute Diarrheal Disease,27,0,21-01-2025,
+Kerala,Thrissur,Chickenpox,22,0,06-02-2025,
+Kerala,Wayanad,Food Poisoning,31,0,14-01-2025,
+Odisha,Nabarangpur,Food Poisoning,16,0,14-01-2025,
+Uttar Pradesh,Gautam Buddha Nagar,Acute Diarrheal Disease,334,0,04-02-2025,
+Andhra Pradesh,Nandamuri Taraka Rama Rao,Food Poisoning,9,0,20-02-2025,22-02-2025
+Andhra Pradesh,Visakhapatanam,Food Poisoning,8,0,20-02-2025,22-02-2025
+Assam,Kamrup Metro,Typhoid,5,0,20-02-2025,20-02-2025
+Assam,Nagaon,Food Poisoning,16,0,18-02-2025,18-02-2025
+Assam,Nalbari,Chickenpox,11,0,21-02-2025,23-02-2025
+Assam,Nalbari,Chickenpox,5,0,14-02-2025,17-02-2025
+Assam,Sonitpur,Acute Diarrheal Disease,16,0,20-02-2025,20-02-2025
+Bihar,Begusarai,Fever with Rash,14,0,18-02-2025,20-02-2025
+Bihar,Begusarai,Fever with Rash,12,0,18-02-2025,18-02-2025
+Bihar,Madhepura,Fever with Rash,14,0,18-02-2025,18-02-2025
+Bihar,Pashchim Champaran,Fever with Rash,10,0,17-02-2025,21-02-2025
+Gujarat,Anand,Hepatitis A,57,0,18-02-2025,19-02-2025
+Gujarat,Gandhinagar,Food Poisoning,29,0,11-02-2025,17-02-2025
+Gujarat,Jamnagar,Measles,4,0,21-02-2025,21-02-2025
+Jharkhand,Dumka,Chickenpox,12,0,17-02-2025,18-02-2025
+Jharkhand,Hazaribagh,Chickenpox,8,0,18-02-2025,18-02-2025
+Karnataka,Bagalkot,Chickenpox,7,0,18-02-2025,19-02-2025
+Karnataka,Chikballapur,Food Poisoning,17,0,22-02-2025,23-02-2025
+Kerala,Alappuzha,West Nile Fever,2,0,13-02-2025,21-02-2025
+Kerala,Ernakulam,Hepatitis A,13,0,21-02-2025,21-02-2025
+Kerala,Ernakulam,Hepatitis A,14,1,20-02-2025,21-02-2025
+Kerala,Ernakulam,Chickenpox,27,0,20-02-2025,20-02-2025
+Kerala,Idukki,Mumps,9,0,22-02-2025,22-02-2025
+Kerala,Idukki,Mumps,20,0,21-02-2025,22-02-2025
+Kerala,Kannur,Hepatitis A,27,0,21-02-2025,22-02-2025
+Kerala,Kannur,Mpox,1,0,15-02-2025,19-02-2025
+Kerala,Kottayam,Mumps,13,0,17-02-2025,17-02-2025
+Kerala,Malappuram,Acute Gastroenteritis,51,0,18-02-2025,22-02-2025
+Kerala,Malappuram,Hepatitis A,18,0,07-02-2025,18-02-2025
+Kerala,Palakkad,Hepatitis A,40,0,19-02-2025,20-02-2025
+Kerala,Thiruvananthapuram,Mpox,1,0,18-02-2025,19-02-2025
+Kerala,Thrissur,Mpox,1,0,18-02-2025,19-02-2025
+Kerala,Wayanad,Acute Diarrheal Disease,8,0,21-02-2025,21-02-2025
+Kerala,Wayanad,Hepatitis A,12,0,15-02-2025,19-02-2025
+Kerala,Wayanad,Mumps,24,0,15-02-2025,19-02-2025
+Kerala,Wayanad,Food Poisoning,9,0,15-02-2025,19-02-2025
+Madhya Pradesh,Dhar,Typhoid,59,0,19-02-2025,19-02-2025
+Madhya Pradesh,Raisen,Acute Diarrheal Disease,10,0,20-02-2025,21-02-2025
+Maharashtra,Kolhapur,Hepatitis A,25,0,19-02-2025,19-02-2025
+Maharashtra,Sangli,Acute Hepatitis A,12,0,18-02-2025,20-02-2025
+Meghalaya,South West Garo Hills,Chickenpox,10,0,18-02-2025,18-02-2025
+Meghalaya,West Garo Hills,Chickenpox,11,0,20-02-2025,21-02-2025
+Odisha,Cuttack,Food Poisoning,86,0,17-02-2025,17-02-2025
+Odisha,Jharsuguda,Chickenpox,26,0,19-02-2025,19-02-2025
+Odisha,Malkangiri,Food Poisoning,29,0,17-02-2025,17-02-2025
+Odisha,Sambalpur,Acute Diarrheal Disease,13,0,18-02-2025,18-02-2025
+Odisha,Sundargarh,Food Poisoning,35,0,18-02-2025,18-02-2025
+Tamil Nadu,Ariyalur,Acute Diarrheal Disease,11,0,19-02-2025,21-02-2025
+Tamil Nadu,Kallakurichi,Chickenpox,16,0,19-02-2025,19-02-2025
+Tamil Nadu,Karur,Chikungunya,20,0,15-02-2025,17-02-2025
+Tamil Nadu,Krishnagiri,Acute Diarrheal Disease,28,0,17-02-2025,19-02-2025
+Tamil Nadu,Pudukkottai,Chickenpox,7,0,20-02-2025,20-02-2025
+Tamil Nadu,Salem,Chickenpox,17,0,17-02-2025,17-02-2025
+Tamil Nadu,Thiruvallur,Chickenpox,37,0,22-02-2025,22-02-2025
+Tamil Nadu,Virudhunagar,Acute Diarrheal Disease,13,0,15-02-2025,17-02-2025
+Andhra Pradesh,Konaseema,Mumps,30,0,24-02-2025,01-03-2025  
+Assam,Chirang,Rubella,19,0,28-02-2025,01-03-2025  
+Assam,Darrang,Acute Diarrheal Disease,28,0,01-03-2025,01-03-2025  
+Assam,Jorhat,Fever,86,0,27-02-2025,27-02-2025
+Assam,Majuli,Acute Diarrheal Disease,26,0,25-02-2025,26-02-2025  
+Assam,Udalguri,Fever,35,0,27-02-2025,28-02-2025  
+Bihar,Begusarai,Fever with Rash,77,0,25-02-2025,27-02-2025   
+Bihar,Purbi Champaran,Measles,16,0,27-02-2025,01-03-2025  
+Chhattisgarh,Dhamtari,Food Poisoning,113,0,25-02-2025,27-02-2025  
+Chhattisgarh,Kabirdham,Acute Diarrheal Disease,23,0,23-02-2025,24-02-2025  
+Goa,South Goa,Acute Diarrheal Disease,13,0,24-02-2025,25-02-2025  
+Gujarat,Amreli,Acute Diarrheal Disease,53,0,24-02-2025,27-02-2025  
+Jammu and Kashmir,Badgam,Hepatitis A&E,10,0,27-02-2025,27-02-2025  
+Jammu and Kashmir,Baramulla,Hepatitis A,22,0,24-02-2025,25-02-2025  
+Jharkhand,East Singhbhum,Chickenpox,17,0,27-02-2025,27-02-2025  
+Jharkhand,Hazaribagh,Chickenpox,9,0,27-02-2025,28-02-2025  
+Jharkhand,Palamu,Scrub Typhus,5,0,01-03-2025,01-03-2025  
+Karnataka,Belagavi,Food Poisoning,62,0,27-02-2025,27-02-2025  
+Karnataka,Kalaburagi,Food Poisoning,21,0,23-01-2025,24-02-2025  
+Karnataka,Bangalore,Food Poisoning,91,0,23-01-2025,24-02-2025  
+Karnataka,Uttar Kannad,Acute Diarrheal Disease,30,0,25-02-2025,25-02-2025  
+Karnataka,Vijayapura,Chikungunya,5,0,21-02-2025,27-02-2025  
+Kerala,Ernakulam,Hepatitis A,8,0,26-02-2025,28-02-2025  
+Kerala,Kasaragod,Mpox,1,0,27-02-2025,01-03-2025  
+Kerala,Kollam,Hepatitis A,34,0,22-02-2025,24-02-2025  
+Kerala,Kozhikode,Mpox,1,0,28-02-2025,28-02-2025  
+Kerala,Malappuram,Chickenpox,11,0,28-02-2025,01-03-2025  
+Kerala,Malappuram,Hepatitis A,33,0,24-02-2025,27-02-2025  
+Kerala,Palakkad,Mumps,38,0,26-02-2025,26-02-2025  
+Kerala,Thiruvananthapuram,Food Poisoning,156,0,01-03-2025,01-03-2025  
+Kerala,Thiruvananthapuram,Acute Diarrheal Disease,31,1,28-02-2025,28-02-2025  
+Kerala,Wayanad,Acute Diarrheal Disease,104,0,28-02-2025,01-03-2025  
+Madhya Pradesh,Ratlam,Food Poisoning,18,0,21-02-2025,25-02-2025  
+Maharashtra,Jalgaon,Jaundice,12,0,26-02-2025,01-03-2025  
+Maharashtra,Kolhapur,Food Poisoning,24,0,01-03-2025,01-03-2025  
+Maharashtra,Palghar,Acute Diarrheal Disease,23,0,01-03-2025,02-03-2025  
+Maharashtra,Sangli,Hepatitis A,34,0,25-02-2025,25-02-2025  
+Maharashtra,Sangli,Food Poisoning,67,0,24-02-2025,25-02-2025  
+Meghalaya,North Garo Hills,Typhoid,39,0,26-02-2025,26-02-2025  
+Meghalaya,South Garo Hills,Acute Diarrheal Disease,9,0,27-02-2025,27-02-2025  
+Nagaland,Dimapur,Human Rabies,5,1,27-02-2025,28-02-2025   
+Tamil Nadu,Namakkal,Mumps,9,0,24-02-2025,24-02-2025  
+Tamil Nadu,Thanjavur,Chickenpox,20,0,24-02-2025,25-02-2025  
+Uttar Pradesh,Lalitpur,Measles,18,0,24-02-2025,01-03-2025  
+West Bengal,Alipurduar,Chickenpox,15,0,28-02-2025,28-02-2025  
+West Bengal,Hooghly,Cholera,11,0,02-03-2025,02-03-2025  
+West Bengal,Nadia,Food Poisoning,74,0,25-02-2025,25-02-2025  
+Chhattisgarh,Narayanpur,Measles and Rubella,13,0,28-01-2025,  
+Madhya Pradesh,Betul,Cholera,69,0,28-01-2025,  
+Madhya Pradesh,Chhatarpur,Measles,14,0,06-02-2025,
